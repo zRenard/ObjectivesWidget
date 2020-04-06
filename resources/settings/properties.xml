@@ -1,0 +1,8 @@
+<properties>
+    <property id="BackgroundColor" type="number">0xFFFFFF</property>
+    <property id="ForegroundColor" type="number">0x000000</property>
+
+	<property id="MainObjective-Name" type="string">IronMan France Nice</property>
+	<property id="MainObjective-Date" type="number">1311194</property>
+	
+</properties>

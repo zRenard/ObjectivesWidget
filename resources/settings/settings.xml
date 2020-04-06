@@ -1,0 +1,10 @@
+<settings>
+    <setting propertyKey="@Properties.MainObjective-Name" title="@Strings.MainObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.MainObjective-Date" title="@Strings.MainObjectiveDateTitle">
+        <settingConfig type="date" />
+    </setting>
+
+</settings>

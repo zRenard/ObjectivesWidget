@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="7" lineNum="23" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="7" lineNum="24" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="8" lineNum="28" pc="268435552" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="8" lineNum="29" pc="268435556" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="10" pc="268437279" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="11" pc="268437283" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="15" pc="268437302" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="22" pc="268437307" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="26" pc="268437312" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="27" pc="268437316" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="28" pc="268437329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="29" pc="268437342" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="30" pc="268437378" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="31" pc="268437390" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="32" pc="268437426" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="33" pc="268437443" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="34" pc="268437552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="35" pc="268437604" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="36" pc="268437635" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="37" pc="268437692" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="38" pc="268437723" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="47" pc="268437817" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="48" pc="268437832" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="49" pc="268437849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="50" pc="268437898" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="51" pc="268437947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="52" pc="268437962" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="53" pc="268438005" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="54" pc="268438059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="55" pc="268438113" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="56" pc="268438143" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="57" pc="268438173" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="58" pc="268438200" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="59" pc="268438210" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="60" pc="268438220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="61" pc="268438220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="62" pc="268438220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="63" pc="268438247" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="64" pc="268438274" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="65" pc="268438301" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="67" pc="268438328" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="68" pc="268438395" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="69" pc="268438449" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="70" pc="268438485" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="72" pc="268438573" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="73" pc="268438577" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="74" pc="268438588" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="75" pc="268438624" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="76" pc="268438718" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="77" pc="268438729" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="78" pc="268438765" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="79" pc="268438856" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="80" pc="268438867" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="81" pc="268438903" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="82" pc="268438988" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="84" pc="268439069" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="85" pc="268439086" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="91" pc="268439107" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="94" pc="268439112" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="95" pc="268439116" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="96" pc="268439130" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="98" pc="268439156" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="99" pc="268439156" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="100" pc="268439156" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="101" pc="268439163" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="103" pc="268439170" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="104" pc="268439205" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="105" pc="268439235" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="106" pc="268439265" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="107" pc="268439295" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="108" pc="268439325" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="17" lineNum="12" pc="268435594" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="17" lineNum="13" pc="268435598" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="18" lineNum="16" pc="268435617" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="19" lineNum="19" pc="268435622" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="19" lineNum="20" pc="268435626" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="20" lineNum="23" pc="268435643" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="21" lineNum="26" pc="268435648" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="29" pc="268435653" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="30" pc="268435657" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="31" pc="268435670" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="32" pc="268435683" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="33" pc="268435735" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="34" pc="268435766" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="35" pc="268435823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="36" pc="268435854" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="45" pc="268435948" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="46" pc="268435963" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="47" pc="268435980" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="48" pc="268436016" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="49" pc="268436028" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="51" pc="268436064" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="52" pc="268436071" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="53" pc="268436084" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="54" pc="268436111" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="55" pc="268436160" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="56" pc="268436209" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="57" pc="268436224" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="58" pc="268436267" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="59" pc="268436321" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="60" pc="268436375" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="61" pc="268436402" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="63" pc="268436429" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="64" pc="268436465" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="65" pc="268436505" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="66" pc="268436541" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="67" pc="268436559" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="69" pc="268436628" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="70" pc="268436664" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="71" pc="268436704" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="72" pc="268436779" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="73" pc="268436790" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="74" pc="268436826" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="75" pc="268436905" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="76" pc="268436916" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="77" pc="268436952" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="78" pc="268437043" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="79" pc="268437054" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="80" pc="268437090" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="82" pc="268437172" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="22" lineNum="83" pc="268437189" symbol="onUpdate"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="16" symbol="MainObjectiveDateTitle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="19" method="true" symbol="drawTicks"/>
+        <entry id="11" object="true" symbol="ObjectivesGlanceView"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="18" symbol="AppName"/>
+        <entry id="9" object="true" symbol="ObjectivesWidgetApp"/>
+        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry id="8391457" method="true" symbol="getGlanceView"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="10" object="true" symbol="ObjectivesWidgetView"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="17" symbol="MainObjectiveNameTitle"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="12" method="true" symbol="timerCallback"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268437307" name="dc" stackId="1" startPc="268437302"/>
+        <entry endPc="268439106" name="eventDate" stackId="7" startPc="268437316"/>
+        <entry endPc="268439106" name="sY" stackId="23" startPc="268437316"/>
+        <entry endPc="268439106" name="sX" stackId="22" startPc="268437316"/>
+        <entry endPc="268439106" name="dayOfYearEvent" stackId="15" startPc="268437316"/>
+        <entry endPc="268439106" name="innerRad" stackId="21" startPc="268437316"/>
+        <entry endPc="268439106" name="firstDayOfYear" stackId="11" startPc="268437316"/>
+        <entry endPc="268439106" name="dayOfYearToday" stackId="16" startPc="268437316"/>
+        <entry endPc="268439106" name="eY" stackId="25" startPc="268437316"/>
+        <entry endPc="268439106" name="nbDays" stackId="14" startPc="268437316"/>
+        <entry endPc="268439106" name="eX" stackId="24" startPc="268437316"/>
+        <entry endPc="268439106" name="arcP" stackId="17" startPc="268437316"/>
+        <entry endPc="268439106" name="duration1" stackId="9" startPc="268437316"/>
+        <entry endPc="268439106" name="dateDiff" stackId="10" startPc="268437316"/>
+        <entry endPc="268439106" name="height" stackId="3" startPc="268437316"/>
+        <entry endPc="268439106" name="outerRad" stackId="20" startPc="268437316"/>
+        <entry endPc="268439106" name="width" stackId="2" startPc="268437316"/>
+        <entry endPc="268439106" name="angleE" stackId="19" startPc="268437316"/>
+        <entry endPc="268439106" name="durationYear" stackId="13" startPc="268437316"/>
+        <entry endPc="268439106" name="arcE" stackId="18" startPc="268437316"/>
+        <entry endPc="268439106" name="dateDiffString" stackId="26" startPc="268437316"/>
+        <entry endPc="268439106" name="todayM" stackId="4" startPc="268437316"/>
+        <entry endPc="268439106" name="today" stackId="5" startPc="268437316"/>
+        <entry endPc="268439106" name="eventM" stackId="6" startPc="268437316"/>
+        <entry endPc="268439106" name="dateString" stackId="8" startPc="268437316"/>
+        <entry endPc="268439106" name="lastDayOfYear" stackId="12" startPc="268437316"/>
+        <entry endPc="268439107" name="dc" stackId="1" startPc="268437312"/>
+        <entry endPc="268439372" name="i" stackId="14" startPc="268439205"/>
+        <entry endPc="268439372" name="eY" stackId="11" startPc="268439116"/>
+        <entry endPc="268439372" name="eX" stackId="10" startPc="268439116"/>
+        <entry endPc="268439372" name="innerRad" stackId="13" startPc="268439116"/>
+        <entry endPc="268439372" name="outerRad" stackId="12" startPc="268439116"/>
+        <entry endPc="268439372" name="sY" stackId="9" startPc="268439116"/>
+        <entry endPc="268439372" name="sX" stackId="8" startPc="268439116"/>
+        <entry endPc="268439373" name="dc" stackId="1" startPc="268439112"/>
+        <entry endPc="268439373" name="color" stackId="2" startPc="268439112"/>
+        <entry endPc="268439373" name="out" stackId="4" startPc="268439112"/>
+        <entry endPc="268439373" name="size" stackId="3" startPc="268439112"/>
+        <entry endPc="268439373" name="innerOffset" stackId="5" startPc="268439112"/>
+        <entry endPc="268439373" name="offset" stackId="7" startPc="268439112"/>
+        <entry endPc="268439373" name="angle" stackId="6" startPc="268439112"/>
+        <entry endPc="268435653" name="dc" stackId="1" startPc="268435648"/>
+        <entry endPc="268436628" name="i" stackId="22" startPc="268436559"/>
+        <entry endPc="268437239" name="eventDate" stackId="7" startPc="268435657"/>
+        <entry endPc="268437239" name="dayOfYearEvent" stackId="18" startPc="268435657"/>
+        <entry endPc="268437239" name="barP" stackId="21" startPc="268435657"/>
+        <entry endPc="268437239" name="firstDayOfYear" stackId="14" startPc="268435657"/>
+        <entry endPc="268437239" name="dayOfYearToday" stackId="19" startPc="268435657"/>
+        <entry endPc="268437239" name="tickEvent" stackId="20" startPc="268435657"/>
+        <entry endPc="268437239" name="nbDays" stackId="17" startPc="268435657"/>
+        <entry endPc="268437239" name="duration1" stackId="9" startPc="268435657"/>
+        <entry endPc="268437239" name="baroffset" stackId="11" startPc="268435657"/>
+        <entry endPc="268437239" name="dateDiff" stackId="10" startPc="268435657"/>
+        <entry endPc="268437239" name="height" stackId="3" startPc="268435657"/>
+        <entry endPc="268437239" name="width" stackId="2" startPc="268435657"/>
+        <entry endPc="268437239" name="durationYear" stackId="16" startPc="268435657"/>
+        <entry endPc="268437239" name="tick" stackId="13" startPc="268435657"/>
+        <entry endPc="268437239" name="bar" stackId="12" startPc="268435657"/>
+        <entry endPc="268437239" name="todayM" stackId="4" startPc="268435657"/>
+        <entry endPc="268437239" name="today" stackId="5" startPc="268435657"/>
+        <entry endPc="268437239" name="eventM" stackId="6" startPc="268435657"/>
+        <entry endPc="268437239" name="dateString" stackId="8" startPc="268435657"/>
+        <entry endPc="268437239" name="lastDayOfYear" stackId="15" startPc="268435657"/>
+        <entry endPc="268437240" name="dc" stackId="1" startPc="268435653"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="ObjectivesWidgetApp" type="class"/>
+        <dataEntry offset="245" parentId="globals" symbolId="ObjectivesGlanceView" type="class"/>
+        <dataEntry offset="751" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="830" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="869" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="900" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="931" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="962" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="993" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1048" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectivesWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ObjectivesWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ObjectivesWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ObjectivesWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="ObjectivesWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGlanceView" parent="ObjectivesWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectivesWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ObjectivesWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ObjectivesWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ObjectivesWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ObjectivesWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicks" parent="ObjectivesWidgetView">
+            <param id="dc"/>
+            <param id="color"/>
+            <param id="size"/>
+            <param id="out"/>
+            <param id="innerOffset"/>
+            <param id="angle"/>
+            <param id="offset"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectivesGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ObjectivesGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="ObjectivesGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ObjectivesGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ObjectivesGlanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ObjectivesGlanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
