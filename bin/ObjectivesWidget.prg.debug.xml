@@ -138,13 +138,13 @@
         <entry field="true" id="16" symbol="MainObjectiveDateTitle"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="19" method="true" symbol="drawTicks"/>
+        <entry id="20" method="true" symbol="drawTicks"/>
         <entry id="11" object="true" symbol="ObjectivesGlanceView"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="18" symbol="AppName"/>
+        <entry field="true" id="19" symbol="AppName"/>
         <entry id="9" object="true" symbol="ObjectivesWidgetApp"/>
         <entry field="true" id="15" symbol="LauncherIcon"/>
         <entry id="8391457" method="true" symbol="getGlanceView"/>
@@ -157,6 +157,7 @@
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="10" object="true" symbol="ObjectivesWidgetView"/>
         <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="18" symbol="MainObjectiveNameTitleError"/>
         <entry field="true" id="17" symbol="MainObjectiveNameTitle"/>
         <entry field="true" id="8388938" symbol="month"/>
         <entry id="13" module="true" symbol="Layouts"/>
@@ -247,7 +248,7 @@
         <dataEntry offset="931" parentId="Rez" symbolId="Layouts" type="module"/>
         <dataEntry offset="962" parentId="Rez" symbolId="JsonData" type="module"/>
         <dataEntry offset="993" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="1048" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
+        <dataEntry offset="1056" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="ObjectivesWidgetApp">

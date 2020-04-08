@@ -70,16 +70,16 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
     	dc.drawRoundedRectangle(baroffset,(height/2)-5, bar, 10, 3);
     	dc.drawText(0,0, Graphics.FONT_SYSTEM_XTINY, Application.getApp().getProperty("MainObjective-Name"), Graphics.TEXT_JUSTIFY_LEFT);
     	if (dateDiff==0) {
-    		dc.setColor(Graphics.COLOR_ORANGE,Graphics.COLOR_TRANSPARENT);
+    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, "Race Day", Graphics.TEXT_JUSTIFY_LEFT);
     	} else if (dateDiff>0) {
-    		dc.setColor(Graphics.COLOR_RED ,Graphics.COLOR_TRANSPARENT);
+    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - " + dateDiff +"d", Graphics.TEXT_JUSTIFY_LEFT);
     	} else if (dateDiff<0) {
     		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - Done", Graphics.TEXT_JUSTIFY_LEFT);    		
     	}
-    	dc.setPenWidth(2);
+    	dc.setPenWidth(3);
 		dc.drawLine(baroffset+tickEvent, (height/2)-5, baroffset+tickEvent, (height/2)+5);    	
     } 
 }

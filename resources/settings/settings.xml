@@ -1,10 +1,8 @@
 <settings>
     <setting propertyKey="@Properties.MainObjective-Name" title="@Strings.MainObjectiveNameTitle">
-        <settingConfig type="alphaNumeric" />
+        <settingConfig type="alphaNumeric" maxLength="20" errorMessage="@Strings.MainObjectiveNameTitleError"/>
     </setting>
-
     <setting propertyKey="@Properties.MainObjective-Date" title="@Strings.MainObjectiveDateTitle">
         <settingConfig type="date" />
     </setting>
-
 </settings>

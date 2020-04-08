@@ -65,23 +65,23 @@ class ObjectivesWidgetView extends WatchUi.View {
         eX =  outerRad + outerRad * Math.cos(angleE);
 
         dc.drawArc(width/2, height/2, (width/2)-5,Graphics.ARC_CLOCKWISE, 90,90-arcP);
-    	drawTicks(dc,Graphics.COLOR_LT_GRAY,2,(width / 2),10,30.0,0);
+    	drawTicks(dc,Graphics.COLOR_LT_GRAY,3,(width / 2),10,30.0,0);
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
     	dc.drawText(width/2,(height/4)*3-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY ,dateString, Graphics.TEXT_JUSTIFY_CENTER);
 
     	var dateDiffString=dateDiff;
     	if (dateDiff==0) {
-    		dc.setColor(Graphics.COLOR_ORANGE,Graphics.COLOR_TRANSPARENT);
+    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);    		
     	} else if (dateDiff>0) {
-    		dc.setColor(Graphics.COLOR_RED ,Graphics.COLOR_TRANSPARENT);
+    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT)/2, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT ,dateDiff, Graphics.TEXT_JUSTIFY_CENTER);    	
     	} else if (dateDiff<0) {
     		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
     		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE), Graphics.FONT_SYSTEM_LARGE ,"Done", Graphics.TEXT_JUSTIFY_CENTER);    		
     		dc.drawText(width/2,(height/2)+2, Graphics.FONT_SYSTEM_LARGE ,"since "+(-dateDiff)+ " day(s)", Graphics.TEXT_JUSTIFY_CENTER);    		
     	}
-    	dc.setPenWidth(4);
+    	dc.setPenWidth(6);
         dc.drawLine(sX, sY, eX, eY);
     }
 
