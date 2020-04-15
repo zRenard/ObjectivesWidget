@@ -1,8 +1,14 @@
 <properties>
-    <property id="BackgroundColor" type="number">0xFFFFFF</property>
-    <property id="ForegroundColor" type="number">0x000000</property>
+	<property id="Objective1-Name" type="string"></property>
+	<property id="Objective1-Date" type="string">2020-01-01</property>
+	<property id="Objective1-Type" type="number">4</property>
 
-	<property id="MainObjective-Name" type="string">Ironman France Nice</property>
-	<property id="MainObjective-Date" type="number">1586356833</property>
+	<property id="Objective2-Name" type="string"></property>
+	<property id="Objective2-Date" type="string">2020-01-01</property>
+	<property id="Objective2-Type" type="number">4</property>
 	
+	<property id="Objective3-Name" type="string"></property>
+	<property id="Objective3-Date" type="string">2020-01-01</property>
+	<property id="Objective3-Type" type="number">4</property>
+
 </properties>

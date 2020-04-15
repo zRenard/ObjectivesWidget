@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">Objectives</string>
+    
+    <string id="ObjectiveNameTitle">Nom de l'objectif</string>
+    <string id="ObjectiveNameError">Nom d'objectif trop long (20 caracteres max)</string>
+    <string id="ObjectiveDateTitle">Date de l'objectif</string>
+    <string id="ObjectiveDatePrompt">Format de date yyyy-mm-dd</string>
+    <string id="ObjectiveDateError">La date doit être au format yyyy-mm-dd</string>
+
+    <string id="ObjectiveTypeTitle">Type de l'évenement</string>
+
+    <string id="swim">Natation</string>
+    <string id="bike">Vélo</string>
+    <string id="run">Course à pied</string>
+    <string id="tri">Triathlon</string>
+    <string id="other">Autre</string>
+    
+    <string id="NoObjective">Aucuns objectifs</string>
+    
+</strings>
