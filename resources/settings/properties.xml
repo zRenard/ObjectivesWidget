@@ -11,4 +11,15 @@
 	<property id="Objective3-Date" type="string">2020-01-01</property>
 	<property id="Objective3-Type" type="number">4</property>
 
+	<property id="Objective4-Name" type="string"></property>
+	<property id="Objective4-Date" type="string">2020-01-01</property>
+	<property id="Objective4-Type" type="number">4</property>
+
+	<property id="Objective5-Name" type="string"></property>
+	<property id="Objective5-Date" type="string">2020-01-01</property>
+	<property id="Objective5-Type" type="number">4</property>
+
+	<property id="Objective6-Name" type="string"></property>
+	<property id="Objective6-Date" type="string">2020-01-01</property>
+	<property id="Objective6-Type" type="number">4</property>
 </properties>

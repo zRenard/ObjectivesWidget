@@ -4,12 +4,26 @@ Garmin widget to track objectives of the year
 Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/d63c889f-927a-4c5f-8b67-ea86ca85d305
 
 # Changes log
-## 1.2
-* Change date handling (previously not saved properly in Garmin Connect Mobile)
-## 1.1
-* Support now 3 events
-* Add event type
-* Adjust colors and tick size
+## 1.3.0
+* (**new**) Support now up to 6 events
+* (**new**) Add support 735xt
+
+## 1.2.0
+* (*fix*) Change date format (not properly saved in Garmin Connect Mobile!?)
+
+## 1.1.0
+* (**new**) Support now 3 events
+* (**new**) Add event type
+* (**new**) Adjust colors and tick size
+* (*fix*) Adjust colors (again)
+
+## 1.0.1
+* (*fix*) Adjust colors
+* (**new**) Add support for new devices
+* (*fix*) Reduce unnecessary access rights
+
+## 1.0.0
+* Initial version
 
 # Settings
 

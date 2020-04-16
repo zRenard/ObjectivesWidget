@@ -6,7 +6,7 @@ using Toybox.System;
 using Toybox.Time;
 using Toybox.Time.Gregorian;
 
-var maxEvents=3;
+var maxEvents=6;
 var nbEvents;
 var events = [];
 var todayM;    
@@ -54,34 +54,35 @@ class ObjectivesWidgetView extends WatchUi.View {
     function onUpdate(dc) {
 		var width = dc.getWidth();
 		var height = dc.getHeight();
-			    
+		var hasRsc = (Toybox.Application has :Resource);
+//		System.println(width);
+//		System.println(height);
     	dc.setColor(Graphics.COLOR_TRANSPARENT,Graphics.COLOR_BLACK);
     	dc.clear();
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 
 		if (eventName.length()==0) {
-			dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_MEDIUM), Graphics.FONT_MEDIUM , Application.loadResource(Rez.Strings.NoObjective), Graphics.TEXT_JUSTIFY_CENTER);
+			dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_MEDIUM), Graphics.FONT_MEDIUM , (hasRsc?Application.loadResource(Rez.Strings.NoObjective):"No objectives"), Graphics.TEXT_JUSTIFY_CENTER);
 		} else {
 		    todayM = new Time.Moment(Time.today().value());    
 			today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
 	    	dc.setPenWidth(5);
-	    	var icoType;
-	
+	    	var icoType="";	
 			switch ( eventType ) {
 				case 0:
-					icoType = Application.loadResource(Rez.Strings.swim);
+					icoType = hasRsc?Application.loadResource(Rez.Strings.swim):"Swim";
 				break;
 				case 1:
-					icoType = Application.loadResource(Rez.Strings.bike);
+					icoType= hasRsc?Application.loadResource(Rez.Strings.bike):"Bike";
 				break;
 				case 2:
-				  	icoType = Application.loadResource(Rez.Strings.run);
+					icoType=hasRsc?Application.loadResource(Rez.Strings.run):"Run";
 				break;
 				case 3:
-	    			icoType = Application.loadResource(Rez.Strings.tri);
+					icoType=hasRsc?Application.loadResource(Rez.Strings.tri):"Triathlon";
 				break;
 				default:
-	    			icoType = Application.loadResource(Rez.Strings.other);
+					icoType=hasRsc?Application.loadResource(Rez.Strings.other):"Other";
 				break;
 			}
 	    	dc.drawText(width/2,(height/5)-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_XTINY , icoType, Graphics.TEXT_JUSTIFY_CENTER);
@@ -104,8 +105,15 @@ class ObjectivesWidgetView extends WatchUi.View {
 			var dayOfYearToday = Math.floor(firstDayOfYear.subtract(todayM).value()/Gregorian.SECONDS_PER_DAY);
 			var arcP = Math.floor((dayOfYearToday*360)/nbDays);
 	
-	        dc.drawArc(width/2, height/2, (width/2)-5,Graphics.ARC_CLOCKWISE, 90,90-arcP);
-	    	drawTicks(dc,Graphics.COLOR_LT_GRAY,3,(width / 2),10,30.0,0);
+			var radius=(width>height)?height:width; // compute radius for non-round device and non square
+			var diffRx = Math.ceil((width>height)?(width-height)/2.0:0); // compute x offset due to non square device
+			var diffRy = Math.ceil((height>width)?(height-width)/2.0:0); // compute y offset due to non square device
+//			System.println(radius);
+//			System.println((width-height)/2.0);
+//			System.println(diffRx);
+//			System.println(diffRy);
+	        dc.drawArc(width/2, height/2, (radius/2)-5,Graphics.ARC_CLOCKWISE, 90,90-arcP);
+	    	drawTicks(dc,Graphics.COLOR_LT_GRAY,3,(radius / 2),10,30.0,0,diffRx,diffRy);
 	    	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    	dc.drawText(width/2,(height/4)*3-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY ,dateString, Graphics.TEXT_JUSTIFY_CENTER);
 			
@@ -113,26 +121,14 @@ class ObjectivesWidgetView extends WatchUi.View {
 	    		dc.drawText(width/2,(height/5)*4, Graphics.FONT_SYSTEM_XTINY ,(selection+1)+"/"+events.size(), Graphics.TEXT_JUSTIFY_CENTER);
 			}
 			
-	    	var dateDiffString=eventDiff;
-	    	if (eventDiff==0) {
-	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);    		
-	    	} else if (eventDiff>0) {
-	    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT)/2, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT ,eventDiff, Graphics.TEXT_JUSTIFY_CENTER);    	
-	    	} else if (eventDiff<0) {
-	    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE), Graphics.FONT_SYSTEM_LARGE ,"Done", Graphics.TEXT_JUSTIFY_CENTER);    		
-	    		dc.drawText(width/2,(height/2)+2, Graphics.FONT_SYSTEM_LARGE ,"since "+(-eventDiff)+ " day(s)", Graphics.TEXT_JUSTIFY_CENTER);    		
-	    	}
-	
+	    	var dateDiffString=eventDiff;	
 			// All Events Tick
 			for( var i = 0; i < events.size(); i += 1 ) {
 				var dateDiff = events[i][3];
 				var dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][1]).value()/Gregorian.SECONDS_PER_DAY);
 				var arcE = Math.floor((dayOfYearEvent*360)/nbDays);
 				var angleE = Math.toRadians(arcE-90);
-			    var outerRad = (width / 2);
+			    var outerRad = (radius / 2);
 			    var innerRad = outerRad - 20;
 				var sX, sY;
 			    var eX, eY;        
@@ -153,8 +149,25 @@ class ObjectivesWidgetView extends WatchUi.View {
 		    	} else if (dateDiff<0) {
 		    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
 		    	}
-			    dc.drawLine(sX, sY, eX, eY);
+			    dc.drawLine(sX+diffRx, sY+diffRy, eX+diffRx, eY+diffRy);
 			}
+			
+			if (eventDiff==0) {
+	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
+	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);    		
+	    	} else if (eventDiff>0) {
+	    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
+	    		if (height<=205) {
+	    			dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,eventDiff, Graphics.TEXT_JUSTIFY_CENTER);
+	    		} else {
+	    			dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT)/2, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT ,eventDiff, Graphics.TEXT_JUSTIFY_CENTER);
+	    		}    	
+	    	} else if (eventDiff<0) {
+	    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
+	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE), Graphics.FONT_SYSTEM_LARGE ,"Done", Graphics.TEXT_JUSTIFY_CENTER);    		
+	    		dc.drawText(width/2,(height/2)+2, Graphics.FONT_SYSTEM_LARGE ,"since "+(-eventDiff)+ " day(s)", Graphics.TEXT_JUSTIFY_CENTER);    		
+	    	}
+			
 		}
     }
 
@@ -164,7 +177,7 @@ class ObjectivesWidgetView extends WatchUi.View {
     function onHide() {
     }
 
-    function drawTicks(dc,color,size,out,innerOffset,angle,offset) {
+    function drawTicks(dc,color,size,out,innerOffset,angle,offset,rx,ry) {
     	dc.setPenWidth(size);
     	dc.setColor(color,Graphics.COLOR_TRANSPARENT);    	
 
@@ -178,7 +191,7 @@ class ObjectivesWidgetView extends WatchUi.View {
             eY = offset + outerRad + outerRad * Math.sin(i);
             sX = offset + outerRad + innerRad * Math.cos(i);
             eX = offset + outerRad + outerRad * Math.cos(i);
-            dc.drawLine(sX, sY, eX, eY);
+            dc.drawLine(sX+rx, sY+ry, eX+rx, eY+ry);
         }
 	}
 

@@ -48,4 +48,51 @@
         </settingConfig>
     </setting>
     
+    <setting propertyKey="@Properties.Objective4-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="20" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective4-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="alphaNumeric" maxLength="10" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective4-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Objective5-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="20" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective5-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="alphaNumeric" maxLength="10" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective5-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Objective6-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="20" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective6-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="alphaNumeric" maxLength="10" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective6-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
 </settings>
