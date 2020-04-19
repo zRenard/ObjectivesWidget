@@ -2,11 +2,10 @@
     <string id="AppName">Objectives</string>
     
     <string id="ObjectiveNameTitle">Nom de l'objectif</string>
-    <string id="ObjectiveNameError">Nom d'objectif trop long (20 caracteres max)</string>
+    <string id="ObjectiveNameError">Nom d'objectif trop long (25 caracteres max)</string>
     <string id="ObjectiveDateTitle">Date de l'objectif</string>
     <string id="ObjectiveDatePrompt">Format de date yyyy-mm-dd</string>
     <string id="ObjectiveDateError">La date doit être au format yyyy-mm-dd</string>
-
     <string id="ObjectiveTypeTitle">Type de l'évenement</string>
 
     <string id="swim">Natation</string>
@@ -16,5 +15,14 @@
     <string id="other">Autre</string>
     
     <string id="NoObjective">Aucuns objectifs</string>
-    
+
+    <string id="days">jours</string>
+    <string id="weeks">semaines</string>
+    <string id="hours">heures</string>
+
+    <string id="DefaultUnitTitle">Unité par defaut pour le décompteur</string>
+    <string id="DefaultUnitTitlePrompt">Choix de l'unité par defaut</string>
+
+	<string id="ShowIconsTitle">Affiche le type d'objectifs avec des icones</string>
+	<string id="ShowIconsTitlePrompt">Coché affiche les icones</string>    
 </strings>

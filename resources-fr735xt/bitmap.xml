@@ -1,0 +1,8 @@
+<resources>
+   	<bitmap id="id_tri" filename="drawables/tri.png" />
+   	<bitmap id="id_run" filename="drawables/run.png" />
+   	<bitmap id="id_bike" filename="drawables/bike.png" />
+   	<bitmap id="id_swim" filename="drawables/swim.png" />
+   	<bitmap id="id_other" filename="drawables/other.png" />
+</resources>
+   	

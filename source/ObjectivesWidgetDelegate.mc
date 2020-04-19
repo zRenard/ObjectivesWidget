@@ -8,6 +8,11 @@ class ObjectivesWidgetDelegate extends WatchUi.BehaviorDelegate {
         BehaviorDelegate.initialize();
     }
 
+    function onSelect() {
+        changeDuration();
+        return false;
+    }
+
     function onNextPage() {
         cycleObjective(-1);
         return false;

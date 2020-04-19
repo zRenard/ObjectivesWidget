@@ -6,7 +6,10 @@ using Toybox.Time.Gregorian;
 class ObjectivesWidgetApp extends Application.AppBase {
 
 	function settingUpdate() {
+	    durationSelected = Application.getApp().getProperty("DefaultUnit");
+	
         selection=0;
+        nextEvent=0;
         nbEvents=0;
         
 		events = [];
@@ -18,8 +21,10 @@ class ObjectivesWidgetApp extends Application.AppBase {
 				:year => edate.substring( 0, 4).toNumber(),
 				:month => edate.substring( 5, 7).toNumber(),
 				:day => edate.substring( 8, 10).toNumber(),
-			});    	
-        	var ediff = moment.compare(todayM)/Gregorian.SECONDS_PER_DAY;
+				:hour   => 0,
+    			:min    => 0
+  			});    	
+        	var ediff = moment.compare(todayM);
         	if (ename.length()>0) {
         		events.add([ename, moment ,etype, ediff]);
         		nbEvents=nbEvents+1;
@@ -55,8 +60,9 @@ class ObjectivesWidgetApp extends Application.AppBase {
 //			System.print(eventDiff + " ");
 //			System.println(eventDateMoment);
 	
-	        for (var i = 0; i < nbEvents-1; i++) { 
-		        if (events[i][3]>=0 && eventDiff>=events[i][3]) {
+	        for (var i = 0; i < nbEvents-1; i++) {
+//	        	System.println("Event to sort : " + events[i][3]/Gregorian.SECONDS_PER_DAY);
+		        if (events[i][3]/Gregorian.SECONDS_PER_DAY>=0 && eventDiff/Gregorian.SECONDS_PER_DAY>=events[i][3]/Gregorian.SECONDS_PER_DAY) {
 		        	selection=i;
 		            eventName = events[selection][0];
 					eventDateMoment = events[selection][1];
@@ -69,6 +75,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
 //			System.print(eventDiff + " ");
 //			System.println(eventDateMoment);
 		}
+		nextEvent=selection;
 	}
 
     function initialize() {

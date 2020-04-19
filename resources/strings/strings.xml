@@ -2,7 +2,7 @@
     <string id="AppName">Objectives</string>
     
     <string id="ObjectiveNameTitle">Event</string>
-    <string id="ObjectiveNameError">Objective name too long (20 max)</string>
+    <string id="ObjectiveNameError">Objective name too long (25 max)</string>
     <string id="ObjectiveDateTitle">Event date</string>
     <string id="ObjectiveDatePrompt">Date format yyyy-mm-dd</string>
     <string id="ObjectiveDateError">Format must be yyyy-mm-dd</string>
@@ -16,4 +16,13 @@
 
     <string id="NoObjective">No objectives</string>
 
+    <string id="days">days</string>
+    <string id="weeks">weeks</string>
+    <string id="hours">hours</string>
+
+    <string id="DefaultUnitTitle">Default unit to display delay</string>
+    <string id="DefaultUnitTitlePrompt">Choose default display unit for delay</string>
+
+	<string id="ShowIconsTitle">Show icons for event type</string>
+	<string id="ShowIconsTitlePrompt">Checked value show icons</string>
 </strings>

@@ -55,7 +55,8 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 			);
 			var duration1 = eventDateMoment.compare(todayM);
 			var dateDiff = duration1/Gregorian.SECONDS_PER_DAY;
-			var baroffset = 0;
+			var baroffsetX = 0;
+			var baroffsetY = 5;
 			var bar = width; // 365
 			var tick = bar/12;
 			var firstDayOfYear = Gregorian.moment({:day => 1, :month =>1}); // 0
@@ -68,44 +69,52 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 			var barP = Math.floor((dayOfYearToday*bar)/nbDays);
 	    	dc.setPenWidth(1);		
 	    	dc.setColor(Graphics.COLOR_LT_GRAY ,Graphics.COLOR_TRANSPARENT);
-	    	dc.fillRoundedRectangle(baroffset,(height/2)-5, barP, 10, 3);
+	    	dc.fillRoundedRectangle(baroffsetX,baroffsetY+(height/2)-7, barP, 14, 3);
 	    	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 			for (var i=1;i<=11;i++) {
-				dc.drawLine(baroffset+tick*i, (height/2)-5, baroffset+tick*i, (height/2)+5);
+				dc.drawLine(baroffsetX+tick*i, baroffsetY+(height/2)-7, baroffsetX+tick*i, baroffsetY+(height/2)+7);
 			}
-	    	dc.drawRoundedRectangle(baroffset,(height/2)-5, bar-baroffset, 10, 3);
-	    	dc.drawText(0,0, Graphics.FONT_SYSTEM_XTINY, eventName, Graphics.TEXT_JUSTIFY_LEFT);
+	    	dc.drawRoundedRectangle(baroffsetX,baroffsetY+(height/2)-7, bar-baroffsetX, 14, 3);
+	    	if (eventName.length()<=15) {
+	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_TINY, eventName, Graphics.TEXT_JUSTIFY_LEFT);
+	    	} else {
+	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_XTINY, eventName, Graphics.TEXT_JUSTIFY_LEFT);
+	    	}
 	    	if (dateDiff==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, "Race Day", Graphics.TEXT_JUSTIFY_LEFT);
 	    	} else if (dateDiff>0) {
-	    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
+	    		dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - " + dateDiff +"d", Graphics.TEXT_JUSTIFY_LEFT);
 	    	} else if (dateDiff<0) {
 	    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - Done", Graphics.TEXT_JUSTIFY_LEFT);    		
 	    	}
 //	    	dc.setPenWidth(3);
-//			dc.drawLine(baroffset+tickEvent, (height/2)-8, baroffset+tickEvent, (height/2)+8);
+//			dc.drawLine(baroffsetX+tickEvent, (height/2)-8, baroffsetX+tickEvent, (height/2)+8);
 			// All Events Tick
 //	    	dc.setPenWidth(2);
 			for( var i = 0; i < events.size(); i += 1 ) {
 				if (i==selection) {
-			    	dc.setPenWidth(4);
+			    	dc.setPenWidth(6);
 			    } else {
-	    			dc.setPenWidth(2);
+	    			dc.setPenWidth(4);
 			    }
 				var dateDiff = events[i][3];			    
 		    	if (dateDiff==0) {
 		    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
 		    	} else if (dateDiff>0) {
-		    		dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
+		    		if (i==selection) {
+		    			dc.setColor(Graphics.COLOR_BLUE ,Graphics.COLOR_TRANSPARENT);
+		    		} else {
+		    			dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
+		    		}
 		    	} else if (dateDiff<0) {
 		    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
 		    	}
 				var dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][1]).value()/Gregorian.SECONDS_PER_DAY);
 				var tickEvent = Math.floor((dayOfYearEvent*bar)/nbDays);
-				dc.drawLine(baroffset+tickEvent, (height/2)-6, baroffset+tickEvent, (height/2)+6);
+				dc.drawLine(baroffsetX+tickEvent, baroffsetY+(height/2)-8, baroffsetX+tickEvent, baroffsetY+(height/2)+8);
 			}   	
 	    }
 	} 

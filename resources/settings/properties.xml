@@ -1,4 +1,7 @@
 <properties>
+	<property id="ShowIcons" type="boolean">true</property>
+	<property id="DefaultUnit" type="number">0</property>
+
 	<property id="Objective1-Name" type="string"></property>
 	<property id="Objective1-Date" type="string">2020-01-01</property>
 	<property id="Objective1-Type" type="number">4</property>
