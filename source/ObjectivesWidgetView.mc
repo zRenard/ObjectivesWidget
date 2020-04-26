@@ -119,21 +119,12 @@ class ObjectivesWidgetView extends WatchUi.View {
 					icons=otherEventBitmap;
 				break;
 			}
-	    	if (!showIcons) {
-	    		dc.drawText(width/2,(height/5)-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_XTINY , icoType, Graphics.TEXT_JUSTIFY_CENTER);
-	    	} else {
-				if (height<=205) { 
-					dc.drawBitmap((width/2)-12, height/5-20, icons);
-				} else {
-					dc.drawBitmap((width/2)-25, height/5-40, icons);
-				}	    	
-	    	}
 			if (eventName.length()>17) {
 				dc.drawText(width/2,(height/3)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , eventName, Graphics.TEXT_JUSTIFY_CENTER);
 			} else {
 				dc.drawText(width/2,(height/3)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY , eventName, Graphics.TEXT_JUSTIFY_CENTER);
 			}
-		    var eventDate = Gregorian.info(eventDateMoment, Time.FORMAT_MEDIUM);
+		    var eventDate = Gregorian.utcInfo(eventDateMoment, Time.FORMAT_MEDIUM);
 			var dateString = Lang.format(
 			    "$1$ $2$/$3$/$4$",
 			    [
@@ -141,6 +132,13 @@ class ObjectivesWidgetView extends WatchUi.View {
 			        eventDate.day,
 			        eventDate.month,
 			        eventDate.year
+			    ]
+			);			
+			var hourString =  Lang.format(
+			    "$1$:$2$",
+			    [
+			        eventDate.hour.format("%02u"),
+			        eventDate.min.format("%02u")
 			    ]
 			);
 			var firstDayOfYear = Gregorian.moment({:day => 1, :month =>1}); // 0
@@ -168,13 +166,16 @@ class ObjectivesWidgetView extends WatchUi.View {
 				if (height<=220) {
 	    			dc.drawText(width/2,(height/2)-8+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , durationUnitsLabel[durationSelected], Graphics.TEXT_JUSTIFY_CENTER);
     			} else {
-	    			dc.drawText(width/2,(height/2)+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , durationUnitsLabel[durationSelected], Graphics.TEXT_JUSTIFY_CENTER);
+	    			dc.drawText(width/2,(height/2)+3+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , durationUnitsLabel[durationSelected], Graphics.TEXT_JUSTIFY_CENTER);
     			}
 			}
-//			if (eventDiffDay==0) {
-//	    		dc.drawText(width/2,(height/2)+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , "Good Luck !", Graphics.TEXT_JUSTIFY_CENTER);
-//			}
-					
+			if (!hourString.equals("00:00")) {
+				if (height<=220) {
+	   				dc.drawText(width/2,(height/2)+4+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY )*2, Graphics.FONT_SYSTEM_XTINY, hourString, Graphics.TEXT_JUSTIFY_CENTER);
+	   			} else {
+	   				dc.drawText(width/2,(height/2)+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY )*3, Graphics.FONT_SYSTEM_XTINY, hourString, Graphics.TEXT_JUSTIFY_CENTER);
+	   			}
+			}
 			if (events.size()>1) {
 	    		dc.drawText(width/2,(height/5)*4, Graphics.FONT_SYSTEM_XTINY ,(selection+1)+"/"+events.size(), Graphics.TEXT_JUSTIFY_CENTER);
 			}
@@ -217,7 +218,8 @@ class ObjectivesWidgetView extends WatchUi.View {
 			// System.println(eventDiff);
 			if (eventDiffDay==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);    		
+	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);
+	    		dc.drawText(width/2,(height/2)+Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY ), Graphics.FONT_SYSTEM_XTINY , "Good Luck !", Graphics.TEXT_JUSTIFY_CENTER);
 	    	} else if (eventDiffDay>0) {
 	    		if (selection==nextEvent) {
 	    			dc.setColor(Graphics.COLOR_ORANGE ,Graphics.COLOR_TRANSPARENT);
@@ -234,7 +236,15 @@ class ObjectivesWidgetView extends WatchUi.View {
 	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE), Graphics.FONT_SYSTEM_LARGE ,"Done", Graphics.TEXT_JUSTIFY_CENTER);    		
 	    		dc.drawText(width/2,(height/2)+2, Graphics.FONT_SYSTEM_LARGE ,"since "+(-eventDiffDay)+ " day(s)", Graphics.TEXT_JUSTIFY_CENTER);    		
 	    	}
-			
+	    	if (!showIcons) {
+	    		dc.drawText(width/2,(height/5)-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_XTINY , icoType, Graphics.TEXT_JUSTIFY_CENTER);
+	    	} else {
+				if (height<=205) { 
+					dc.drawBitmap((width/2)-12, height/5-20, icons);
+				} else {
+					dc.drawBitmap((width/2)-25, height/5-40, icons);
+				}	    	
+	    	}
 		}
     }
 

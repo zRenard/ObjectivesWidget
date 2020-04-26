@@ -15,15 +15,20 @@ class ObjectivesWidgetApp extends Application.AppBase {
 		events = [];
         for( var i = 0; i < maxEvents; i += 1 ) {
         	var ename = Application.getApp().getProperty("Objective"+(i+1)+"-Name");
-        	var edate = Application.getApp().getProperty("Objective"+(i+1)+"-Date");
-        	var etype = Application.getApp().getProperty("Objective"+(i+1)+"-Type");        	
+        	var edate = Application.getApp().getProperty("Objective"+(i+1)+"-Date"); // 2020-05-11 07:00 or 2020-05-11
+        	var etype = Application.getApp().getProperty("Objective"+(i+1)+"-Type");
+        	if (edate.length()<10) { edate=today; }
+        	if (edate.length()==10) { edate=edate+" 00:00"; }
+        	if (edate.length()>10&&edate.length()<16) { edate=edate.substring(0, 10)+" 00:00"; }
+			//System.println(edate);
 		    var moment = Gregorian.moment({
 				:year => edate.substring( 0, 4).toNumber(),
 				:month => edate.substring( 5, 7).toNumber(),
 				:day => edate.substring( 8, 10).toNumber(),
-				:hour   => 0,
-    			:min    => 0
-  			});    	
+				:hour => edate.substring( 11, 13).toNumber(),
+    			:min => edate.substring( 14, 16).toNumber()
+  			});
+    
         	var ediff = moment.compare(todayM);
         	if (ename.length()>0) {
         		events.add([ename, moment ,etype, ediff]);
@@ -33,8 +38,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
 	    
 	    if (nbEvents==0) {
 	    	eventName = "";
-	    } else {
-			    
+	    } else {			    
 	        for (var i = 0; i < nbEvents-1; i++) { 
 	        	for (var j = 0; j < nbEvents-i-1; j++) {
 	        		var d1=events[j][3];
@@ -79,7 +83,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
 	}
 
     function initialize() {
-		todayM = new Time.Moment(Time.today().value());    
+		todayM = new Time.Moment(Time.now().value());    
 		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
         AppBase.initialize();
     }

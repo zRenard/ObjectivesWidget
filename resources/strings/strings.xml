@@ -4,8 +4,8 @@
     <string id="ObjectiveNameTitle">Event</string>
     <string id="ObjectiveNameError">Objective name too long (25 max)</string>
     <string id="ObjectiveDateTitle">Event date</string>
-    <string id="ObjectiveDatePrompt">Date format yyyy-mm-dd</string>
-    <string id="ObjectiveDateError">Format must be yyyy-mm-dd</string>
+    <string id="ObjectiveDatePrompt">Date format yyyy-mm-dd or yyyy-mm-dd hh:MM</string>
+    <string id="ObjectiveDateError">Format must be yyyy-mm-dd or yyyy-mm-dd hh:MM</string>
     <string id="ObjectiveTypeTitle">Event type</string>
 
     <string id="swim">Swim</string>

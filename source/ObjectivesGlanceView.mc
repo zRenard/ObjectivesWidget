@@ -82,7 +82,7 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 	    	}
 	    	if (dateDiff==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, "Race Day", Graphics.TEXT_JUSTIFY_LEFT);
+	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, "Race Day - Good Luck !", Graphics.TEXT_JUSTIFY_LEFT);
 	    	} else if (dateDiff>0) {
 	    		dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - " + dateDiff +"d", Graphics.TEXT_JUSTIFY_LEFT);
