@@ -221,7 +221,9 @@ class ObjectivesWidgetView extends WatchUi.View {
 //			System.println(eventDate.year);
 //			System.println(today.year);
 	
-			if (today.year.equals(eventDate.year)) {
+			if (today.year.equals(eventDate.year) &&
+				today.month.equals(eventDate.month) &&
+				today.day.equals(eventDate.day) ) {
 				System.println("Today");
 			}
 	
