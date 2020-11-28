@@ -7,6 +7,8 @@ class ObjectivesWidgetApp extends Application.AppBase {
 
 	function settingUpdate() {
 	    durationSelected = Application.getApp().getProperty("DefaultUnit");
+		todayM = new Time.Moment(Time.now().value());    
+		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
 	
         selection=0;
         nextEvent=0;
@@ -21,17 +23,16 @@ class ObjectivesWidgetApp extends Application.AppBase {
         	if (edate.length()==10) { edate=edate+" 00:00"; }
         	if (edate.length()>10&&edate.length()<16) { edate=edate.substring(0, 10)+" 00:00"; }
 			//System.println(edate);
-		    var moment = Gregorian.moment({
+		    var momentE = Gregorian.moment({
 				:year => edate.substring( 0, 4).toNumber(),
 				:month => edate.substring( 5, 7).toNumber(),
 				:day => edate.substring( 8, 10).toNumber(),
 				:hour => edate.substring( 11, 13).toNumber(),
-    			:min => edate.substring( 14, 16).toNumber()
+    			:minute => edate.substring( 14, 16).toNumber()
   			});
-    
-        	var ediff = moment.compare(todayM);
+        	//var ediff = momentE.compare(todayM);
         	if (ename.length()>0) {
-        		events.add([ename, moment ,etype, ediff]);
+        		events.add([ename, momentE ,etype, momentE.compare(todayM)]);
         		nbEvents=nbEvents+1;
 	    	}
 	    }

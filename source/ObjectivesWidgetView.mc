@@ -49,8 +49,6 @@ class ObjectivesWidgetView extends WatchUi.View {
 	var otherEventBitmap;
 
     function initialize() {
-		todayM = new Time.Moment(Time.now().value());    
-		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
         View.initialize();
         ObjectivesWidgetApp.settingUpdate();
         triEventBitmap = WatchUi.loadResource(Rez.Drawables.id_tri);
@@ -78,7 +76,7 @@ class ObjectivesWidgetView extends WatchUi.View {
     }
 
     // Update the view
-    function onUpdate(dc) {
+    function onUpdate(dc) {    
 		var width = dc.getWidth();
 		var height = dc.getHeight();
 		var hasRsc = (Toybox.Application has :Resource);
@@ -124,7 +122,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 			} else {
 				dc.drawText(width/2,(height/3)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY , eventName, Graphics.TEXT_JUSTIFY_CENTER);
 			}
-		    var eventDate = Gregorian.utcInfo(eventDateMoment, Time.FORMAT_MEDIUM);
+		    var eventDate = Gregorian.info(eventDateMoment, Time.FORMAT_MEDIUM);
 			var dateString = Lang.format(
 			    "$1$ $2$/$3$/$4$",
 			    [
@@ -148,7 +146,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 			var dayOfYearToday = Math.floor(firstDayOfYear.subtract(todayM).value()/Gregorian.SECONDS_PER_DAY);
 			var arcP = Math.floor((dayOfYearToday*360)/nbDays);
 			var eventDiffDay=eventDiff/Gregorian.SECONDS_PER_DAY;	
-			//System.println(eventDiffDay);
+//			System.println(eventDiffDay);
 	
 			var radius=(width>height)?height:width; // compute radius for non-round device and non square
 			var diffRx = Math.ceil((width>height)?(width-height)/2.0:0); // compute x offset due to non square device
@@ -215,7 +213,18 @@ class ObjectivesWidgetView extends WatchUi.View {
 			    dc.drawLine(sX+diffRx, sY+diffRy, eX+diffRx, eY+diffRy);
 			}
 			
-			// System.println(eventDiff);
+//			System.println(eventDiffDay);		
+//			System.println(eventDate.day);
+//			System.println(today.day);
+//			System.println(eventDate.month);
+//			System.println(today.month);
+//			System.println(eventDate.year);
+//			System.println(today.year);
+	
+			if (today.year.equals(eventDate.year)) {
+				System.println("Today");
+			}
+	
 			if (eventDiffDay==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_LARGE)/2, Graphics.FONT_SYSTEM_LARGE ,"Race Day", Graphics.TEXT_JUSTIFY_CENTER);
