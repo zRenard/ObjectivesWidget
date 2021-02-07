@@ -15,7 +15,7 @@
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective1-Date" title="@Strings.ObjectiveDateTitle" prompt="@Strings.ObjectiveDatePrompt">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" min="1577836800" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
 
     <setting propertyKey="@Properties.Objective1-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
@@ -27,12 +27,12 @@
             <listEntry value="4">@Strings.other</listEntry>
         </settingConfig>
     </setting>
-    
+
     <setting propertyKey="@Properties.Objective2-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective2-Date" title="@Strings.ObjectiveDateTitle">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
     <setting propertyKey="@Properties.Objective2-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
         <settingConfig type="list">
@@ -48,7 +48,7 @@
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective3-Date" title="@Strings.ObjectiveDateTitle">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
     <setting propertyKey="@Properties.Objective3-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
         <settingConfig type="list">
@@ -64,7 +64,7 @@
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective4-Date" title="@Strings.ObjectiveDateTitle">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
     <setting propertyKey="@Properties.Objective4-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
         <settingConfig type="list">
@@ -80,7 +80,7 @@
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective5-Date" title="@Strings.ObjectiveDateTitle">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
     <setting propertyKey="@Properties.Objective5-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
         <settingConfig type="list">
@@ -96,7 +96,7 @@
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
     <setting propertyKey="@Properties.Objective6-Date" title="@Strings.ObjectiveDateTitle">
-        <settingConfig type="alphaNumeric" maxLength="16" errorMessage="@Strings.ObjectiveDateError"/>
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
     <setting propertyKey="@Properties.Objective6-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
         <settingConfig type="list">

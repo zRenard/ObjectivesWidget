@@ -4,8 +4,8 @@
     <string id="ObjectiveNameTitle">Nom de l'objectif</string>
     <string id="ObjectiveNameError">Nom d'objectif trop long (25 caracteres max)</string>
     <string id="ObjectiveDateTitle">Date de l'objectif</string>
-    <string id="ObjectiveDatePrompt">Format de date yyyy-mm-dd ou yyyy-mm-dd hh:MM</string>
-    <string id="ObjectiveDateError">La date doit être au format yyyy-mm-dd ou yyyy-mm-dd hh:MM</string>
+    <string id="ObjectiveDatePrompt">Format de date</string>
+    <string id="ObjectiveDateError">Erreur dans le format de date</string>
     <string id="ObjectiveTypeTitle">Type de l'évenement</string>
 
     <string id="swim">Natation</string>

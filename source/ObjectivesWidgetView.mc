@@ -122,7 +122,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 			} else {
 				dc.drawText(width/2,(height/3)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY , eventName, Graphics.TEXT_JUSTIFY_CENTER);
 			}
-		    var eventDate = Gregorian.info(eventDateMoment, Time.FORMAT_MEDIUM);
+		    var eventDate = Gregorian.utcInfo(eventDateMoment, Time.FORMAT_MEDIUM);
 			var dateString = Lang.format(
 			    "$1$ $2$/$3$/$4$",
 			    [

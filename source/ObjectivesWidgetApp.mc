@@ -15,24 +15,14 @@ class ObjectivesWidgetApp extends Application.AppBase {
         nbEvents=0;
         
 		events = [];
+		//System.println(today);
         for( var i = 0; i < maxEvents; i += 1 ) {
         	var ename = Application.getApp().getProperty("Objective"+(i+1)+"-Name");
         	var edate = Application.getApp().getProperty("Objective"+(i+1)+"-Date"); // 2020-05-11 07:00 or 2020-05-11
         	var etype = Application.getApp().getProperty("Objective"+(i+1)+"-Type");
-        	if (edate.length()<10) { edate=today; }
-        	if (edate.length()==10) { edate=edate+" 00:00"; }
-        	if (edate.length()>10&&edate.length()<16) { edate=edate.substring(0, 10)+" 00:00"; }
-			//System.println(edate);
-		    var momentE = Gregorian.moment({
-				:year => edate.substring( 0, 4).toNumber(),
-				:month => edate.substring( 5, 7).toNumber(),
-				:day => edate.substring( 8, 10).toNumber(),
-				:hour => edate.substring( 11, 13).toNumber(),
-    			:minute => edate.substring( 14, 16).toNumber()
-  			});
-        	//var ediff = momentE.compare(todayM);
+        	var eventM = new Time.Moment(edate);    
         	if (ename.length()>0) {
-        		events.add([ename, momentE ,etype, momentE.compare(todayM)]);
+        		events.add([ename, eventM ,etype, eventM.compare(todayM)]);
         		nbEvents=nbEvents+1;
 	    	}
 	    }

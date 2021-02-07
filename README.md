@@ -4,6 +4,15 @@ Garmin widget to track objectives of the year
 Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/d63c889f-927a-4c5f-8b67-ea86ca85d305
 
 # Changes log
+## 1.5.3
+* (*fix*) Date are now natively handle by Garmin Connect
+
+## 1.5.2
+* (*fix*) Errors while handling events hours
+
+## 1.5.1
+* (*fix*) Week duration calculation was wrongly rounded
+
 ## 1.5.0
 * (**new**) Handle time of the event if present
 * (*fix*) Icons have transparent background

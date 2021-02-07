@@ -72,156 +72,154 @@
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="8" lineNum="115" pc="268437603" symbol="onUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="8" lineNum="116" pc="268437672" symbol="onUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="8" lineNum="117" pc="268437699" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="25" pc="268439751" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="26" pc="268439763" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="29" pc="268439797" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="32" pc="268439814" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="33" pc="268439826" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="34" pc="268439845" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="35" pc="268439856" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="36" pc="268439881" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="37" pc="268439912" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="38" pc="268439943" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="39" pc="268439974" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="41" pc="268440008" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="51" pc="268440025" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="52" pc="268440029" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="53" pc="268440047" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="54" pc="268440065" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="55" pc="268440108" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="56" pc="268440151" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="57" pc="268440194" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="58" pc="268440237" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="59" pc="268440280" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="60" pc="268440317" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="61" pc="268440340" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="62" pc="268440389" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="63" pc="268440438" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="68" pc="268440491" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="75" pc="268440496" symbol="onShow"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="79" pc="268440501" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="80" pc="268440505" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="81" pc="268440518" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="82" pc="268440531" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="85" pc="268440553" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="86" pc="268440589" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="87" pc="268440601" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="89" pc="268440637" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="90" pc="268440663" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="92" pc="268440794" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="93" pc="268440852" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="94" pc="268440895" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="95" pc="268440912" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="96" pc="268440919" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="97" pc="268440950" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="98" pc="268440960" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="116" pc="268441054" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="117" pc="268441104" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="118" pc="268441114" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="100" pc="268441120" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="101" pc="268441170" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="102" pc="268441180" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="104" pc="268441183" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="105" pc="268441233" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="106" pc="268441243" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="108" pc="268441246" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="109" pc="268441296" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="110" pc="268441306" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="112" pc="268441309" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="113" pc="268441359" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="114" pc="268441369" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="120" pc="268441375" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="121" pc="268441401" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="123" pc="268441492" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="125" pc="268441580" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="126" pc="268441617" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="135" pc="268441711" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="142" pc="268441801" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="143" pc="268441850" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="144" pc="268441899" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="145" pc="268441914" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="146" pc="268441957" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="147" pc="268442017" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="148" pc="268442047" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="151" pc="268442070" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="152" pc="268442087" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="153" pc="268442133" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="158" pc="268442179" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="159" pc="268442246" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="160" pc="268442304" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="161" pc="268442340" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="163" pc="268442428" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="164" pc="268442439" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="165" pc="268442450" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="167" pc="268442556" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="170" pc="268442662" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="171" pc="268442682" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="172" pc="268442693" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="174" pc="268442790" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="177" pc="268442881" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="178" pc="268442907" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="182" pc="268443006" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="183" pc="268443036" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="184" pc="268443068" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="185" pc="268443137" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="186" pc="268443167" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="187" pc="268443194" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="188" pc="268443204" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="189" pc="268443214" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="190" pc="268443214" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="191" pc="268443214" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="192" pc="268443241" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="193" pc="268443268" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="194" pc="268443295" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="196" pc="268443322" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="197" pc="268443333" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="198" pc="268443372" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="199" pc="268443383" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="200" pc="268443397" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="202" pc="268443436" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="204" pc="268443475" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="205" pc="268443486" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="207" pc="268443525" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="208" pc="268443539" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="209" pc="268443556" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="211" pc="268443595" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="213" pc="268443612" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="224" pc="268443657" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="225" pc="268443691" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="228" pc="268443715" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="229" pc="268443726" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="230" pc="268443762" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="231" pc="268443853" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="232" pc="268443941" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="233" pc="268443952" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="234" pc="268443972" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="236" pc="268444011" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="238" pc="268444047" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="239" pc="268444058" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="241" pc="268444205" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="243" pc="268444352" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="244" pc="268444363" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="245" pc="268444399" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="246" pc="268444484" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="248" pc="268444565" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="249" pc="268444571" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="251" pc="268444656" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="252" pc="268444667" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="254" pc="268444712" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="263" pc="268444755" symbol="onHide"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="266" pc="268444760" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="267" pc="268444764" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="268" pc="268444778" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="270" pc="268444804" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="271" pc="268444804" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="272" pc="268444804" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="273" pc="268444811" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="275" pc="268444818" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="276" pc="268444853" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="277" pc="268444883" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="278" pc="268444913" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="279" pc="268444943" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="280" pc="268444973" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="25" pc="268439427" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="26" pc="268439439" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="29" pc="268439473" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="32" pc="268439490" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="33" pc="268439502" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="34" pc="268439521" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="35" pc="268439532" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="36" pc="268439557" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="37" pc="268439588" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="38" pc="268439619" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="39" pc="268439650" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="41" pc="268439684" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="51" pc="268439701" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="52" pc="268439705" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="53" pc="268439723" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="54" pc="268439741" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="55" pc="268439784" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="56" pc="268439827" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="57" pc="268439870" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="58" pc="268439913" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="59" pc="268439956" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="60" pc="268439993" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="61" pc="268440016" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="62" pc="268440065" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="63" pc="268440114" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="68" pc="268440167" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="75" pc="268440172" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="79" pc="268440177" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="80" pc="268440181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="81" pc="268440194" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="82" pc="268440207" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="85" pc="268440229" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="86" pc="268440265" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="87" pc="268440277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="89" pc="268440313" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="90" pc="268440339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="92" pc="268440470" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="93" pc="268440528" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="94" pc="268440571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="95" pc="268440588" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="96" pc="268440595" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="97" pc="268440626" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="98" pc="268440636" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="116" pc="268440730" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="117" pc="268440780" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="118" pc="268440790" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="100" pc="268440796" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="101" pc="268440846" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="102" pc="268440856" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="104" pc="268440859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="105" pc="268440909" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="106" pc="268440919" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="108" pc="268440922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="109" pc="268440972" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="110" pc="268440982" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="112" pc="268440985" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="113" pc="268441035" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="114" pc="268441045" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="120" pc="268441051" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="121" pc="268441077" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="123" pc="268441168" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="125" pc="268441256" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="126" pc="268441293" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="135" pc="268441387" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="142" pc="268441477" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="143" pc="268441526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="144" pc="268441575" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="145" pc="268441590" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="146" pc="268441633" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="147" pc="268441693" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="148" pc="268441723" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="151" pc="268441746" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="152" pc="268441763" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="153" pc="268441809" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="158" pc="268441855" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="159" pc="268441922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="160" pc="268441980" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="161" pc="268442016" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="163" pc="268442104" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="164" pc="268442115" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="165" pc="268442126" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="167" pc="268442232" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="170" pc="268442338" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="171" pc="268442358" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="172" pc="268442369" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="174" pc="268442466" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="177" pc="268442557" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="178" pc="268442583" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="182" pc="268442682" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="183" pc="268442712" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="184" pc="268442744" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="185" pc="268442813" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="186" pc="268442843" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="187" pc="268442870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="188" pc="268442880" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="189" pc="268442890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="190" pc="268442890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="191" pc="268442890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="192" pc="268442917" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="193" pc="268442944" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="194" pc="268442971" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="196" pc="268442998" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="197" pc="268443009" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="198" pc="268443048" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="199" pc="268443059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="200" pc="268443073" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="202" pc="268443112" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="204" pc="268443151" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="205" pc="268443162" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="207" pc="268443201" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="208" pc="268443215" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="209" pc="268443232" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="211" pc="268443271" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="213" pc="268443288" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="230" pc="268443333" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="231" pc="268443344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="232" pc="268443380" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="233" pc="268443471" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="234" pc="268443559" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="235" pc="268443570" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="236" pc="268443590" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="238" pc="268443629" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="240" pc="268443665" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="241" pc="268443676" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="243" pc="268443823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="245" pc="268443970" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="246" pc="268443981" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="247" pc="268444017" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="248" pc="268444102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="250" pc="268444183" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="251" pc="268444189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="253" pc="268444274" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="254" pc="268444285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="256" pc="268444330" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="265" pc="268444373" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="268" pc="268444378" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="269" pc="268444382" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="270" pc="268444396" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="272" pc="268444422" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="273" pc="268444422" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="274" pc="268444422" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="275" pc="268444429" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="277" pc="268444436" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="278" pc="268444471" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="279" pc="268444501" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="280" pc="268444531" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="281" pc="268444561" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="282" pc="268444591" symbol="drawTicks"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="8" pc="268437769" symbol="settingUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="9" pc="268437773" symbol="settingUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="10" pc="268437810" symbol="settingUpdate"/>
@@ -230,67 +228,61 @@
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="14" pc="268437924" symbol="settingUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="15" pc="268437937" symbol="settingUpdate"/>
         <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="17" pc="268437950" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="18" pc="268437964" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="19" pc="268437985" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="20" pc="268438031" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="21" pc="268438077" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="22" pc="268438123" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="22" pc="268438143" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="23" pc="268438156" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="23" pc="268438176" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="24" pc="268438189" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="24" pc="268438232" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="26" pc="268438264" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="34" pc="268438477" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="35" pc="268438497" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="36" pc="268438578" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="40" pc="268438616" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="41" pc="268438633" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="43" pc="268438649" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="44" pc="268438676" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="45" pc="268438706" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="46" pc="268438725" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="47" pc="268438750" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="48" pc="268438758" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="49" pc="268438771" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" pc="268438799" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="57" pc="268438847" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="58" pc="268438869" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="59" pc="268438900" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="60" pc="268438931" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="61" pc="268438962" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="68" pc="268438993" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="70" pc="268439020" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="71" pc="268439117" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="72" pc="268439127" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="73" pc="268439158" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="74" pc="268439189" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="75" pc="268439220" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="83" pc="268439267" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="86" pc="268439284" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="87" pc="268439288" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="88" pc="268439346" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="89" pc="268439389" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="21" lineNum="93" pc="268439408" symbol="onStart"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="22" lineNum="97" pc="268439413" symbol="onStop"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="101" pc="268439418" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="102" pc="268439422" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="105" pc="268439490" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="106" pc="268439494" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="107" pc="268439506" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="111" pc="268439523" symbol="getGlanceView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="112" pc="268439527" symbol="getGlanceView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="7" pc="268445033" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="8" pc="268445037" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="11" pc="268445056" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="12" pc="268445060" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="13" pc="268445072" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="16" pc="268445076" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="17" pc="268445080" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="18" pc="268445097" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="21" pc="268445101" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="22" pc="268445105" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="23" pc="268445122" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="19" pc="268437964" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="20" pc="268437985" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="21" pc="268438031" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="22" pc="268438077" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="23" pc="268438123" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="24" pc="268438153" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="25" pc="268438173" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="26" pc="268438254" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="30" pc="268438292" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="31" pc="268438309" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="33" pc="268438325" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="34" pc="268438352" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="35" pc="268438382" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="36" pc="268438401" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="37" pc="268438426" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="38" pc="268438434" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="39" pc="268438447" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="40" pc="268438475" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="47" pc="268438523" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="48" pc="268438545" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="49" pc="268438576" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" pc="268438607" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="51" pc="268438638" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="58" pc="268438669" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="60" pc="268438696" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="61" pc="268438793" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="62" pc="268438803" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="63" pc="268438834" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="64" pc="268438865" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="65" pc="268438896" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="73" pc="268438943" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="76" pc="268438960" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="77" pc="268438964" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="78" pc="268439022" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="79" pc="268439065" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="21" lineNum="83" pc="268439084" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="22" lineNum="87" pc="268439089" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="91" pc="268439094" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="92" pc="268439098" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="95" pc="268439166" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="96" pc="268439170" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="97" pc="268439182" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="101" pc="268439199" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="102" pc="268439203" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="7" pc="268444651" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="8" pc="268444655" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="11" pc="268444674" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="12" pc="268444678" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="13" pc="268444690" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="16" pc="268444694" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="17" pc="268444698" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="18" pc="268444715" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="21" pc="268444719" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="22" pc="268444723" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="23" pc="268444740" symbol="onPreviousPage"/>
     </pcToLineNum>
     <symbolTable>
         <entry field="true" id="15" symbol="eventName"/>
@@ -308,7 +300,6 @@
         <entry field="true" id="12" symbol="events"/>
         <entry field="true" id="57" symbol="swimEventBitmap"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
-        <entry field="true" id="8388720" symbol="hour"/>
         <entry field="true" id="53" symbol="ObjectiveDateTitle"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry field="true" id="8389342" symbol="hours"/>
@@ -351,7 +342,6 @@
         <entry field="true" id="22" symbol="durationSelected"/>
         <entry field="true" id="17" symbol="eventDiff"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="8388940" symbol="year"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry field="true" id="36" symbol="id_other"/>
         <entry field="true" id="13" symbol="todayM"/>
@@ -362,7 +352,6 @@
         <entry field="true" id="54" symbol="NoObjective"/>
         <entry field="true" id="50" symbol="ObjectiveNameTitle"/>
         <entry field="true" id="56" symbol="triEventBitmap"/>
-        <entry id="8389338" symbol="minute"/>
         <entry id="27" object="true" symbol="ObjectivesWidgetDelegate"/>
         <entry field="true" id="58" symbol="bikeEventBitmap"/>
         <entry field="true" id="8388938" symbol="month"/>
@@ -408,84 +397,84 @@
         <entry endPc="268437768" name="height" stackId="3" startPc="268435638"/>
         <entry endPc="268437768" name="width" stackId="2" startPc="268435638"/>
         <entry endPc="268437769" name="dc" stackId="1" startPc="268435634"/>
-        <entry endPc="268440024" name="nbEvents" stackId="2" startPc="268439826"/>
-        <entry endPc="268440025" name="direction" stackId="1" startPc="268439814"/>
-        <entry endPc="268440496" name="dc" stackId="1" startPc="268440491"/>
-        <entry endPc="268443644" name="eX" stackId="30" startPc="268443036"/>
-        <entry endPc="268443644" name="arcE" stackId="24" startPc="268443036"/>
-        <entry endPc="268443644" name="sY" stackId="29" startPc="268443036"/>
-        <entry endPc="268443644" name="sX" stackId="28" startPc="268443036"/>
-        <entry endPc="268443644" name="dayOfYearEvent" stackId="23" startPc="268443036"/>
-        <entry endPc="268443644" name="outerRad" stackId="26" startPc="268443036"/>
-        <entry endPc="268443644" name="dateDiff" stackId="22" startPc="268443036"/>
-        <entry endPc="268443644" name="angleE" stackId="25" startPc="268443036"/>
-        <entry endPc="268443644" name="innerRad" stackId="27" startPc="268443036"/>
-        <entry endPc="268443644" name="eY" stackId="31" startPc="268443036"/>
-        <entry endPc="268443657" name="i" stackId="21" startPc="268443036"/>
-        <entry endPc="268444754" name="lastDayOfYear" stackId="12" startPc="268440794"/>
-        <entry endPc="268444754" name="eventDiffDay" stackId="17" startPc="268440794"/>
-        <entry endPc="268444754" name="diffRy" stackId="20" startPc="268440794"/>
-        <entry endPc="268444754" name="hourString" stackId="10" startPc="268440794"/>
-        <entry endPc="268444754" name="diffRx" stackId="19" startPc="268440794"/>
-        <entry endPc="268444754" name="nbDays" stackId="14" startPc="268440794"/>
-        <entry endPc="268444754" name="durationYear" stackId="13" startPc="268440794"/>
-        <entry endPc="268444754" name="radius" stackId="18" startPc="268440794"/>
-        <entry endPc="268444754" name="arcP" stackId="16" startPc="268440794"/>
-        <entry endPc="268444754" name="firstDayOfYear" stackId="11" startPc="268440794"/>
-        <entry endPc="268444754" name="showIcons" stackId="6" startPc="268440794"/>
-        <entry endPc="268444754" name="icoType" stackId="5" startPc="268440794"/>
-        <entry endPc="268444754" name="eventDate" stackId="8" startPc="268440794"/>
-        <entry endPc="268444754" name="dayOfYearToday" stackId="15" startPc="268440794"/>
-        <entry endPc="268444754" name="dateString" stackId="9" startPc="268440794"/>
-        <entry endPc="268444754" name="icons" stackId="7" startPc="268440794"/>
-        <entry endPc="268444754" name="height" stackId="3" startPc="268440505"/>
-        <entry endPc="268444754" name="hasRsc" stackId="4" startPc="268440505"/>
-        <entry endPc="268444754" name="width" stackId="2" startPc="268440505"/>
-        <entry endPc="268444755" name="dc" stackId="1" startPc="268440501"/>
-        <entry endPc="268445032" name="i" stackId="16" startPc="268444853"/>
-        <entry endPc="268445032" name="eY" stackId="13" startPc="268444764"/>
-        <entry endPc="268445032" name="eX" stackId="12" startPc="268444764"/>
-        <entry endPc="268445032" name="innerRad" stackId="15" startPc="268444764"/>
-        <entry endPc="268445032" name="outerRad" stackId="14" startPc="268444764"/>
-        <entry endPc="268445032" name="sY" stackId="11" startPc="268444764"/>
-        <entry endPc="268445032" name="sX" stackId="10" startPc="268444764"/>
-        <entry endPc="268445033" name="ry" stackId="9" startPc="268444760"/>
-        <entry endPc="268445033" name="rx" stackId="8" startPc="268444760"/>
-        <entry endPc="268445033" name="angle" stackId="6" startPc="268444760"/>
-        <entry endPc="268445033" name="color" stackId="2" startPc="268444760"/>
-        <entry endPc="268445033" name="offset" stackId="7" startPc="268444760"/>
-        <entry endPc="268445033" name="out" stackId="4" startPc="268444760"/>
-        <entry endPc="268445033" name="innerOffset" stackId="5" startPc="268444760"/>
-        <entry endPc="268445033" name="dc" stackId="1" startPc="268444760"/>
-        <entry endPc="268445033" name="size" stackId="3" startPc="268444760"/>
-        <entry endPc="268438603" name="edate" stackId="3" startPc="268437985"/>
-        <entry endPc="268438603" name="ename" stackId="2" startPc="268437985"/>
-        <entry endPc="268438603" name="etype" stackId="4" startPc="268437985"/>
-        <entry endPc="268438603" name="momentE" stackId="5" startPc="268437985"/>
-        <entry endPc="268438616" name="i" stackId="1" startPc="268437985"/>
-        <entry endPc="268438818" name="temp" stackId="10" startPc="268438758"/>
-        <entry endPc="268438821" name="d2" stackId="9" startPc="268438706"/>
-        <entry endPc="268438821" name="d1" stackId="8" startPc="268438706"/>
-        <entry endPc="268438834" name="j" stackId="7" startPc="268438706"/>
-        <entry endPc="268438847" name="i" stackId="6" startPc="268438676"/>
-        <entry endPc="268439267" name="i" stackId="11" startPc="268439020"/>
-        <entry endPc="268439413" name="state" stackId="1" startPc="268439408"/>
-        <entry endPc="268439418" name="state" stackId="1" startPc="268439413"/>
+        <entry endPc="268439700" name="nbEvents" stackId="2" startPc="268439502"/>
+        <entry endPc="268439701" name="direction" stackId="1" startPc="268439490"/>
+        <entry endPc="268440172" name="dc" stackId="1" startPc="268440167"/>
+        <entry endPc="268443320" name="eX" stackId="30" startPc="268442712"/>
+        <entry endPc="268443320" name="arcE" stackId="24" startPc="268442712"/>
+        <entry endPc="268443320" name="sY" stackId="29" startPc="268442712"/>
+        <entry endPc="268443320" name="sX" stackId="28" startPc="268442712"/>
+        <entry endPc="268443320" name="dayOfYearEvent" stackId="23" startPc="268442712"/>
+        <entry endPc="268443320" name="outerRad" stackId="26" startPc="268442712"/>
+        <entry endPc="268443320" name="dateDiff" stackId="22" startPc="268442712"/>
+        <entry endPc="268443320" name="angleE" stackId="25" startPc="268442712"/>
+        <entry endPc="268443320" name="innerRad" stackId="27" startPc="268442712"/>
+        <entry endPc="268443320" name="eY" stackId="31" startPc="268442712"/>
+        <entry endPc="268443333" name="i" stackId="21" startPc="268442712"/>
+        <entry endPc="268444372" name="lastDayOfYear" stackId="12" startPc="268440470"/>
+        <entry endPc="268444372" name="eventDiffDay" stackId="17" startPc="268440470"/>
+        <entry endPc="268444372" name="diffRy" stackId="20" startPc="268440470"/>
+        <entry endPc="268444372" name="hourString" stackId="10" startPc="268440470"/>
+        <entry endPc="268444372" name="diffRx" stackId="19" startPc="268440470"/>
+        <entry endPc="268444372" name="nbDays" stackId="14" startPc="268440470"/>
+        <entry endPc="268444372" name="durationYear" stackId="13" startPc="268440470"/>
+        <entry endPc="268444372" name="radius" stackId="18" startPc="268440470"/>
+        <entry endPc="268444372" name="arcP" stackId="16" startPc="268440470"/>
+        <entry endPc="268444372" name="firstDayOfYear" stackId="11" startPc="268440470"/>
+        <entry endPc="268444372" name="showIcons" stackId="6" startPc="268440470"/>
+        <entry endPc="268444372" name="icoType" stackId="5" startPc="268440470"/>
+        <entry endPc="268444372" name="eventDate" stackId="8" startPc="268440470"/>
+        <entry endPc="268444372" name="dayOfYearToday" stackId="15" startPc="268440470"/>
+        <entry endPc="268444372" name="dateString" stackId="9" startPc="268440470"/>
+        <entry endPc="268444372" name="icons" stackId="7" startPc="268440470"/>
+        <entry endPc="268444372" name="height" stackId="3" startPc="268440181"/>
+        <entry endPc="268444372" name="hasRsc" stackId="4" startPc="268440181"/>
+        <entry endPc="268444372" name="width" stackId="2" startPc="268440181"/>
+        <entry endPc="268444373" name="dc" stackId="1" startPc="268440177"/>
+        <entry endPc="268444650" name="i" stackId="16" startPc="268444471"/>
+        <entry endPc="268444650" name="eY" stackId="13" startPc="268444382"/>
+        <entry endPc="268444650" name="eX" stackId="12" startPc="268444382"/>
+        <entry endPc="268444650" name="innerRad" stackId="15" startPc="268444382"/>
+        <entry endPc="268444650" name="outerRad" stackId="14" startPc="268444382"/>
+        <entry endPc="268444650" name="sY" stackId="11" startPc="268444382"/>
+        <entry endPc="268444650" name="sX" stackId="10" startPc="268444382"/>
+        <entry endPc="268444651" name="ry" stackId="9" startPc="268444378"/>
+        <entry endPc="268444651" name="rx" stackId="8" startPc="268444378"/>
+        <entry endPc="268444651" name="angle" stackId="6" startPc="268444378"/>
+        <entry endPc="268444651" name="color" stackId="2" startPc="268444378"/>
+        <entry endPc="268444651" name="offset" stackId="7" startPc="268444378"/>
+        <entry endPc="268444651" name="out" stackId="4" startPc="268444378"/>
+        <entry endPc="268444651" name="innerOffset" stackId="5" startPc="268444378"/>
+        <entry endPc="268444651" name="dc" stackId="1" startPc="268444378"/>
+        <entry endPc="268444651" name="size" stackId="3" startPc="268444378"/>
+        <entry endPc="268438279" name="edate" stackId="3" startPc="268437985"/>
+        <entry endPc="268438279" name="ename" stackId="2" startPc="268437985"/>
+        <entry endPc="268438279" name="etype" stackId="4" startPc="268437985"/>
+        <entry endPc="268438279" name="eventM" stackId="5" startPc="268437985"/>
+        <entry endPc="268438292" name="i" stackId="1" startPc="268437985"/>
+        <entry endPc="268438494" name="temp" stackId="10" startPc="268438434"/>
+        <entry endPc="268438497" name="d2" stackId="9" startPc="268438382"/>
+        <entry endPc="268438497" name="d1" stackId="8" startPc="268438382"/>
+        <entry endPc="268438510" name="j" stackId="7" startPc="268438382"/>
+        <entry endPc="268438523" name="i" stackId="6" startPc="268438352"/>
+        <entry endPc="268438943" name="i" stackId="11" startPc="268438696"/>
+        <entry endPc="268439089" name="state" stackId="1" startPc="268439084"/>
+        <entry endPc="268439094" name="state" stackId="1" startPc="268439089"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
         <dataEntry offset="294" parentId="globals" symbolId="ObjectivesWidgetApp" type="class"/>
         <dataEntry offset="389" parentId="globals" symbolId="ObjectivesGlanceView" type="class"/>
-        <dataEntry offset="1112" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="1191" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="1270" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="1301" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="1332" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="1363" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="1394" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="1585" parentId="globals" symbolId="ObjectivesWidgetDelegate" type="class"/>
-        <dataEntry offset="1656" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
+        <dataEntry offset="1102" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="1181" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="1260" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1291" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1322" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1353" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1384" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1575" parentId="globals" symbolId="ObjectivesWidgetDelegate" type="class"/>
+        <dataEntry offset="1646" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="ObjectivesGlanceView">
