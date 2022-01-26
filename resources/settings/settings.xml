@@ -14,6 +14,9 @@
     <setting propertyKey="@Properties.Objective1-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
+    <setting propertyKey="@Properties.Objective1-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
     <setting propertyKey="@Properties.Objective1-Date" title="@Strings.ObjectiveDateTitle" prompt="@Strings.ObjectiveDatePrompt">
         <settingConfig type="date" min="1577836800" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
@@ -31,6 +34,9 @@
     <setting propertyKey="@Properties.Objective2-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
+    <setting propertyKey="@Properties.Objective2-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
     <setting propertyKey="@Properties.Objective2-Date" title="@Strings.ObjectiveDateTitle">
         <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
@@ -47,6 +53,9 @@
     <setting propertyKey="@Properties.Objective3-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
+    <setting propertyKey="@Properties.Objective3-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>    
     <setting propertyKey="@Properties.Objective3-Date" title="@Strings.ObjectiveDateTitle">
         <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
@@ -62,6 +71,9 @@
     
     <setting propertyKey="@Properties.Objective4-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective4-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
     </setting>
     <setting propertyKey="@Properties.Objective4-Date" title="@Strings.ObjectiveDateTitle">
         <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
@@ -79,6 +91,9 @@
     <setting propertyKey="@Properties.Objective5-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
     </setting>
+    <setting propertyKey="@Properties.Objective5-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
     <setting propertyKey="@Properties.Objective5-Date" title="@Strings.ObjectiveDateTitle">
         <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
     </setting>
@@ -94,6 +109,9 @@
 
     <setting propertyKey="@Properties.Objective6-Name" title="@Strings.ObjectiveNameTitle">
         <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective6-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
     </setting>
     <setting propertyKey="@Properties.Objective6-Date" title="@Strings.ObjectiveDateTitle">
         <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>

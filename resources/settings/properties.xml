@@ -3,26 +3,32 @@
 	<property id="DefaultUnit" type="number">0</property>
 
 	<property id="Objective1-Name" type="string"></property>
+	<property id="Objective1-Goal" type="string"></property>
 	<property id="Objective1-Date" type="number">1577836800</property>
 	<property id="Objective1-Type" type="number">4</property>
 
 	<property id="Objective2-Name" type="string"></property>
+	<property id="Objective2-Goal" type="string"></property>
 	<property id="Objective2-Date" type="number">1577836800</property>
 	<property id="Objective2-Type" type="number">4</property>
 	
 	<property id="Objective3-Name" type="string"></property>
+	<property id="Objective3-Goal" type="string"></property>
 	<property id="Objective3-Date" type="number">1577836800</property>
 	<property id="Objective3-Type" type="number">4</property>
 
 	<property id="Objective4-Name" type="string"></property>
+	<property id="Objective4-Goal" type="string"></property>
 	<property id="Objective4-Date" type="number">1577836800</property>
 	<property id="Objective4-Type" type="number">4</property>
 
 	<property id="Objective5-Name" type="string"></property>
+	<property id="Objective5-Goal" type="string"></property>
 	<property id="Objective5-Date" type="number">1577836800</property>
 	<property id="Objective5-Type" type="number">4</property>
 
 	<property id="Objective6-Name" type="string"></property>
+	<property id="Objective6-Goal" type="string"></property>
 	<property id="Objective6-Date" type="number">1577836800</property>
 	<property id="Objective6-Type" type="number">4</property>
 </properties>

@@ -14,6 +14,7 @@ var today;
 // Event selected
 var eventDateMoment;
 var eventName;
+var eventGoal;
 var eventType;
 var eventDiff;
 var selection;
@@ -34,9 +35,10 @@ function cycleObjective(direction) {
 	if (nbEvents>0) {
 		selection = ((selection+direction)+nbEvents)%nbEvents;
 		eventName=events[selection][0];
-		eventDateMoment = events[selection][1];
-		eventType = events[selection][2];
-		eventDiff = events[selection][3];
+		eventGoal=events[selection][1];
+		eventDateMoment = events[selection][2];
+		eventType = events[selection][3];
+		eventDiff = events[selection][4];
 	}
 	WatchUi.requestUpdate();
 }
@@ -86,6 +88,8 @@ class ObjectivesWidgetView extends WatchUi.View {
     	dc.clear();
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 
+		if (dc has :setAntiAlias ) { dc.setAntiAlias(true); }
+		
 		if (eventName.length()==0) {
 			dc.drawText(width/2,(height/2)-Graphics.getFontHeight(Graphics.FONT_MEDIUM), Graphics.FONT_MEDIUM , (hasRsc?Application.loadResource(Rez.Strings.NoObjective):"No objectives"), Graphics.TEXT_JUSTIFY_CENTER);
 		} else {
@@ -159,6 +163,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 	    	drawTicks(dc,Graphics.COLOR_LT_GRAY,3,(radius / 2),10,30.0,0,diffRx,diffRy);
 	    	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    	dc.drawText(width/2,(height/4)*3-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY ), Graphics.FONT_SYSTEM_TINY ,dateString, Graphics.TEXT_JUSTIFY_CENTER);
+	    	dc.drawText(width/2,(height/4)*3-Graphics.getFontHeight(Graphics.FONT_SYSTEM_TINY )/2+4, Graphics.FONT_SYSTEM_TINY ,eventGoal, Graphics.TEXT_JUSTIFY_CENTER);
 			
 			if (eventDiffDay>0) {
 				if (height<=220) {
@@ -180,8 +185,8 @@ class ObjectivesWidgetView extends WatchUi.View {
 			
 			// All Events Tick
 			for( var i = 0; i < events.size(); i += 1 ) {
-				var dateDiff = events[i][3]/Gregorian.SECONDS_PER_DAY;
-				var dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][1]).value()/Gregorian.SECONDS_PER_DAY);
+				var dateDiff = events[i][4]/Gregorian.SECONDS_PER_DAY;
+				var dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][2]).value()/Gregorian.SECONDS_PER_DAY);
 				var arcE = Math.floor((dayOfYearEvent*360.0)/nbDays);
 				var angleE = Math.toRadians(arcE-90.0);
 			    var outerRad = (radius / 2.0);

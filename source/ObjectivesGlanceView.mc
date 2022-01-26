@@ -100,7 +100,7 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 			    } else {
 	    			dc.setPenWidth(4);
 			    }
-				var dateDiff = events[i][3];			    
+				dateDiff = events[i][4];			    
 		    	if (dateDiff==0) {
 		    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
 		    	} else if (dateDiff>0) {
@@ -112,8 +112,8 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 		    	} else if (dateDiff<0) {
 		    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
 		    	}
-				var dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][1]).value()/Gregorian.SECONDS_PER_DAY);
-				var tickEvent = Math.floor((dayOfYearEvent*bar)/nbDays);
+				dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][2]).value()/Gregorian.SECONDS_PER_DAY);
+				tickEvent = Math.floor((dayOfYearEvent*bar)/nbDays);
 				dc.drawLine(baroffsetX+tickEvent, baroffsetY+(height/2)-8, baroffsetX+tickEvent, baroffsetY+(height/2)+8);
 			}   	
 	    }

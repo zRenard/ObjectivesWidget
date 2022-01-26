@@ -3,6 +3,8 @@
     
     <string id="ObjectiveNameTitle">Event</string>
     <string id="ObjectiveNameError">Objective name too long (25 max)</string>
+    <string id="ObjectiveGoalTitle">Goal</string>
+    <string id="ObjectiveGoalError">Objective goal too long (25 max)</string>
     <string id="ObjectiveDateTitle">Event date</string>
     <string id="ObjectiveDatePrompt">Date</string>
     <string id="ObjectiveDateError">Error in date format</string>

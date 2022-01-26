@@ -3,6 +3,8 @@
     
     <string id="ObjectiveNameTitle">Nom de l'objectif</string>
     <string id="ObjectiveNameError">Nom d'objectif trop long (25 caracteres max)</string>
+    <string id="ObjectiveGoalTitle">But de l'objectif</string>
+    <string id="ObjectiveGoalError">But de l'objectif trop long (25 caracteres max)</string>
     <string id="ObjectiveDateTitle">Date de l'objectif</string>
     <string id="ObjectiveDatePrompt">Format de date</string>
     <string id="ObjectiveDateError">Erreur dans le format de date</string>

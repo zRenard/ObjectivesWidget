@@ -7,7 +7,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
 
 	function settingUpdate() {
 	    durationSelected = Application.getApp().getProperty("DefaultUnit");
-		todayM = new Time.Moment(Time.now().value());    
+		todayM = new Time.Moment(Time.today().value());    
 		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
 	
         selection=0;
@@ -18,12 +18,15 @@ class ObjectivesWidgetApp extends Application.AppBase {
 		//System.println(today);
         for( var i = 0; i < maxEvents; i += 1 ) {
         	var ename = Application.getApp().getProperty("Objective"+(i+1)+"-Name");
+        	var egoal = Application.getApp().getProperty("Objective"+(i+1)+"-Goal");
         	var edate = Application.getApp().getProperty("Objective"+(i+1)+"-Date"); // 2020-05-11 07:00 or 2020-05-11
         	var etype = Application.getApp().getProperty("Objective"+(i+1)+"-Type");
         	var eventM = new Time.Moment(edate);    
         	if (ename.length()>0) {
-        		events.add([ename, eventM ,etype, eventM.compare(todayM)]);
+        		events.add([ename, egoal, eventM ,etype, eventM.compare(todayM)]);
         		nbEvents=nbEvents+1;
+	    	} else {
+	    	 Application.getApp().setProperty("Objective"+(i+1)+"-Date", new Time.Moment(Time.today().value()).value());
 	    	}
 	    }
 	    
@@ -46,9 +49,10 @@ class ObjectivesWidgetApp extends Application.AppBase {
 
 		    selection=nbEvents-1;
 		    eventName = events[selection][0];
-			eventDateMoment = events[selection][1];
-			eventType = events[selection][2];
-			eventDiff = events[selection][3];
+		    eventGoal = events[selection][1];
+			eventDateMoment = events[selection][2];
+			eventType = events[selection][3];
+			eventDiff = events[selection][4];
 
 //			System.print(selection + " ");
 //			System.print(eventName + " ");
@@ -60,9 +64,10 @@ class ObjectivesWidgetApp extends Application.AppBase {
 		        if (events[i][3]/Gregorian.SECONDS_PER_DAY>=0 && eventDiff/Gregorian.SECONDS_PER_DAY>=events[i][3]/Gregorian.SECONDS_PER_DAY) {
 		        	selection=i;
 		            eventName = events[selection][0];
-					eventDateMoment = events[selection][1];
-					eventType = events[selection][2];
-					eventDiff = events[selection][3];
+		            eventGoal = events[selection][1];
+					eventDateMoment = events[selection][2];
+					eventType = events[selection][3];
+					eventDiff = events[selection][4];
 				}
 			}
 //			System.print(selection + " ");
