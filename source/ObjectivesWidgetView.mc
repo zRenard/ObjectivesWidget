@@ -25,8 +25,6 @@ var durationSelected=0;
 
 function changeDuration() {
 	durationSelected=((durationSelected+1)+3)%3;
-//	System.println(durationSelected);
-//	System.println(durationUnits[durationSelected]);
 	WatchUi.requestUpdate();
 }
 
@@ -82,8 +80,6 @@ class ObjectivesWidgetView extends WatchUi.View {
 		var width = dc.getWidth();
 		var height = dc.getHeight();
 		var hasRsc = (Toybox.Application has :Resource);
-		//System.println(width);
-		//System.println(height);
     	dc.setColor(Graphics.COLOR_TRANSPARENT,Graphics.COLOR_BLACK);
     	dc.clear();
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
@@ -150,15 +146,10 @@ class ObjectivesWidgetView extends WatchUi.View {
 			var dayOfYearToday = Math.floor(firstDayOfYear.subtract(todayM).value()/Gregorian.SECONDS_PER_DAY);
 			var arcP = Math.floor((dayOfYearToday*360)/nbDays);
 			var eventDiffDay=eventDiff/Gregorian.SECONDS_PER_DAY;	
-//			System.println(eventDiffDay);
 	
 			var radius=(width>height)?height:width; // compute radius for non-round device and non square
 			var diffRx = Math.ceil((width>height)?(width-height)/2.0:0); // compute x offset due to non square device
 			var diffRy = Math.ceil((height>width)?(height-width)/2.0:0); // compute y offset due to non square device
-//			System.println(radius);
-//			System.println((width-height)/2.0);
-//			System.println(diffRx);
-//			System.println(diffRy);
 	        dc.drawArc(width/2, height/2, (radius/2)-5,Graphics.ARC_CLOCKWISE, 90,90-arcP);
 	    	drawTicks(dc,Graphics.COLOR_LT_GRAY,3,(radius / 2),10,30.0,0,diffRx,diffRy);
 	    	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
@@ -214,23 +205,11 @@ class ObjectivesWidgetView extends WatchUi.View {
 	    			dc.setColor(Graphics.COLOR_BLUE ,Graphics.COLOR_TRANSPARENT);
 			    } else {
 			    	dc.setPenWidth(3);
-			    }		    	
-			    dc.drawLine(sX+diffRx, sY+diffRy, eX+diffRx, eY+diffRy);
+			    }
+			    if (Gregorian.info(events[i][2], Time.FORMAT_MEDIUM).year == today.year) {		    	
+			    	dc.drawLine(sX+diffRx, sY+diffRy, eX+diffRx, eY+diffRy);
+			    }
 			}
-			
-//			System.println(eventDiffDay);		
-//			System.println(eventDate.day);
-//			System.println(today.day);
-//			System.println(eventDate.month);
-//			System.println(today.month);
-//			System.println(eventDate.year);
-//			System.println(today.year);
-	
-//			if (today.year.equals(eventDate.year) &&
-//				today.month.equals(eventDate.month) &&
-//				today.day.equals(eventDate.day) ) {
-//				System.println("Today");
-//			}
 	
 			if (eventDiffDay==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);

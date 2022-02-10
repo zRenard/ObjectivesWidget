@@ -4,6 +4,11 @@ Garmin widget to track objectives of the year
 Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/d63c889f-927a-4c5f-8b67-ea86ca85d305
 
 # Changes log
+## 1.5.5
+v1.5.5
+* (**new**) Only current year objectives have ticks on Glance View
+* (*fix*) The closest objective was selected by default
+
 ## 1.5.4
 * (**new**) Add event goal (motivation quote or time, or what ever,  up to you)
 * (**new**) Add Fenix 7 support and news models

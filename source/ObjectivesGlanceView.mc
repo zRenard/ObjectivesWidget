@@ -36,7 +36,6 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
     	dc.setColor(Graphics.COLOR_BLACK,Graphics.COLOR_BLACK);
     	dc.clear();
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
-	    //dc.drawRectangle(0, 0, width, height);
 
 		if (eventName.length()==0) {
 	    	dc.drawText(0,(height/2)-Graphics.getFontHeight(Graphics.FONT_SYSTEM_XTINY)/2, Graphics.FONT_SYSTEM_XTINY, "No objective", Graphics.TEXT_JUSTIFY_LEFT);
@@ -90,10 +89,7 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 	    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - Done", Graphics.TEXT_JUSTIFY_LEFT);    		
 	    	}
-//	    	dc.setPenWidth(3);
-//			dc.drawLine(baroffsetX+tickEvent, (height/2)-8, baroffsetX+tickEvent, (height/2)+8);
 			// All Events Tick
-//	    	dc.setPenWidth(2);
 			for( var i = 0; i < events.size(); i += 1 ) {
 				if (i==selection) {
 			    	dc.setPenWidth(6);
@@ -114,7 +110,9 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 		    	}
 				dayOfYearEvent = Math.floor(firstDayOfYear.subtract(events[i][2]).value()/Gregorian.SECONDS_PER_DAY);
 				tickEvent = Math.floor((dayOfYearEvent*bar)/nbDays);
-				dc.drawLine(baroffsetX+tickEvent, baroffsetY+(height/2)-8, baroffsetX+tickEvent, baroffsetY+(height/2)+8);
+				if (Gregorian.info(events[i][2], Time.FORMAT_MEDIUM).year == today.year) {
+				 dc.drawLine(baroffsetX+tickEvent, baroffsetY+(height/2)-8, baroffsetX+tickEvent, baroffsetY+(height/2)+8);
+				}
 			}   	
 	    }
 	} 
