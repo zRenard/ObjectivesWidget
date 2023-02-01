@@ -6,7 +6,7 @@ using Toybox.System;
 using Toybox.Time;
 using Toybox.Time.Gregorian;
 
-var maxEvents=6;
+var maxEvents=9;
 var nbEvents;
 var events = [];
 var todayM;    
@@ -56,7 +56,7 @@ class ObjectivesWidgetView extends WatchUi.View {
         bikeEventBitmap = WatchUi.loadResource(Rez.Drawables.id_bike);
         runEventBitmap = WatchUi.loadResource(Rez.Drawables.id_run);
         otherEventBitmap = WatchUi.loadResource(Rez.Drawables.id_other);
-        durationSelected = Application.getApp().getProperty("DefaultUnit");
+        durationSelected = Application.Properties.getValue("DefaultUnit");
         if (Toybox.Application has :Resource) {
         	durationUnitsLabel[0] = Application.loadResource(Rez.Strings.days);
         	durationUnitsLabel[1] = Application.loadResource(Rez.Strings.weeks);
@@ -93,7 +93,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 			today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
 	    	dc.setPenWidth(5);
 	    	var icoType="";
-	    	var showIcons=Application.getApp().getProperty("ShowIcons");
+	    	var showIcons=Application.Properties.getValue("ShowIcons");
 	    	var icons=otherEventBitmap;
 	    	switch ( eventType ) {
 				case 0:
@@ -222,9 +222,9 @@ class ObjectivesWidgetView extends WatchUi.View {
 	    			dc.setColor(Graphics.COLOR_RED ,Graphics.COLOR_TRANSPARENT);
 	    		}
 	    		if (height<=205) {
-	    			dc.drawText(width/2,(height/2)-12-Graphics.getFontHeight(Graphics.FONT_NUMBER_HOT )/2, Graphics.FONT_NUMBER_HOT  ,Math.round(eventDiff/durationUnits[durationSelected]).toNumber(), Graphics.TEXT_JUSTIFY_CENTER);
+	    			dc.drawText(width/2,(height/2)-12-Graphics.getFontHeight(Graphics.FONT_NUMBER_HOT )/2, Graphics.FONT_NUMBER_HOT  ,Math.round(eventDiff/durationUnits[durationSelected]).toString(), Graphics.TEXT_JUSTIFY_CENTER);
 	    		} else {
-	    			dc.drawText(width/2,(height/2)-12-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT)/2, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT ,Math.round(eventDiff/durationUnits[durationSelected]).toNumber(), Graphics.TEXT_JUSTIFY_CENTER);
+	    			dc.drawText(width/2,(height/2)-12-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT)/2, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT ,Math.round(eventDiff/durationUnits[durationSelected]).toString(), Graphics.TEXT_JUSTIFY_CENTER);
 	    		}    	
 	    	} else if (eventDiffDay<0) {
 	    		dc.setColor(Graphics.COLOR_DK_GREEN ,Graphics.COLOR_TRANSPARENT);

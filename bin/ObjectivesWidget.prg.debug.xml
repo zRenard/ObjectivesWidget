@@ -2,352 +2,340 @@
 <debugInfo>
     <manifest filename="C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="1" lineNum="12" parent="globals/ObjectivesGlanceView" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="1" lineNum="13" parent="globals/ObjectivesGlanceView" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="1" lineNum="14" parent="globals/ObjectivesGlanceView" pc="268435518" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="1" lineNum="15" parent="globals/ObjectivesGlanceView" pc="268435561" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="1" lineNum="16" parent="globals/ObjectivesGlanceView" pc="268435579" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="2" lineNum="19" parent="globals/ObjectivesGlanceView" pc="268435598" symbol="onShow"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="3" lineNum="22" parent="globals/ObjectivesGlanceView" pc="268435603" symbol="timerCallback"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="3" lineNum="23" parent="globals/ObjectivesGlanceView" pc="268435607" symbol="timerCallback"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="4" lineNum="26" parent="globals/ObjectivesGlanceView" pc="268435624" symbol="onHide"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="5" lineNum="29" parent="globals/ObjectivesGlanceView" pc="268435629" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="32" parent="globals/ObjectivesGlanceView" pc="268435634" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="33" parent="globals/ObjectivesGlanceView" pc="268435638" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="34" parent="globals/ObjectivesGlanceView" pc="268435651" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="36" parent="globals/ObjectivesGlanceView" pc="268435664" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="37" parent="globals/ObjectivesGlanceView" pc="268435700" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="38" parent="globals/ObjectivesGlanceView" pc="268435712" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="40" parent="globals/ObjectivesGlanceView" pc="268435748" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="41" parent="globals/ObjectivesGlanceView" pc="268435774" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="43" parent="globals/ObjectivesGlanceView" pc="268435865" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="44" parent="globals/ObjectivesGlanceView" pc="268435923" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="45" parent="globals/ObjectivesGlanceView" pc="268435966" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="46" parent="globals/ObjectivesGlanceView" pc="268436003" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="55" parent="globals/ObjectivesGlanceView" pc="268436097" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="56" parent="globals/ObjectivesGlanceView" pc="268436124" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="57" parent="globals/ObjectivesGlanceView" pc="268436141" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="58" parent="globals/ObjectivesGlanceView" pc="268436148" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="59" parent="globals/ObjectivesGlanceView" pc="268436155" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="60" parent="globals/ObjectivesGlanceView" pc="268436159" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="61" parent="globals/ObjectivesGlanceView" pc="268436169" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="62" parent="globals/ObjectivesGlanceView" pc="268436218" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="63" parent="globals/ObjectivesGlanceView" pc="268436267" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="64" parent="globals/ObjectivesGlanceView" pc="268436282" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="65" parent="globals/ObjectivesGlanceView" pc="268436325" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="66" parent="globals/ObjectivesGlanceView" pc="268436385" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="67" parent="globals/ObjectivesGlanceView" pc="268436445" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="68" parent="globals/ObjectivesGlanceView" pc="268436472" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="69" parent="globals/ObjectivesGlanceView" pc="268436499" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="70" parent="globals/ObjectivesGlanceView" pc="268436516" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="71" parent="globals/ObjectivesGlanceView" pc="268436552" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="72" parent="globals/ObjectivesGlanceView" pc="268436595" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="73" parent="globals/ObjectivesGlanceView" pc="268436631" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="74" parent="globals/ObjectivesGlanceView" pc="268436649" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="76" parent="globals/ObjectivesGlanceView" pc="268436724" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="77" parent="globals/ObjectivesGlanceView" pc="268436770" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="78" parent="globals/ObjectivesGlanceView" pc="268436796" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="80" parent="globals/ObjectivesGlanceView" pc="268436853" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="82" parent="globals/ObjectivesGlanceView" pc="268436907" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="83" parent="globals/ObjectivesGlanceView" pc="268436918" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="84" parent="globals/ObjectivesGlanceView" pc="268436954" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="85" parent="globals/ObjectivesGlanceView" pc="268437033" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="86" parent="globals/ObjectivesGlanceView" pc="268437044" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="87" parent="globals/ObjectivesGlanceView" pc="268437080" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="88" parent="globals/ObjectivesGlanceView" pc="268437171" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="89" parent="globals/ObjectivesGlanceView" pc="268437182" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="90" parent="globals/ObjectivesGlanceView" pc="268437218" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="93" parent="globals/ObjectivesGlanceView" pc="268437300" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="94" parent="globals/ObjectivesGlanceView" pc="268437330" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="95" parent="globals/ObjectivesGlanceView" pc="268437344" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="97" parent="globals/ObjectivesGlanceView" pc="268437364" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="99" parent="globals/ObjectivesGlanceView" pc="268437381" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="100" parent="globals/ObjectivesGlanceView" pc="268437400" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="101" parent="globals/ObjectivesGlanceView" pc="268437411" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="102" parent="globals/ObjectivesGlanceView" pc="268437450" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="103" parent="globals/ObjectivesGlanceView" pc="268437461" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="104" parent="globals/ObjectivesGlanceView" pc="268437475" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="106" parent="globals/ObjectivesGlanceView" pc="268437514" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="108" parent="globals/ObjectivesGlanceView" pc="268437553" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="109" parent="globals/ObjectivesGlanceView" pc="268437564" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="111" parent="globals/ObjectivesGlanceView" pc="268437603" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="112" parent="globals/ObjectivesGlanceView" pc="268437672" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="113" parent="globals/ObjectivesGlanceView" pc="268437699" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="114" parent="globals/ObjectivesGlanceView" pc="268437767" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="7" lineNum="10" parent="globals/ObjectivesGlanceView" pc="268439445" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="7" lineNum="10" parent="globals/ObjectivesGlanceView" pc="268439445" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="26" parent="globals" pc="268439464" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="27" parent="globals" pc="268439476" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="9" lineNum="28" parent="globals" pc="268439510" symbol="changeDuration"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="31" parent="globals" pc="268439527" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="32" parent="globals" pc="268439539" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="33" parent="globals" pc="268439558" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="34" parent="globals" pc="268439569" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="35" parent="globals" pc="268439594" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="36" parent="globals" pc="268439625" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="37" parent="globals" pc="268439656" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="38" parent="globals" pc="268439687" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="39" parent="globals" pc="268439718" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="10" lineNum="41" parent="globals" pc="268439752" symbol="cycleObjective"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="51" parent="globals/ObjectivesWidgetView" pc="268439769" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="52" parent="globals/ObjectivesWidgetView" pc="268439773" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="53" parent="globals/ObjectivesWidgetView" pc="268439791" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="54" parent="globals/ObjectivesWidgetView" pc="268439809" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="55" parent="globals/ObjectivesWidgetView" pc="268439852" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="56" parent="globals/ObjectivesWidgetView" pc="268439895" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="57" parent="globals/ObjectivesWidgetView" pc="268439938" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="58" parent="globals/ObjectivesWidgetView" pc="268439981" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="59" parent="globals/ObjectivesWidgetView" pc="268440024" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="60" parent="globals/ObjectivesWidgetView" pc="268440061" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="61" parent="globals/ObjectivesWidgetView" pc="268440084" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="62" parent="globals/ObjectivesWidgetView" pc="268440133" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="11" lineNum="63" parent="globals/ObjectivesWidgetView" pc="268440182" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="12" lineNum="68" parent="globals/ObjectivesWidgetView" pc="268440235" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="13" lineNum="75" parent="globals/ObjectivesWidgetView" pc="268440240" symbol="onShow"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="79" parent="globals/ObjectivesWidgetView" pc="268440245" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="80" parent="globals/ObjectivesWidgetView" pc="268440249" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="81" parent="globals/ObjectivesWidgetView" pc="268440262" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="82" parent="globals/ObjectivesWidgetView" pc="268440275" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="83" parent="globals/ObjectivesWidgetView" pc="268440297" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="84" parent="globals/ObjectivesWidgetView" pc="268440333" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="85" parent="globals/ObjectivesWidgetView" pc="268440345" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="87" parent="globals/ObjectivesWidgetView" pc="268440381" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="87" parent="globals/ObjectivesWidgetView" pc="268440392" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="89" parent="globals/ObjectivesWidgetView" pc="268440409" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="90" parent="globals/ObjectivesWidgetView" pc="268440435" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="92" parent="globals/ObjectivesWidgetView" pc="268440566" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="93" parent="globals/ObjectivesWidgetView" pc="268440624" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="94" parent="globals/ObjectivesWidgetView" pc="268440667" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="95" parent="globals/ObjectivesWidgetView" pc="268440684" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="96" parent="globals/ObjectivesWidgetView" pc="268440691" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="97" parent="globals/ObjectivesWidgetView" pc="268440722" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="98" parent="globals/ObjectivesWidgetView" pc="268440732" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="116" parent="globals/ObjectivesWidgetView" pc="268440826" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="117" parent="globals/ObjectivesWidgetView" pc="268440876" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="118" parent="globals/ObjectivesWidgetView" pc="268440886" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="100" parent="globals/ObjectivesWidgetView" pc="268440892" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="101" parent="globals/ObjectivesWidgetView" pc="268440942" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="102" parent="globals/ObjectivesWidgetView" pc="268440952" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="104" parent="globals/ObjectivesWidgetView" pc="268440955" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="105" parent="globals/ObjectivesWidgetView" pc="268441005" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="106" parent="globals/ObjectivesWidgetView" pc="268441015" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="108" parent="globals/ObjectivesWidgetView" pc="268441018" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="109" parent="globals/ObjectivesWidgetView" pc="268441068" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="110" parent="globals/ObjectivesWidgetView" pc="268441078" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="112" parent="globals/ObjectivesWidgetView" pc="268441081" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="113" parent="globals/ObjectivesWidgetView" pc="268441131" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="114" parent="globals/ObjectivesWidgetView" pc="268441141" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="120" parent="globals/ObjectivesWidgetView" pc="268441147" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="121" parent="globals/ObjectivesWidgetView" pc="268441173" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="123" parent="globals/ObjectivesWidgetView" pc="268441264" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="125" parent="globals/ObjectivesWidgetView" pc="268441352" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="126" parent="globals/ObjectivesWidgetView" pc="268441389" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="135" parent="globals/ObjectivesWidgetView" pc="268441483" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="142" parent="globals/ObjectivesWidgetView" pc="268441573" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="143" parent="globals/ObjectivesWidgetView" pc="268441622" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="144" parent="globals/ObjectivesWidgetView" pc="268441671" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="145" parent="globals/ObjectivesWidgetView" pc="268441686" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="146" parent="globals/ObjectivesWidgetView" pc="268441729" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="147" parent="globals/ObjectivesWidgetView" pc="268441789" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="148" parent="globals/ObjectivesWidgetView" pc="268441819" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="150" parent="globals/ObjectivesWidgetView" pc="268441842" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="151" parent="globals/ObjectivesWidgetView" pc="268441859" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="152" parent="globals/ObjectivesWidgetView" pc="268441905" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="153" parent="globals/ObjectivesWidgetView" pc="268441951" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="154" parent="globals/ObjectivesWidgetView" pc="268442018" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="155" parent="globals/ObjectivesWidgetView" pc="268442076" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="156" parent="globals/ObjectivesWidgetView" pc="268442112" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="157" parent="globals/ObjectivesWidgetView" pc="268442200" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="159" parent="globals/ObjectivesWidgetView" pc="268442306" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="160" parent="globals/ObjectivesWidgetView" pc="268442317" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="161" parent="globals/ObjectivesWidgetView" pc="268442328" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="163" parent="globals/ObjectivesWidgetView" pc="268442434" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="166" parent="globals/ObjectivesWidgetView" pc="268442540" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="167" parent="globals/ObjectivesWidgetView" pc="268442560" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="168" parent="globals/ObjectivesWidgetView" pc="268442571" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="170" parent="globals/ObjectivesWidgetView" pc="268442668" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="173" parent="globals/ObjectivesWidgetView" pc="268442759" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="174" parent="globals/ObjectivesWidgetView" pc="268442785" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="178" parent="globals/ObjectivesWidgetView" pc="268442884" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="179" parent="globals/ObjectivesWidgetView" pc="268442914" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="180" parent="globals/ObjectivesWidgetView" pc="268442946" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="181" parent="globals/ObjectivesWidgetView" pc="268443015" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="182" parent="globals/ObjectivesWidgetView" pc="268443045" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="183" parent="globals/ObjectivesWidgetView" pc="268443072" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="184" parent="globals/ObjectivesWidgetView" pc="268443082" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="185" parent="globals/ObjectivesWidgetView" pc="268443092" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="186" parent="globals/ObjectivesWidgetView" pc="268443092" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="187" parent="globals/ObjectivesWidgetView" pc="268443092" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="188" parent="globals/ObjectivesWidgetView" pc="268443119" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="189" parent="globals/ObjectivesWidgetView" pc="268443146" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="190" parent="globals/ObjectivesWidgetView" pc="268443173" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="192" parent="globals/ObjectivesWidgetView" pc="268443200" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="193" parent="globals/ObjectivesWidgetView" pc="268443211" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="194" parent="globals/ObjectivesWidgetView" pc="268443250" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="195" parent="globals/ObjectivesWidgetView" pc="268443261" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="196" parent="globals/ObjectivesWidgetView" pc="268443275" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="198" parent="globals/ObjectivesWidgetView" pc="268443314" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="200" parent="globals/ObjectivesWidgetView" pc="268443353" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="201" parent="globals/ObjectivesWidgetView" pc="268443364" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="203" parent="globals/ObjectivesWidgetView" pc="268443403" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="204" parent="globals/ObjectivesWidgetView" pc="268443417" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="205" parent="globals/ObjectivesWidgetView" pc="268443434" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="207" parent="globals/ObjectivesWidgetView" pc="268443473" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="209" parent="globals/ObjectivesWidgetView" pc="268443490" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="210" parent="globals/ObjectivesWidgetView" pc="268443558" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="214" parent="globals/ObjectivesWidgetView" pc="268443606" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="215" parent="globals/ObjectivesWidgetView" pc="268443617" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="216" parent="globals/ObjectivesWidgetView" pc="268443653" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="217" parent="globals/ObjectivesWidgetView" pc="268443744" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="218" parent="globals/ObjectivesWidgetView" pc="268443832" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="219" parent="globals/ObjectivesWidgetView" pc="268443843" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="220" parent="globals/ObjectivesWidgetView" pc="268443863" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="222" parent="globals/ObjectivesWidgetView" pc="268443902" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="224" parent="globals/ObjectivesWidgetView" pc="268443938" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="225" parent="globals/ObjectivesWidgetView" pc="268443949" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="227" parent="globals/ObjectivesWidgetView" pc="268444096" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="229" parent="globals/ObjectivesWidgetView" pc="268444243" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="230" parent="globals/ObjectivesWidgetView" pc="268444254" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="231" parent="globals/ObjectivesWidgetView" pc="268444290" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="232" parent="globals/ObjectivesWidgetView" pc="268444375" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="234" parent="globals/ObjectivesWidgetView" pc="268444456" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="235" parent="globals/ObjectivesWidgetView" pc="268444462" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="237" parent="globals/ObjectivesWidgetView" pc="268444547" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="238" parent="globals/ObjectivesWidgetView" pc="268444558" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="14" lineNum="240" parent="globals/ObjectivesWidgetView" pc="268444603" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="15" lineNum="249" parent="globals/ObjectivesWidgetView" pc="268444646" symbol="onHide"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="252" parent="globals/ObjectivesWidgetView" pc="268444651" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="253" parent="globals/ObjectivesWidgetView" pc="268444655" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="254" parent="globals/ObjectivesWidgetView" pc="268444669" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="256" parent="globals/ObjectivesWidgetView" pc="268444695" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="257" parent="globals/ObjectivesWidgetView" pc="268444695" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="258" parent="globals/ObjectivesWidgetView" pc="268444695" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="259" parent="globals/ObjectivesWidgetView" pc="268444702" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="261" parent="globals/ObjectivesWidgetView" pc="268444709" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="262" parent="globals/ObjectivesWidgetView" pc="268444744" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="263" parent="globals/ObjectivesWidgetView" pc="268444774" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="264" parent="globals/ObjectivesWidgetView" pc="268444804" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="265" parent="globals/ObjectivesWidgetView" pc="268444834" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="16" lineNum="266" parent="globals/ObjectivesWidgetView" pc="268444864" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="44" parent="globals/ObjectivesWidgetView" pc="268445074" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="17" lineNum="44" parent="globals/ObjectivesWidgetView" pc="268445074" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="18" lineNum="11" parent="globals" pc="268439278" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="18" lineNum="22" parent="globals" pc="268439292" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="18" lineNum="23" parent="globals" pc="268439372" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="8" parent="globals/ObjectivesWidgetApp" pc="268437840" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="9" parent="globals/ObjectivesWidgetApp" pc="268437844" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="10" parent="globals/ObjectivesWidgetApp" pc="268437881" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="11" parent="globals/ObjectivesWidgetApp" pc="268437939" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="13" parent="globals/ObjectivesWidgetApp" pc="268437982" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="14" parent="globals/ObjectivesWidgetApp" pc="268437995" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="15" parent="globals/ObjectivesWidgetApp" pc="268438008" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="17" parent="globals/ObjectivesWidgetApp" pc="268438021" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="18" parent="globals/ObjectivesWidgetApp" pc="268438035" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="19" parent="globals/ObjectivesWidgetApp" pc="268438056" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="20" parent="globals/ObjectivesWidgetApp" pc="268438102" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="21" parent="globals/ObjectivesWidgetApp" pc="268438148" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="22" parent="globals/ObjectivesWidgetApp" pc="268438194" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="24" parent="globals/ObjectivesWidgetApp" pc="268438240" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="25" parent="globals/ObjectivesWidgetApp" pc="268438270" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="26" parent="globals/ObjectivesWidgetApp" pc="268438291" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="27" parent="globals/ObjectivesWidgetApp" pc="268438314" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="28" parent="globals/ObjectivesWidgetApp" pc="268438334" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="29" parent="globals/ObjectivesWidgetApp" pc="268438418" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="31" parent="globals/ObjectivesWidgetApp" pc="268438443" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="35" parent="globals/ObjectivesWidgetApp" pc="268438518" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="36" parent="globals/ObjectivesWidgetApp" pc="268438535" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="38" parent="globals/ObjectivesWidgetApp" pc="268438551" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="39" parent="globals/ObjectivesWidgetApp" pc="268438578" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="40" parent="globals/ObjectivesWidgetApp" pc="268438608" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="41" parent="globals/ObjectivesWidgetApp" pc="268438627" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="42" parent="globals/ObjectivesWidgetApp" pc="268438652" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="43" parent="globals/ObjectivesWidgetApp" pc="268438660" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="44" parent="globals/ObjectivesWidgetApp" pc="268438673" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="45" parent="globals/ObjectivesWidgetApp" pc="268438701" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="49" parent="globals/ObjectivesWidgetApp" pc="268438749" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438770" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438796" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438806" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="52" parent="globals/ObjectivesWidgetApp" pc="268438825" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="53" parent="globals/ObjectivesWidgetApp" pc="268438856" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="54" parent="globals/ObjectivesWidgetApp" pc="268438887" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="55" parent="globals/ObjectivesWidgetApp" pc="268438918" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="56" parent="globals/ObjectivesWidgetApp" pc="268438949" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="59" parent="globals/ObjectivesWidgetApp" pc="268438980" symbol="settingUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="62" parent="globals/ObjectivesWidgetApp" pc="268438997" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="63" parent="globals/ObjectivesWidgetApp" pc="268439001" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="64" parent="globals/ObjectivesWidgetApp" pc="268439059" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="65" parent="globals/ObjectivesWidgetApp" pc="268439102" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="21" lineNum="69" parent="globals/ObjectivesWidgetApp" pc="268439121" symbol="onStart"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="22" lineNum="73" parent="globals/ObjectivesWidgetApp" pc="268439126" symbol="onStop"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="77" parent="globals/ObjectivesWidgetApp" pc="268439131" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="23" lineNum="78" parent="globals/ObjectivesWidgetApp" pc="268439135" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="81" parent="globals/ObjectivesWidgetApp" pc="268439203" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="82" parent="globals/ObjectivesWidgetApp" pc="268439207" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="24" lineNum="83" parent="globals/ObjectivesWidgetApp" pc="268439219" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="87" parent="globals/ObjectivesWidgetApp" pc="268439236" symbol="getGlanceView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="25" lineNum="88" parent="globals/ObjectivesWidgetApp" pc="268439240" symbol="getGlanceView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="26" lineNum="6" parent="globals/ObjectivesWidgetApp" pc="268439426" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="26" lineNum="6" parent="globals/ObjectivesWidgetApp" pc="268439426" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="5" parent="globals/ObjectivesWidgetDelegate" pc="268444924" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="28" lineNum="6" parent="globals/ObjectivesWidgetDelegate" pc="268444928" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="9" parent="globals/ObjectivesWidgetDelegate" pc="268444947" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="10" parent="globals/ObjectivesWidgetDelegate" pc="268444951" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="29" lineNum="11" parent="globals/ObjectivesWidgetDelegate" pc="268444963" symbol="onSelect"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="14" parent="globals/ObjectivesWidgetDelegate" pc="268444967" symbol="onBack"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="30" lineNum="15" parent="globals/ObjectivesWidgetDelegate" pc="268444971" symbol="onBack"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="31" lineNum="18" parent="globals/ObjectivesWidgetDelegate" pc="268444975" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="31" lineNum="19" parent="globals/ObjectivesWidgetDelegate" pc="268444979" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="31" lineNum="20" parent="globals/ObjectivesWidgetDelegate" pc="268444996" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="32" lineNum="23" parent="globals/ObjectivesWidgetDelegate" pc="268445000" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="32" lineNum="24" parent="globals/ObjectivesWidgetDelegate" pc="268445004" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="32" lineNum="25" parent="globals/ObjectivesWidgetDelegate" pc="268445021" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="33" lineNum="4" parent="globals/ObjectivesWidgetDelegate" pc="268445055" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="33" lineNum="4" parent="globals/ObjectivesWidgetDelegate" pc="268445055" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="35" lineNum="2" parent="globals/Rez/Drawables" pc="268445049" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="36" lineNum="11" parent="globals/Rez/Fonts" pc="268445051" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="37" lineNum="13" parent="globals/Rez/JsonData" pc="268445053" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="38" lineNum="15" parent="globals/Rez/Layouts" pc="268445052" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="39" lineNum="17" parent="globals/Rez/Menus" pc="268445050" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="40" lineNum="19" parent="globals/Rez/Strings" pc="268445054" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="41" lineNum="1" parent="globals/Rez" pc="268445025" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="41" lineNum="1" parent="globals/Rez" pc="268445025" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="2" lineNum="11" parent="globals" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="2" lineNum="22" parent="globals" pc="268435474" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="2" lineNum="23" parent="globals" pc="268435527" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="6" lineNum="10" parent="globals/ObjectivesGlanceView" pc="268435581" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="8" lineNum="29" parent="globals/ObjectivesGlanceView" pc="268435600" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="9" lineNum="12" parent="globals/ObjectivesGlanceView" pc="268435603" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="9" lineNum="13" parent="globals/ObjectivesGlanceView" pc="268435605" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="9" lineNum="14" parent="globals/ObjectivesGlanceView" pc="268435663" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="9" lineNum="15" parent="globals/ObjectivesGlanceView" pc="268435699" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="9" lineNum="16" parent="globals/ObjectivesGlanceView" pc="268435717" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="32" parent="globals/ObjectivesGlanceView" pc="268435740" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="33" parent="globals/ObjectivesGlanceView" pc="268435744" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="34" parent="globals/ObjectivesGlanceView" pc="268435757" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="36" parent="globals/ObjectivesGlanceView" pc="268435770" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="37" parent="globals/ObjectivesGlanceView" pc="268435792" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="38" parent="globals/ObjectivesGlanceView" pc="268435804" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="40" parent="globals/ObjectivesGlanceView" pc="268435826" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="41" parent="globals/ObjectivesGlanceView" pc="268435852" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="43" parent="globals/ObjectivesGlanceView" pc="268435922" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="44" parent="globals/ObjectivesGlanceView" pc="268435980" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="45" parent="globals/ObjectivesGlanceView" pc="268436016" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="46" parent="globals/ObjectivesGlanceView" pc="268436046" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="55" parent="globals/ObjectivesGlanceView" pc="268436140" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="56" parent="globals/ObjectivesGlanceView" pc="268436167" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="57" parent="globals/ObjectivesGlanceView" pc="268436177" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="58" parent="globals/ObjectivesGlanceView" pc="268436184" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="59" parent="globals/ObjectivesGlanceView" pc="268436191" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="60" parent="globals/ObjectivesGlanceView" pc="268436195" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="61" parent="globals/ObjectivesGlanceView" pc="268436205" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="62" parent="globals/ObjectivesGlanceView" pc="268436254" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="63" parent="globals/ObjectivesGlanceView" pc="268436303" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="64" parent="globals/ObjectivesGlanceView" pc="268436318" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="65" parent="globals/ObjectivesGlanceView" pc="268436354" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="66" parent="globals/ObjectivesGlanceView" pc="268436407" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="67" parent="globals/ObjectivesGlanceView" pc="268436460" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="68" parent="globals/ObjectivesGlanceView" pc="268436487" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="69" parent="globals/ObjectivesGlanceView" pc="268436514" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="70" parent="globals/ObjectivesGlanceView" pc="268436531" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="71" parent="globals/ObjectivesGlanceView" pc="268436553" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="72" parent="globals/ObjectivesGlanceView" pc="268436596" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="73" parent="globals/ObjectivesGlanceView" pc="268436618" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="74" parent="globals/ObjectivesGlanceView" pc="268436636" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="76" parent="globals/ObjectivesGlanceView" pc="268436711" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="77" parent="globals/ObjectivesGlanceView" pc="268436757" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="78" parent="globals/ObjectivesGlanceView" pc="268436774" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="79" parent="globals/ObjectivesGlanceView" pc="268436796" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="81" parent="globals/ObjectivesGlanceView" pc="268436849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="82" parent="globals/ObjectivesGlanceView" pc="268436875" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="84" parent="globals/ObjectivesGlanceView" pc="268436918" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="86" parent="globals/ObjectivesGlanceView" pc="268436977" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="87" parent="globals/ObjectivesGlanceView" pc="268436988" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="88" parent="globals/ObjectivesGlanceView" pc="268437010" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="89" parent="globals/ObjectivesGlanceView" pc="268437068" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="90" parent="globals/ObjectivesGlanceView" pc="268437079" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="91" parent="globals/ObjectivesGlanceView" pc="268437101" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="92" parent="globals/ObjectivesGlanceView" pc="268437171" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="93" parent="globals/ObjectivesGlanceView" pc="268437182" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="94" parent="globals/ObjectivesGlanceView" pc="268437204" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="97" parent="globals/ObjectivesGlanceView" pc="268437265" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="98" parent="globals/ObjectivesGlanceView" pc="268437295" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="99" parent="globals/ObjectivesGlanceView" pc="268437309" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="101" parent="globals/ObjectivesGlanceView" pc="268437329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="103" parent="globals/ObjectivesGlanceView" pc="268437346" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="104" parent="globals/ObjectivesGlanceView" pc="268437365" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="105" parent="globals/ObjectivesGlanceView" pc="268437376" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="106" parent="globals/ObjectivesGlanceView" pc="268437401" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="107" parent="globals/ObjectivesGlanceView" pc="268437412" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="108" parent="globals/ObjectivesGlanceView" pc="268437426" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="110" parent="globals/ObjectivesGlanceView" pc="268437451" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="112" parent="globals/ObjectivesGlanceView" pc="268437476" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="113" parent="globals/ObjectivesGlanceView" pc="268437487" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="115" parent="globals/ObjectivesGlanceView" pc="268437512" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="116" parent="globals/ObjectivesGlanceView" pc="268437574" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="117" parent="globals/ObjectivesGlanceView" pc="268437601" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="11" lineNum="118" parent="globals/ObjectivesGlanceView" pc="268437662" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="12" lineNum="22" parent="globals/ObjectivesGlanceView" pc="268437735" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesGlanceView.mc" id="12" lineNum="23" parent="globals/ObjectivesGlanceView" pc="268437737" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="13" lineNum="6" parent="globals/ObjectivesWidgetApp" pc="268437754" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="14" lineNum="69" parent="globals/ObjectivesWidgetApp" pc="268437773" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="15" lineNum="81" parent="globals/ObjectivesWidgetApp" pc="268437776" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="15" lineNum="82" parent="globals/ObjectivesWidgetApp" pc="268437778" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="15" lineNum="83" parent="globals/ObjectivesWidgetApp" pc="268437790" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="16" lineNum="77" parent="globals/ObjectivesWidgetApp" pc="268437807" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="16" lineNum="78" parent="globals/ObjectivesWidgetApp" pc="268437809" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="17" lineNum="62" parent="globals/ObjectivesWidgetApp" pc="268437884" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="17" lineNum="63" parent="globals/ObjectivesWidgetApp" pc="268437886" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="17" lineNum="64" parent="globals/ObjectivesWidgetApp" pc="268437944" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="17" lineNum="65" parent="globals/ObjectivesWidgetApp" pc="268437980" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="18" lineNum="86" parent="globals/ObjectivesWidgetApp" pc="268437999" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="18" lineNum="88" parent="globals/ObjectivesWidgetApp" pc="268438001" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="8" parent="globals/ObjectivesWidgetApp" pc="268438042" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="9" parent="globals/ObjectivesWidgetApp" pc="268438046" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="10" parent="globals/ObjectivesWidgetApp" pc="268438080" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="11" parent="globals/ObjectivesWidgetApp" pc="268438138" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="13" parent="globals/ObjectivesWidgetApp" pc="268438174" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="14" parent="globals/ObjectivesWidgetApp" pc="268438187" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="15" parent="globals/ObjectivesWidgetApp" pc="268438200" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="17" parent="globals/ObjectivesWidgetApp" pc="268438213" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="18" parent="globals/ObjectivesWidgetApp" pc="268438227" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="19" parent="globals/ObjectivesWidgetApp" pc="268438248" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="20" parent="globals/ObjectivesWidgetApp" pc="268438291" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="21" parent="globals/ObjectivesWidgetApp" pc="268438334" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="22" parent="globals/ObjectivesWidgetApp" pc="268438377" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="24" parent="globals/ObjectivesWidgetApp" pc="268438420" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="25" parent="globals/ObjectivesWidgetApp" pc="268438450" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="26" parent="globals/ObjectivesWidgetApp" pc="268438471" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="27" parent="globals/ObjectivesWidgetApp" pc="268438494" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="28" parent="globals/ObjectivesWidgetApp" pc="268438514" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="29" parent="globals/ObjectivesWidgetApp" pc="268438598" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="31" parent="globals/ObjectivesWidgetApp" pc="268438623" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="35" parent="globals/ObjectivesWidgetApp" pc="268438695" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="36" parent="globals/ObjectivesWidgetApp" pc="268438712" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="38" parent="globals/ObjectivesWidgetApp" pc="268438728" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="39" parent="globals/ObjectivesWidgetApp" pc="268438755" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="40" parent="globals/ObjectivesWidgetApp" pc="268438785" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="41" parent="globals/ObjectivesWidgetApp" pc="268438804" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="42" parent="globals/ObjectivesWidgetApp" pc="268438829" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="43" parent="globals/ObjectivesWidgetApp" pc="268438837" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="44" parent="globals/ObjectivesWidgetApp" pc="268438850" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="45" parent="globals/ObjectivesWidgetApp" pc="268438878" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="49" parent="globals/ObjectivesWidgetApp" pc="268438926" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438947" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438973" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="50" parent="globals/ObjectivesWidgetApp" pc="268438983" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="52" parent="globals/ObjectivesWidgetApp" pc="268439002" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="53" parent="globals/ObjectivesWidgetApp" pc="268439033" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="54" parent="globals/ObjectivesWidgetApp" pc="268439064" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="55" parent="globals/ObjectivesWidgetApp" pc="268439095" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="56" parent="globals/ObjectivesWidgetApp" pc="268439126" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="19" lineNum="59" parent="globals/ObjectivesWidgetApp" pc="268439157" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetApp.mc" id="20" lineNum="73" parent="globals/ObjectivesWidgetApp" pc="268439174" symbol="onStop"/>
+        <entry filename="Rez.mc" id="21" lineNum="1" parent="globals/Rez" pc="268439177" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="22" lineNum="4" parent="globals/ObjectivesWidgetDelegate" pc="268439201" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="23" lineNum="14" parent="globals/ObjectivesWidgetDelegate" pc="268439220" symbol="onBack"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="23" lineNum="15" parent="globals/ObjectivesWidgetDelegate" pc="268439222" symbol="onBack"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="24" lineNum="23" parent="globals/ObjectivesWidgetDelegate" pc="268439225" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="24" lineNum="24" parent="globals/ObjectivesWidgetDelegate" pc="268439227" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="24" lineNum="25" parent="globals/ObjectivesWidgetDelegate" pc="268439244" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="25" lineNum="5" parent="globals/ObjectivesWidgetDelegate" pc="268439247" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="25" lineNum="6" parent="globals/ObjectivesWidgetDelegate" pc="268439249" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="26" lineNum="9" parent="globals/ObjectivesWidgetDelegate" pc="268439268" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="26" lineNum="10" parent="globals/ObjectivesWidgetDelegate" pc="268439270" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="26" lineNum="11" parent="globals/ObjectivesWidgetDelegate" pc="268439282" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="18" parent="globals/ObjectivesWidgetDelegate" pc="268439285" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="19" parent="globals/ObjectivesWidgetDelegate" pc="268439287" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetDelegate.mc" id="27" lineNum="20" parent="globals/ObjectivesWidgetDelegate" pc="268439304" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="31" parent="globals" pc="268439307" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="32" parent="globals" pc="268439319" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="33" parent="globals" pc="268439338" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="34" parent="globals" pc="268439349" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="35" parent="globals" pc="268439374" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="36" parent="globals" pc="268439405" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="37" parent="globals" pc="268439436" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="38" parent="globals" pc="268439467" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="39" parent="globals" pc="268439498" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="28" lineNum="41" parent="globals" pc="268439532" symbol="cycleObjective"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="29" lineNum="26" parent="globals" pc="268439549" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="29" lineNum="27" parent="globals" pc="268439559" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="29" lineNum="28" parent="globals" pc="268439593" symbol="changeDuration"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="30" lineNum="44" parent="globals/ObjectivesWidgetView" pc="268439610" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="32" lineNum="68" parent="globals/ObjectivesWidgetView" pc="268439629" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="51" parent="globals/ObjectivesWidgetView" pc="268439632" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="52" parent="globals/ObjectivesWidgetView" pc="268439634" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="53" parent="globals/ObjectivesWidgetView" pc="268439652" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="54" parent="globals/ObjectivesWidgetView" pc="268439674" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="55" parent="globals/ObjectivesWidgetView" pc="268439721" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="56" parent="globals/ObjectivesWidgetView" pc="268439768" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="57" parent="globals/ObjectivesWidgetView" pc="268439815" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="58" parent="globals/ObjectivesWidgetView" pc="268439862" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="59" parent="globals/ObjectivesWidgetView" pc="268439909" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="60" parent="globals/ObjectivesWidgetView" pc="268439943" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="61" parent="globals/ObjectivesWidgetView" pc="268439970" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="62" parent="globals/ObjectivesWidgetView" pc="268440023" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="33" lineNum="63" parent="globals/ObjectivesWidgetView" pc="268440076" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="79" parent="globals/ObjectivesWidgetView" pc="268440133" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="80" parent="globals/ObjectivesWidgetView" pc="268440137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="81" parent="globals/ObjectivesWidgetView" pc="268440150" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="82" parent="globals/ObjectivesWidgetView" pc="268440163" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="83" parent="globals/ObjectivesWidgetView" pc="268440189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="84" parent="globals/ObjectivesWidgetView" pc="268440211" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="85" parent="globals/ObjectivesWidgetView" pc="268440223" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="87" parent="globals/ObjectivesWidgetView" pc="268440245" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="87" parent="globals/ObjectivesWidgetView" pc="268440256" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="89" parent="globals/ObjectivesWidgetView" pc="268440273" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="90" parent="globals/ObjectivesWidgetView" pc="268440299" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="92" parent="globals/ObjectivesWidgetView" pc="268440413" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="93" parent="globals/ObjectivesWidgetView" pc="268440471" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="94" parent="globals/ObjectivesWidgetView" pc="268440507" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="95" parent="globals/ObjectivesWidgetView" pc="268440524" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="96" parent="globals/ObjectivesWidgetView" pc="268440531" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="97" parent="globals/ObjectivesWidgetView" pc="268440559" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="98" parent="globals/ObjectivesWidgetView" pc="268440569" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="100" parent="globals/ObjectivesWidgetView" pc="268440660" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="101" parent="globals/ObjectivesWidgetView" pc="268440714" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="102" parent="globals/ObjectivesWidgetView" pc="268440724" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="104" parent="globals/ObjectivesWidgetView" pc="268440727" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="105" parent="globals/ObjectivesWidgetView" pc="268440781" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="106" parent="globals/ObjectivesWidgetView" pc="268440791" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="108" parent="globals/ObjectivesWidgetView" pc="268440794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="109" parent="globals/ObjectivesWidgetView" pc="268440848" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="110" parent="globals/ObjectivesWidgetView" pc="268440858" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="112" parent="globals/ObjectivesWidgetView" pc="268440861" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="113" parent="globals/ObjectivesWidgetView" pc="268440915" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="114" parent="globals/ObjectivesWidgetView" pc="268440925" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="116" parent="globals/ObjectivesWidgetView" pc="268440928" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="117" parent="globals/ObjectivesWidgetView" pc="268440982" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="118" parent="globals/ObjectivesWidgetView" pc="268440992" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="120" parent="globals/ObjectivesWidgetView" pc="268440996" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="121" parent="globals/ObjectivesWidgetView" pc="268441022" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="123" parent="globals/ObjectivesWidgetView" pc="268441092" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="125" parent="globals/ObjectivesWidgetView" pc="268441159" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="126" parent="globals/ObjectivesWidgetView" pc="268441189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="135" parent="globals/ObjectivesWidgetView" pc="268441283" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="142" parent="globals/ObjectivesWidgetView" pc="268441373" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="143" parent="globals/ObjectivesWidgetView" pc="268441422" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="144" parent="globals/ObjectivesWidgetView" pc="268441471" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="145" parent="globals/ObjectivesWidgetView" pc="268441486" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="146" parent="globals/ObjectivesWidgetView" pc="268441522" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="147" parent="globals/ObjectivesWidgetView" pc="268441575" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="148" parent="globals/ObjectivesWidgetView" pc="268441605" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="150" parent="globals/ObjectivesWidgetView" pc="268441621" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="151" parent="globals/ObjectivesWidgetView" pc="268441638" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="152" parent="globals/ObjectivesWidgetView" pc="268441684" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="153" parent="globals/ObjectivesWidgetView" pc="268441730" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="154" parent="globals/ObjectivesWidgetView" pc="268441790" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="155" parent="globals/ObjectivesWidgetView" pc="268441841" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="156" parent="globals/ObjectivesWidgetView" pc="268441863" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="157" parent="globals/ObjectivesWidgetView" pc="268441930" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="159" parent="globals/ObjectivesWidgetView" pc="268442015" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="160" parent="globals/ObjectivesWidgetView" pc="268442026" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="161" parent="globals/ObjectivesWidgetView" pc="268442037" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="163" parent="globals/ObjectivesWidgetView" pc="268442122" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="166" parent="globals/ObjectivesWidgetView" pc="268442207" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="167" parent="globals/ObjectivesWidgetView" pc="268442227" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="168" parent="globals/ObjectivesWidgetView" pc="268442238" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="170" parent="globals/ObjectivesWidgetView" pc="268442314" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="173" parent="globals/ObjectivesWidgetView" pc="268442384" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="174" parent="globals/ObjectivesWidgetView" pc="268442410" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="178" parent="globals/ObjectivesWidgetView" pc="268442495" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="179" parent="globals/ObjectivesWidgetView" pc="268442525" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="180" parent="globals/ObjectivesWidgetView" pc="268442550" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="181" parent="globals/ObjectivesWidgetView" pc="268442612" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="182" parent="globals/ObjectivesWidgetView" pc="268442642" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="183" parent="globals/ObjectivesWidgetView" pc="268442669" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="184" parent="globals/ObjectivesWidgetView" pc="268442679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="186" parent="globals/ObjectivesWidgetView" pc="268442689" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="187" parent="globals/ObjectivesWidgetView" pc="268442689" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="185" parent="globals/ObjectivesWidgetView" pc="268442689" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="188" parent="globals/ObjectivesWidgetView" pc="268442716" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="189" parent="globals/ObjectivesWidgetView" pc="268442743" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="190" parent="globals/ObjectivesWidgetView" pc="268442770" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="192" parent="globals/ObjectivesWidgetView" pc="268442797" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="193" parent="globals/ObjectivesWidgetView" pc="268442808" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="194" parent="globals/ObjectivesWidgetView" pc="268442833" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="195" parent="globals/ObjectivesWidgetView" pc="268442844" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="196" parent="globals/ObjectivesWidgetView" pc="268442858" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="198" parent="globals/ObjectivesWidgetView" pc="268442883" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="200" parent="globals/ObjectivesWidgetView" pc="268442908" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="201" parent="globals/ObjectivesWidgetView" pc="268442919" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="203" parent="globals/ObjectivesWidgetView" pc="268442944" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="204" parent="globals/ObjectivesWidgetView" pc="268442958" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="205" parent="globals/ObjectivesWidgetView" pc="268442975" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="207" parent="globals/ObjectivesWidgetView" pc="268443000" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="209" parent="globals/ObjectivesWidgetView" pc="268443017" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="210" parent="globals/ObjectivesWidgetView" pc="268443078" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="214" parent="globals/ObjectivesWidgetView" pc="268443126" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="215" parent="globals/ObjectivesWidgetView" pc="268443137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="216" parent="globals/ObjectivesWidgetView" pc="268443159" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="217" parent="globals/ObjectivesWidgetView" pc="268443229" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="218" parent="globals/ObjectivesWidgetView" pc="268443296" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="219" parent="globals/ObjectivesWidgetView" pc="268443307" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="220" parent="globals/ObjectivesWidgetView" pc="268443327" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="222" parent="globals/ObjectivesWidgetView" pc="268443352" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="224" parent="globals/ObjectivesWidgetView" pc="268443374" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="225" parent="globals/ObjectivesWidgetView" pc="268443385" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="227" parent="globals/ObjectivesWidgetView" pc="268443511" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="229" parent="globals/ObjectivesWidgetView" pc="268443637" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="230" parent="globals/ObjectivesWidgetView" pc="268443648" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="231" parent="globals/ObjectivesWidgetView" pc="268443670" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="232" parent="globals/ObjectivesWidgetView" pc="268443734" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="234" parent="globals/ObjectivesWidgetView" pc="268443801" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="235" parent="globals/ObjectivesWidgetView" pc="268443807" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="237" parent="globals/ObjectivesWidgetView" pc="268443871" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="238" parent="globals/ObjectivesWidgetView" pc="268443882" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="35" lineNum="240" parent="globals/ObjectivesWidgetView" pc="268443927" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="252" parent="globals/ObjectivesWidgetView" pc="268443970" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="253" parent="globals/ObjectivesWidgetView" pc="268443974" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="254" parent="globals/ObjectivesWidgetView" pc="268443988" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="256" parent="globals/ObjectivesWidgetView" pc="268444007" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="258" parent="globals/ObjectivesWidgetView" pc="268444007" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="257" parent="globals/ObjectivesWidgetView" pc="268444007" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="259" parent="globals/ObjectivesWidgetView" pc="268444014" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="261" parent="globals/ObjectivesWidgetView" pc="268444021" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="262" parent="globals/ObjectivesWidgetView" pc="268444056" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="263" parent="globals/ObjectivesWidgetView" pc="268444086" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="264" parent="globals/ObjectivesWidgetView" pc="268444116" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="265" parent="globals/ObjectivesWidgetView" pc="268444146" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\ObjectivesWidget\\source\\ObjectivesWidgetView.mc" id="36" lineNum="266" parent="globals/ObjectivesWidgetView" pc="268444176" symbol="drawTicks"/>
     </pcToLineNum>
     <symbolTable>
-        <entry field="true" id="34" symbol="id_run"/>
+        <entry field="true" id="42" symbol="id_run"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="60" symbol="swimEventBitmap"/>
+        <entry field="true" id="37" symbol="swimEventBitmap"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry id="26" object="true" symbol="ObjectivesWidgetView"/>
-        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="12" object="true" symbol="ObjectivesWidgetView"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="43" symbol="ObjectiveDatePrompt"/>
-        <entry field="true" id="54" symbol="ObjectiveGoalError"/>
-        <entry field="true" id="58" symbol="swim"/>
+        <entry field="true" id="50" symbol="ObjectiveDatePrompt"/>
+        <entry field="true" id="52" symbol="ObjectiveGoalError"/>
+        <entry field="true" id="62" symbol="swim"/>
         <entry field="true" id="8388938" symbol="month"/>
-        <entry field="true" id="16" symbol="eventGoal"/>
-        <entry field="true" id="57" symbol="NoObjective"/>
-        <entry field="true" id="52" symbol="ObjectiveNameError"/>
+        <entry field="true" id="20" symbol="eventGoal"/>
+        <entry field="true" id="48" symbol="NoObjective"/>
+        <entry field="true" id="54" symbol="ObjectiveNameError"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="40" symbol="other"/>
-        <entry field="true" id="44" symbol="ShowIconsTitle"/>
+        <entry field="true" id="60" symbol="other"/>
+        <entry field="true" id="57" symbol="ShowIconsTitle"/>
         <entry field="true" id="8389341" symbol="days"/>
-        <entry field="true" id="46" symbol="tri"/>
-        <entry field="true" id="49" symbol="AppName"/>
-        <entry field="true" id="12" symbol="events"/>
+        <entry field="true" id="63" symbol="tri"/>
+        <entry field="true" id="45" symbol="AppName"/>
+        <entry field="true" id="23" symbol="events"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="63" symbol="otherEventBitmap"/>
+        <entry field="true" id="35" symbol="otherEventBitmap"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389081" method="true" symbol="onBack"/>
-        <entry field="true" id="10" symbol="maxEvents"/>
-        <entry field="true" id="15" symbol="eventName"/>
+        <entry field="true" id="24" symbol="maxEvents"/>
+        <entry field="true" id="21" symbol="eventName"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry field="true" id="14" symbol="eventDateMoment"/>
+        <entry field="true" id="18" symbol="eventDateMoment"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry field="true" id="20" symbol="nextEvent"/>
+        <entry field="true" id="26" symbol="nextEvent"/>
         <entry id="8389079" method="true" symbol="onPreviousPage"/>
         <entry id="32" module="true" symbol="Menus"/>
         <entry field="true" id="53" symbol="ObjectiveGoalTitle"/>
@@ -355,250 +343,310 @@
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry field="true" id="8388923" method="true" symbol="today"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="17" symbol="eventType"/>
-        <entry field="true" id="61" symbol="bikeEventBitmap"/>
-        <entry field="true" id="51" symbol="ObjectiveNameTitle"/>
-        <entry field="true" id="19" symbol="selection"/>
-        <entry field="true" id="41" symbol="ShowIconsTitlePrompt"/>
-        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry id="25" method="true" symbol="cycleObjective"/>
-        <entry field="true" id="35" symbol="id_bike"/>
-        <entry field="true" id="55" symbol="ObjectiveDateError"/>
+        <entry field="true" id="22" symbol="eventType"/>
+        <entry field="true" id="33" symbol="bikeEventBitmap"/>
+        <entry field="true" id="55" symbol="ObjectiveNameTitle"/>
+        <entry field="true" id="27" symbol="selection"/>
+        <entry field="true" id="58" symbol="ShowIconsTitlePrompt"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="14" method="true" symbol="cycleObjective"/>
+        <entry field="true" id="40" symbol="id_bike"/>
+        <entry field="true" id="49" symbol="ObjectiveDateError"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="45" symbol="run"/>
-        <entry field="true" id="37" symbol="id_other"/>
-        <entry field="true" id="18" symbol="eventDiff"/>
+        <entry field="true" id="61" symbol="run"/>
+        <entry field="true" id="41" symbol="id_other"/>
+        <entry field="true" id="19" symbol="eventDiff"/>
         <entry id="9" object="true" symbol="ObjectivesGlanceView"/>
-        <entry field="true" id="62" symbol="runEventBitmap"/>
+        <entry field="true" id="36" symbol="runEventBitmap"/>
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
-        <entry field="true" id="59" symbol="triEventBitmap"/>
+        <entry field="true" id="38" symbol="triEventBitmap"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="30" method="true" symbol="timerCallback"/>
-        <entry id="24" method="true" symbol="changeDuration"/>
+        <entry id="29" method="true" symbol="timerCallback"/>
+        <entry id="13" method="true" symbol="changeDuration"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="33" symbol="id_tri"/>
-        <entry field="true" id="38" symbol="LauncherIcon"/>
+        <entry field="true" id="44" symbol="id_tri"/>
+        <entry field="true" id="39" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="39" symbol="DefaultUnitTitle"/>
-        <entry field="true" id="42" symbol="weeks"/>
-        <entry field="true" id="47" symbol="ObjectiveTypeTitle"/>
-        <entry field="true" id="23" symbol="durationSelected"/>
-        <entry field="true" id="13" symbol="todayM"/>
-        <entry field="true" id="22" symbol="durationUnitsLabel"/>
+        <entry field="true" id="46" symbol="DefaultUnitTitle"/>
+        <entry field="true" id="64" symbol="weeks"/>
+        <entry field="true" id="56" symbol="ObjectiveTypeTitle"/>
+        <entry field="true" id="15" symbol="durationSelected"/>
+        <entry field="true" id="28" symbol="todayM"/>
+        <entry field="true" id="17" symbol="durationUnitsLabel"/>
         <entry field="true" id="8389342" symbol="hours"/>
-        <entry id="64" method="true" symbol="drawTicks"/>
+        <entry id="34" method="true" symbol="drawTicks"/>
         <entry id="8389350" module="true" symbol="globals"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="50" symbol="bike"/>
+        <entry field="true" id="59" symbol="bike"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="48" symbol="DefaultUnitTitlePrompt"/>
-        <entry field="true" id="11" symbol="nbEvents"/>
+        <entry field="true" id="47" symbol="DefaultUnitTitlePrompt"/>
+        <entry field="true" id="25" symbol="nbEvents"/>
         <entry id="8391701" method="true" symbol="setAntiAlias"/>
-        <entry id="29" method="true" symbol="settingUpdate"/>
+        <entry id="30" method="true" symbol="settingUpdate"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="56" symbol="ObjectiveDateTitle"/>
+        <entry field="true" id="51" symbol="ObjectiveDateTitle"/>
         <entry field="true" id="8388939" symbol="day"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
         <entry id="31" module="true" symbol="Layouts"/>
-        <entry field="true" id="36" symbol="id_swim"/>
-        <entry field="true" id="21" symbol="durationUnits"/>
-        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="43" symbol="id_swim"/>
+        <entry field="true" id="16" symbol="durationUnits"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8391457" method="true" symbol="getGlanceView"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry id="27" object="true" symbol="ObjectivesWidgetApp"/>
+        <entry id="10" object="true" symbol="ObjectivesWidgetApp"/>
         <entry id="8389078" method="true" symbol="onNextPage"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry id="28" object="true" symbol="ObjectivesWidgetDelegate"/>
+        <entry id="11" object="true" symbol="ObjectivesWidgetDelegate"/>
     </symbolTable>
     <localVars>
-        <entry arg="true" endPc="268435633" name="dc" stackId="1" startPc="268435629"/>
-        <entry endPc="268436723" name="i" stackId="20" startPc="268436649"/>
-        <entry endPc="268437838" name="i" stackId="21" startPc="268437330"/>
-        <entry endPc="268437838" name="dayOfYearEvent" stackId="16" startPc="268435865"/>
-        <entry endPc="268437838" name="lastDayOfYear" stackId="13" startPc="268435865"/>
-        <entry endPc="268437838" name="duration1" stackId="6" startPc="268435865"/>
-        <entry endPc="268437838" name="baroffsetY" stackId="9" startPc="268435865"/>
-        <entry endPc="268437838" name="baroffsetX" stackId="8" startPc="268435865"/>
-        <entry endPc="268437838" name="barP" stackId="19" startPc="268435865"/>
-        <entry endPc="268437838" name="nbDays" stackId="15" startPc="268435865"/>
-        <entry endPc="268437838" name="durationYear" stackId="14" startPc="268435865"/>
-        <entry endPc="268437838" name="tick" stackId="11" startPc="268435865"/>
-        <entry endPc="268437838" name="dateDiff" stackId="7" startPc="268435865"/>
-        <entry endPc="268437838" name="tickEvent" stackId="18" startPc="268435865"/>
-        <entry endPc="268437838" name="firstDayOfYear" stackId="12" startPc="268435865"/>
-        <entry endPc="268437838" name="bar" stackId="10" startPc="268435865"/>
-        <entry endPc="268437838" name="eventDate" stackId="4" startPc="268435865"/>
-        <entry endPc="268437838" name="dayOfYearToday" stackId="17" startPc="268435865"/>
-        <entry endPc="268437838" name="dateString" stackId="5" startPc="268435865"/>
-        <entry endPc="268437838" name="height" stackId="3" startPc="268435638"/>
-        <entry endPc="268437838" name="width" stackId="2" startPc="268435638"/>
-        <entry arg="true" endPc="268437839" name="dc" stackId="1" startPc="268435634"/>
-        <entry endPc="268439767" name="nbEvents" stackId="2" startPc="268439539"/>
-        <entry arg="true" endPc="268439768" name="direction" stackId="1" startPc="268439527"/>
-        <entry arg="true" endPc="268440239" name="dc" stackId="1" startPc="268440235"/>
-        <entry endPc="268443592" name="eX" stackId="30" startPc="268442914"/>
-        <entry endPc="268443592" name="arcE" stackId="24" startPc="268442914"/>
-        <entry endPc="268443592" name="sY" stackId="29" startPc="268442914"/>
-        <entry endPc="268443592" name="sX" stackId="28" startPc="268442914"/>
-        <entry endPc="268443592" name="dayOfYearEvent" stackId="23" startPc="268442914"/>
-        <entry endPc="268443592" name="outerRad" stackId="26" startPc="268442914"/>
-        <entry endPc="268443592" name="dateDiff" stackId="22" startPc="268442914"/>
-        <entry endPc="268443592" name="angleE" stackId="25" startPc="268442914"/>
-        <entry endPc="268443592" name="innerRad" stackId="27" startPc="268442914"/>
-        <entry endPc="268443592" name="eY" stackId="31" startPc="268442914"/>
-        <entry endPc="268443605" name="i" stackId="21" startPc="268442914"/>
-        <entry endPc="268444644" name="lastDayOfYear" stackId="12" startPc="268440566"/>
-        <entry endPc="268444644" name="eventDiffDay" stackId="17" startPc="268440566"/>
-        <entry endPc="268444644" name="diffRy" stackId="20" startPc="268440566"/>
-        <entry endPc="268444644" name="hourString" stackId="10" startPc="268440566"/>
-        <entry endPc="268444644" name="diffRx" stackId="19" startPc="268440566"/>
-        <entry endPc="268444644" name="nbDays" stackId="14" startPc="268440566"/>
-        <entry endPc="268444644" name="durationYear" stackId="13" startPc="268440566"/>
-        <entry endPc="268444644" name="radius" stackId="18" startPc="268440566"/>
-        <entry endPc="268444644" name="arcP" stackId="16" startPc="268440566"/>
-        <entry endPc="268444644" name="firstDayOfYear" stackId="11" startPc="268440566"/>
-        <entry endPc="268444644" name="showIcons" stackId="6" startPc="268440566"/>
-        <entry endPc="268444644" name="icoType" stackId="5" startPc="268440566"/>
-        <entry endPc="268444644" name="eventDate" stackId="8" startPc="268440566"/>
-        <entry endPc="268444644" name="dayOfYearToday" stackId="15" startPc="268440566"/>
-        <entry endPc="268444644" name="dateString" stackId="9" startPc="268440566"/>
-        <entry endPc="268444644" name="icons" stackId="7" startPc="268440566"/>
-        <entry endPc="268444644" name="height" stackId="3" startPc="268440249"/>
-        <entry endPc="268444644" name="hasRsc" stackId="4" startPc="268440249"/>
-        <entry endPc="268444644" name="width" stackId="2" startPc="268440249"/>
-        <entry arg="true" endPc="268444645" name="dc" stackId="1" startPc="268440245"/>
-        <entry endPc="268444922" name="i" stackId="16" startPc="268444744"/>
-        <entry endPc="268444922" name="eY" stackId="13" startPc="268444655"/>
-        <entry endPc="268444922" name="eX" stackId="12" startPc="268444655"/>
-        <entry endPc="268444922" name="innerRad" stackId="15" startPc="268444655"/>
-        <entry endPc="268444922" name="outerRad" stackId="14" startPc="268444655"/>
-        <entry endPc="268444922" name="sY" stackId="11" startPc="268444655"/>
-        <entry endPc="268444922" name="sX" stackId="10" startPc="268444655"/>
-        <entry arg="true" endPc="268444923" name="ry" stackId="9" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="rx" stackId="8" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="angle" stackId="6" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="color" stackId="2" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="offset" stackId="7" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="out" stackId="4" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="innerOffset" stackId="5" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="dc" stackId="1" startPc="268444651"/>
-        <entry arg="true" endPc="268444923" name="size" stackId="3" startPc="268444651"/>
-        <entry endPc="268438504" name="forSorting" stackId="8" startPc="268438056"/>
-        <entry endPc="268438504" name="edate" stackId="4" startPc="268438056"/>
-        <entry endPc="268438504" name="egoal" stackId="3" startPc="268438056"/>
-        <entry endPc="268438504" name="ename" stackId="2" startPc="268438056"/>
-        <entry endPc="268438504" name="etype" stackId="5" startPc="268438056"/>
-        <entry endPc="268438504" name="eventDiff" stackId="7" startPc="268438056"/>
-        <entry endPc="268438504" name="eventM" stackId="6" startPc="268438056"/>
-        <entry endPc="268438517" name="i" stackId="1" startPc="268438056"/>
-        <entry endPc="268438719" name="temp" stackId="13" startPc="268438660"/>
-        <entry endPc="268438722" name="d2" stackId="12" startPc="268438608"/>
-        <entry endPc="268438722" name="d1" stackId="11" startPc="268438608"/>
-        <entry endPc="268438735" name="j" stackId="10" startPc="268438608"/>
-        <entry endPc="268438748" name="i" stackId="9" startPc="268438578"/>
-        <entry endPc="268438824" name="i" stackId="14" startPc="268438770"/>
-        <entry arg="true" endPc="268439125" name="state" stackId="1" startPc="268439121"/>
-        <entry arg="true" endPc="268439130" name="state" stackId="1" startPc="268439126"/>
+        <entry arg="true" endPc="268437734" name="dc" stackId="1" startPc="268435740"/>
+        <entry endPc="268437733" name="width" stackId="2" startPc="268435744"/>
+        <entry endPc="268437733" name="height" stackId="3" startPc="268435744"/>
+        <entry endPc="268437733" name="eventDate" stackId="4" startPc="268435922"/>
+        <entry endPc="268437733" name="dateString" stackId="5" startPc="268435922"/>
+        <entry endPc="268437733" name="duration1" stackId="6" startPc="268435922"/>
+        <entry endPc="268437733" name="dateDiff" stackId="7" startPc="268435922"/>
+        <entry endPc="268437733" name="baroffsetX" stackId="8" startPc="268435922"/>
+        <entry endPc="268437733" name="baroffsetY" stackId="9" startPc="268435922"/>
+        <entry endPc="268437733" name="bar" stackId="10" startPc="268435922"/>
+        <entry endPc="268437733" name="tick" stackId="11" startPc="268435922"/>
+        <entry endPc="268437733" name="firstDayOfYear" stackId="12" startPc="268435922"/>
+        <entry endPc="268437733" name="lastDayOfYear" stackId="13" startPc="268435922"/>
+        <entry endPc="268437733" name="durationYear" stackId="14" startPc="268435922"/>
+        <entry endPc="268437733" name="nbDays" stackId="15" startPc="268435922"/>
+        <entry endPc="268437733" name="dayOfYearEvent" stackId="16" startPc="268435922"/>
+        <entry endPc="268437733" name="dayOfYearToday" stackId="17" startPc="268435922"/>
+        <entry endPc="268437733" name="tickEvent" stackId="18" startPc="268435922"/>
+        <entry endPc="268437733" name="barP" stackId="19" startPc="268435922"/>
+        <entry endPc="268436710" name="i" stackId="20" startPc="268436636"/>
+        <entry endPc="268436845" name="pageEvent" stackId="21" startPc="268436774"/>
+        <entry endPc="268437733" name="i" stackId="22" startPc="268437295"/>
+        <entry endPc="268438694" name="i" stackId="1" startPc="268438248"/>
+        <entry endPc="268438681" name="ename" stackId="2" startPc="268438248"/>
+        <entry endPc="268438681" name="egoal" stackId="3" startPc="268438248"/>
+        <entry endPc="268438681" name="edate" stackId="4" startPc="268438248"/>
+        <entry endPc="268438681" name="etype" stackId="5" startPc="268438248"/>
+        <entry endPc="268438681" name="eventM" stackId="6" startPc="268438248"/>
+        <entry endPc="268438681" name="eventDiff" stackId="7" startPc="268438248"/>
+        <entry endPc="268438681" name="forSorting" stackId="8" startPc="268438248"/>
+        <entry endPc="268438925" name="i" stackId="9" startPc="268438755"/>
+        <entry endPc="268438912" name="j" stackId="10" startPc="268438785"/>
+        <entry endPc="268438899" name="d1" stackId="11" startPc="268438785"/>
+        <entry endPc="268438899" name="d2" stackId="12" startPc="268438785"/>
+        <entry endPc="268438896" name="temp" stackId="13" startPc="268438837"/>
+        <entry endPc="268439001" name="i" stackId="14" startPc="268438947"/>
+        <entry arg="true" endPc="268439548" name="direction" stackId="1" startPc="268439307"/>
+        <entry endPc="268439547" name="nbEvents" stackId="2" startPc="268439319"/>
+        <entry arg="true" endPc="268443969" name="dc" stackId="1" startPc="268440133"/>
+        <entry endPc="268443968" name="width" stackId="2" startPc="268440137"/>
+        <entry endPc="268443968" name="height" stackId="3" startPc="268440137"/>
+        <entry endPc="268443968" name="hasRsc" stackId="4" startPc="268440137"/>
+        <entry endPc="268443968" name="icoType" stackId="5" startPc="268440413"/>
+        <entry endPc="268443968" name="showIcons" stackId="6" startPc="268440413"/>
+        <entry endPc="268443968" name="icons" stackId="7" startPc="268440413"/>
+        <entry endPc="268443968" name="eventDate" stackId="8" startPc="268440413"/>
+        <entry endPc="268443968" name="dateString" stackId="9" startPc="268440413"/>
+        <entry endPc="268443968" name="hourString" stackId="10" startPc="268440413"/>
+        <entry endPc="268443968" name="firstDayOfYear" stackId="11" startPc="268440413"/>
+        <entry endPc="268443968" name="lastDayOfYear" stackId="12" startPc="268440413"/>
+        <entry endPc="268443968" name="durationYear" stackId="13" startPc="268440413"/>
+        <entry endPc="268443968" name="nbDays" stackId="14" startPc="268440413"/>
+        <entry endPc="268443968" name="dayOfYearToday" stackId="15" startPc="268440413"/>
+        <entry endPc="268443968" name="arcP" stackId="16" startPc="268440413"/>
+        <entry endPc="268443968" name="eventDiffDay" stackId="17" startPc="268440413"/>
+        <entry endPc="268443968" name="radius" stackId="18" startPc="268440413"/>
+        <entry endPc="268443968" name="diffRx" stackId="19" startPc="268440413"/>
+        <entry endPc="268443968" name="diffRy" stackId="20" startPc="268440413"/>
+        <entry endPc="268443125" name="i" stackId="21" startPc="268442525"/>
+        <entry endPc="268443112" name="dateDiff" stackId="22" startPc="268442525"/>
+        <entry endPc="268443112" name="dayOfYearEvent" stackId="23" startPc="268442525"/>
+        <entry endPc="268443112" name="arcE" stackId="24" startPc="268442525"/>
+        <entry endPc="268443112" name="angleE" stackId="25" startPc="268442525"/>
+        <entry endPc="268443112" name="outerRad" stackId="26" startPc="268442525"/>
+        <entry endPc="268443112" name="innerRad" stackId="27" startPc="268442525"/>
+        <entry endPc="268443112" name="sX" stackId="28" startPc="268442525"/>
+        <entry endPc="268443112" name="sY" stackId="29" startPc="268442525"/>
+        <entry endPc="268443112" name="eX" stackId="30" startPc="268442525"/>
+        <entry endPc="268443112" name="eY" stackId="31" startPc="268442525"/>
+        <entry arg="true" endPc="268444235" name="dc" stackId="1" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="color" stackId="2" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="size" stackId="3" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="out" stackId="4" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="innerOffset" stackId="5" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="angle" stackId="6" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="offset" stackId="7" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="rx" stackId="8" startPc="268443970"/>
+        <entry arg="true" endPc="268444235" name="ry" stackId="9" startPc="268443970"/>
+        <entry endPc="268444234" name="sX" stackId="10" startPc="268443974"/>
+        <entry endPc="268444234" name="sY" stackId="11" startPc="268443974"/>
+        <entry endPc="268444234" name="eX" stackId="12" startPc="268443974"/>
+        <entry endPc="268444234" name="eY" stackId="13" startPc="268443974"/>
+        <entry endPc="268444234" name="outerRad" stackId="14" startPc="268443974"/>
+        <entry endPc="268444234" name="innerRad" stackId="15" startPc="268443974"/>
+        <entry endPc="268444234" name="i" stackId="16" startPc="268444056"/>
     </localVars>
     <annotations>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_tri"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_run"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_bike"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_swim"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_other"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DefaultUnitTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="other"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="hours"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowIconsTitlePrompt"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="weeks"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDatePrompt"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowIconsTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="run"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="tri"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveTypeTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DefaultUnitTitlePrompt"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="bike"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveNameTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_other"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_bike"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="settingUpdate"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveNameError"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveGoalTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveGoalError"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDateError"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDateTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NoObjective"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="days"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveNameTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="hours"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="swim"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="timerCallback"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="getGlanceView"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_run"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="run"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDateError"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowIconsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="bike"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveGoalError"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="onShow"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="days"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDatePrompt"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="onHide"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DefaultUnitTitle"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="initialize"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="onUpdate"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="weeks"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NoObjective"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_swim"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DefaultUnitTitlePrompt"/>
+        <annotationEntry annotation="glance" class="ObjectivesGlanceView" module="globals" symbol="onLayout"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="other"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="getInitialView"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_tri"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="tri"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowIconsTitlePrompt"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="onStop"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="onSettingsChanged"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveDateTitle"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="onStart"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ObjectiveGoalTitle"/>
+        <annotationEntry annotation="glance" class="ObjectivesWidgetApp" module="globals" symbol="initialize"/>
     </annotations>
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry label="globals/ObjectivesWidgetApp" offset="302" parentId="globals" symbolId="ObjectivesWidgetApp" type="class"/>
-        <dataEntry label="globals/ObjectivesGlanceView" offset="397" parentId="globals" symbolId="ObjectivesGlanceView" type="class"/>
-        <dataEntry label="globals/Rez" offset="1155" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="1234" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="1313" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="1344" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="1375" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="1406" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="1437" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/ObjectivesWidgetDelegate" offset="1644" parentId="globals" symbolId="ObjectivesWidgetDelegate" type="class"/>
-        <dataEntry label="globals/ObjectivesWidgetView" offset="1723" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
+        <dataEntry label="globals/ObjectivesGlanceView" offset="723" parentId="globals" symbolId="ObjectivesGlanceView" type="class"/>
+        <dataEntry label="globals/ObjectivesWidgetApp" offset="810" parentId="globals" symbolId="ObjectivesWidgetApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="1236" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/ObjectivesWidgetDelegate" offset="1315" parentId="globals" symbolId="ObjectivesWidgetDelegate" type="class"/>
+        <dataEntry label="globals/ObjectivesWidgetView" offset="1394" parentId="globals" symbolId="ObjectivesWidgetView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1521" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1600" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1631" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1662" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1693" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1900" parentId="Rez" symbolId="JsonData" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" endPc="268435597" name="initialize" parent="ObjectivesGlanceView" startPc="268435456">
+        <functionEntry accessMode="public" endPc="268435599" name="&lt;init&gt;" parent="ObjectivesGlanceView" startPc="268435581">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435602" name="onShow" parent="ObjectivesGlanceView" startPc="268435598">
+        <functionEntry accessMode="public" name="onShow" parent="ObjectivesGlanceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435623" name="timerCallback" parent="ObjectivesGlanceView" startPc="268435603">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435628" name="onHide" parent="ObjectivesGlanceView" startPc="268435624">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435633" name="onLayout" parent="ObjectivesGlanceView" startPc="268435629">
+        <functionEntry accessMode="public" endPc="268435602" name="onLayout" parent="ObjectivesGlanceView" startPc="268435600">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437839" name="onUpdate" parent="ObjectivesGlanceView" startPc="268435634">
+        <functionEntry accessMode="public" endPc="268435739" name="initialize" parent="ObjectivesGlanceView" startPc="268435603">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ObjectivesGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437734" name="onUpdate" parent="ObjectivesGlanceView" startPc="268435740">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439463" name="&lt;init&gt;" parent="ObjectivesGlanceView" startPc="268439445">
+        <functionEntry accessMode="public" endPc="268437753" name="timerCallback" parent="ObjectivesGlanceView" startPc="268437735">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439526" name="changeDuration" startPc="268439464">
+        <functionEntry accessMode="public" endPc="268437772" name="&lt;init&gt;" parent="ObjectivesWidgetApp" startPc="268437754">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439768" name="cycleObjective" startPc="268439527">
+        <functionEntry accessMode="public" endPc="268437775" name="onStart" parent="ObjectivesWidgetApp" startPc="268437773">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437806" name="onSettingsChanged" parent="ObjectivesWidgetApp" startPc="268437776">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437883" name="getInitialView" parent="ObjectivesWidgetApp" startPc="268437807">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437998" name="initialize" parent="ObjectivesWidgetApp" startPc="268437884">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438041" name="getGlanceView" parent="ObjectivesWidgetApp" startPc="268437999">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439173" name="settingUpdate" parent="ObjectivesWidgetApp" startPc="268438042">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439176" name="onStop" parent="ObjectivesWidgetApp" startPc="268439174">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439200" name="&lt;init&gt;" parent="Rez" startPc="268439177">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439219" name="&lt;init&gt;" parent="ObjectivesWidgetDelegate" startPc="268439201">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439224" name="onBack" parent="ObjectivesWidgetDelegate" startPc="268439220">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439246" name="onPreviousPage" parent="ObjectivesWidgetDelegate" startPc="268439225">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439267" name="initialize" parent="ObjectivesWidgetDelegate" startPc="268439247">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439284" name="onSelect" parent="ObjectivesWidgetDelegate" startPc="268439268">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439306" name="onNextPage" parent="ObjectivesWidgetDelegate" startPc="268439285">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439548" name="cycleObjective" startPc="268439307">
             <param id="direction"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440234" name="initialize" parent="ObjectivesWidgetView" startPc="268439769">
+        <functionEntry accessMode="public" endPc="268439609" name="changeDuration" startPc="268439549">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440239" name="onLayout" parent="ObjectivesWidgetView" startPc="268440235">
+        <functionEntry accessMode="public" endPc="268439628" name="&lt;init&gt;" parent="ObjectivesWidgetView" startPc="268439610">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ObjectivesWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439631" name="onLayout" parent="ObjectivesWidgetView" startPc="268439629">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440244" name="onShow" parent="ObjectivesWidgetView" startPc="268440240">
+        <functionEntry accessMode="public" endPc="268440132" name="initialize" parent="ObjectivesWidgetView" startPc="268439632">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268444645" name="onUpdate" parent="ObjectivesWidgetView" startPc="268440245">
+        <functionEntry accessMode="public" name="onHide" parent="ObjectivesWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443969" name="onUpdate" parent="ObjectivesWidgetView" startPc="268440133">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268444650" name="onHide" parent="ObjectivesWidgetView" startPc="268444646">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268444923" name="drawTicks" parent="ObjectivesWidgetView" startPc="268444651">
+        <functionEntry accessMode="public" endPc="268444235" name="drawTicks" parent="ObjectivesWidgetView" startPc="268443970">
             <param id="dc"/>
             <param id="color"/>
             <param id="size"/>
@@ -610,72 +658,22 @@
             <param id="ry"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445092" name="&lt;init&gt;" parent="ObjectivesWidgetView" startPc="268445074">
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438996" name="settingUpdate" parent="ObjectivesWidgetApp" startPc="268437840">
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439120" name="initialize" parent="ObjectivesWidgetApp" startPc="268438997">
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439125" name="onStart" parent="ObjectivesWidgetApp" startPc="268439121">
-            <param id="state"/>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439130" name="onStop" parent="ObjectivesWidgetApp" startPc="268439126">
-            <param id="state"/>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439202" name="getInitialView" parent="ObjectivesWidgetApp" startPc="268439131">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268439235" name="onSettingsChanged" parent="ObjectivesWidgetApp" startPc="268439203">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268439277" name="getGlanceView" parent="ObjectivesWidgetApp" startPc="268439236">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439444" name="&lt;init&gt;" parent="ObjectivesWidgetApp" startPc="268439426">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268444946" name="initialize" parent="ObjectivesWidgetDelegate" startPc="268444924">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268444966" name="onSelect" parent="ObjectivesWidgetDelegate" startPc="268444947">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268444974" name="onBack" parent="ObjectivesWidgetDelegate" startPc="268444967">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268444999" name="onNextPage" parent="ObjectivesWidgetDelegate" startPc="268444975">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268445024" name="onPreviousPage" parent="ObjectivesWidgetDelegate" startPc="268445000">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445073" name="&lt;init&gt;" parent="ObjectivesWidgetDelegate" startPc="268445055">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445049" name="&lt;init&gt;" parent="Drawables" startPc="268445049">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445051" name="&lt;init&gt;" parent="Fonts" startPc="268445051">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445053" name="&lt;init&gt;" parent="JsonData" startPc="268445053">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445052" name="&lt;init&gt;" parent="Layouts" startPc="268445052">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445050" name="&lt;init&gt;" parent="Menus" startPc="268445050">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445054" name="&lt;init&gt;" parent="Strings" startPc="268445054">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445048" name="&lt;init&gt;" parent="Rez" startPc="268445025">
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
             <documentation/>
         </functionEntry>
     </functions>

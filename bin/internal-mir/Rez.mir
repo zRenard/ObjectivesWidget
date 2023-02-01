@@ -1,0 +1,105 @@
+[ @file = "Rez.mc"; @line = 1; ]
+module Rez {
+    [ @file = "Rez.mc"; @line = 1; ]
+    <init> {
+    }
+    [ @file = "Rez.mc"; @line = 2; ]
+    module Drawables {
+        [ @file = "Rez.mc"; @line = 2; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 3; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 4; @position = 19; initialized = true; ]
+        var id_tri as Symbol;
+        [ @file = "Rez.mc"; @line = 5; @position = 19; initialized = true; ]
+        var id_run as Symbol;
+        [ @file = "Rez.mc"; @line = 6; @position = 19; initialized = true; ]
+        var id_bike as Symbol;
+        [ @file = "Rez.mc"; @line = 7; @position = 19; initialized = true; ]
+        var id_swim as Symbol;
+        [ @file = "Rez.mc"; @line = 8; @position = 19; initialized = true; ]
+        var id_other as Symbol;
+        [ @file = "Rez.mc"; @line = 9; @position = 19; initialized = true; ]
+        var LauncherIcon as Symbol;
+    }
+    [ @file = "Rez.mc"; @line = 11; ]
+    module Fonts {
+        [ @file = "Rez.mc"; @line = 11; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 13; ]
+    module JsonData {
+        [ @file = "Rez.mc"; @line = 13; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 15; ]
+    module Layouts {
+        [ @file = "Rez.mc"; @line = 15; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 17; ]
+    module Menus {
+        [ @file = "Rez.mc"; @line = 17; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 19; ]
+    module Strings {
+        [ @file = "Rez.mc"; @line = 19; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 20; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 21; @position = 19; initialized = true; ]
+        var DefaultUnitTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 22; @position = 19; initialized = true; ]
+        var other as Symbol;
+        [ @file = "Rez.mc"; @line = 23; @position = 19; initialized = true; ]
+        var hours as Symbol;
+        [ @file = "Rez.mc"; @line = 24; @position = 19; initialized = true; ]
+        var ShowIconsTitlePrompt as Symbol;
+        [ @file = "Rez.mc"; @line = 25; @position = 19; initialized = true; ]
+        var weeks as Symbol;
+        [ @file = "Rez.mc"; @line = 26; @position = 19; initialized = true; ]
+        var ObjectiveDatePrompt as Symbol;
+        [ @file = "Rez.mc"; @line = 27; @position = 19; initialized = true; ]
+        var ShowIconsTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 28; @position = 19; initialized = true; ]
+        var run as Symbol;
+        [ @file = "Rez.mc"; @line = 29; @position = 19; initialized = true; ]
+        var tri as Symbol;
+        [ @file = "Rez.mc"; @line = 30; @position = 19; initialized = true; ]
+        var ObjectiveTypeTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 31; @position = 19; initialized = true; ]
+        var DefaultUnitTitlePrompt as Symbol;
+        [ @file = "Rez.mc"; @line = 32; @position = 19; initialized = true; ]
+        var AppName as Symbol;
+        [ @file = "Rez.mc"; @line = 33; @position = 19; initialized = true; ]
+        var bike as Symbol;
+        [ @file = "Rez.mc"; @line = 34; @position = 19; initialized = true; ]
+        var ObjectiveNameTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 35; @position = 19; initialized = true; ]
+        var ObjectiveNameError as Symbol;
+        [ @file = "Rez.mc"; @line = 36; @position = 19; initialized = true; ]
+        var ObjectiveGoalTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 37; @position = 19; initialized = true; ]
+        var ObjectiveGoalError as Symbol;
+        [ @file = "Rez.mc"; @line = 38; @position = 19; initialized = true; ]
+        var ObjectiveDateError as Symbol;
+        [ @file = "Rez.mc"; @line = 39; @position = 19; initialized = true; ]
+        var ObjectiveDateTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 40; @position = 19; initialized = true; ]
+        var NoObjective as Symbol;
+        [ @file = "Rez.mc"; @line = 41; @position = 19; initialized = true; ]
+        var days as Symbol;
+        [ @file = "Rez.mc"; @line = 42; @position = 19; initialized = true; ]
+        var swim as Symbol;
+    }
+}
+[ @file = "Rez.mc"; @line = 1; ]
+<init> {
+}

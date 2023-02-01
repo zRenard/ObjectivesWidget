@@ -6,7 +6,7 @@ using Toybox.Time.Gregorian;
 class ObjectivesWidgetApp extends Application.AppBase {
 
 	function settingUpdate() {
-	    durationSelected = Application.getApp().getProperty("DefaultUnit");
+	    durationSelected = Application.Properties.getValue("DefaultUnit");
 		todayM = new Time.Moment(Time.today().value());    
 		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
 	
@@ -16,10 +16,10 @@ class ObjectivesWidgetApp extends Application.AppBase {
         
 		events = [];
         for( var i = 0; i < maxEvents; i += 1 ) {
-        	var ename = Application.getApp().getProperty("Objective"+(i+1)+"-Name");
-        	var egoal = Application.getApp().getProperty("Objective"+(i+1)+"-Goal");
-        	var edate = Application.getApp().getProperty("Objective"+(i+1)+"-Date"); // 2020-05-11 07:00 or 2020-05-11
-        	var etype = Application.getApp().getProperty("Objective"+(i+1)+"-Type");
+        	var ename = Application.Properties.getValue("Objective"+(i+1)+"-Name");
+        	var egoal = Application.Properties.getValue("Objective"+(i+1)+"-Goal");
+        	var edate = Application.Properties.getValue("Objective"+(i+1)+"-Date"); // 2020-05-11 07:00 or 2020-05-11
+        	var etype = Application.Properties.getValue("Objective"+(i+1)+"-Type");
         	 
         	var eventM = new Time.Moment(edate);
         	var eventDiff = eventM.compare(todayM);
@@ -28,7 +28,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
         		events.add([ename, egoal, eventM ,etype, eventDiff, forSorting]);
         		nbEvents=nbEvents+1;
 	    	} else {
-	    	 Application.getApp().setProperty("Objective"+(i+1)+"-Date", todayM.value());
+	    	 Application.Properties.setValue("Objective"+(i+1)+"-Date", todayM.value());
 	    	}
 	    }
 	    

@@ -1,0 +1,514 @@
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 1; ]
+using Toybox.Application;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 2; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 3; ]
+using Toybox.Time;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 4; ]
+using Toybox.Time.Gregorian;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 6; ]
+class ObjectivesWidgetApp extends Application.AppBase{
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 6; ]
+    <init> {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 6; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 8; ]
+    function settingUpdate() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_8_26_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 9 5 ]
+        %tmp.1 = getm $.Toybox.Application;
+        %tmp.2 = getv %tmp.1 :Properties;
+        %tmp.3 = getv function %tmp.2 :getValue;
+        %tmp.4 = "DefaultUnit";
+        %tmp.5 = invoke %tmp.2 %tmp.3(%tmp.4);
+        putv self :durationSelected %tmp.5;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 10 2 ]
+        %tmp.8 = getm $.Toybox.Time;
+        %tmp.9 = getv function ? %tmp.8 :Moment;
+        %tmp.10 = getm $.Toybox.Time;
+        %tmp.11 = getv function %tmp.10 :today;
+        %tmp.12 = invoke %tmp.10 %tmp.11();
+        %tmp.13 = getv function %tmp.12 :value;
+        %tmp.14 = invoke %tmp.12 %tmp.13();
+        %tmp.6 = newc %tmp.9 (%tmp.14);
+        putv self :todayM %tmp.6;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 11 2 ]
+        %tmp.15 = getm $.Toybox.Time.Gregorian;
+        %tmp.16 = getv function %tmp.15 :info;
+        %tmp.18 = getv ? :todayM;
+        %tmp.19 = getm $.Toybox.Time;
+        %tmp.20 = getv %tmp.19 :FORMAT_MEDIUM;
+        %tmp.21 = invoke %tmp.15 %tmp.16(%tmp.18, %tmp.20);
+        putv self :today %tmp.21;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 13 8 ]
+        %tmp.22 = 0;
+        putv self :selection %tmp.22;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 14 8 ]
+        %tmp.23 = 0;
+        putv self :nextEvent %tmp.23;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 15 8 ]
+        %tmp.24 = 0;
+        putv self :nbEvents %tmp.24;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 17 2 ]
+        %tmp.25 = newa 0;
+        putv self :events %tmp.25;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 18 8 ]
+        for @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_test @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_incr @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_init:
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_begin" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_end" ]
+        %i.1 = local;
+        %tmp.26 = 0;
+        lputv %i.1 %tmp.26;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_test:
+        %tmp.28 = lgetv %i.1;
+        %tmp.30 = getv ? :maxEvents;
+        %tmp.31 = lt %tmp.28 %tmp.30;
+        bf %tmp.31 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_begin:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 19 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %ename.2 = local;
+        %tmp.32 = getm $.Toybox.Application;
+        %tmp.33 = getv %tmp.32 :Properties;
+        %tmp.34 = getv function %tmp.33 :getValue;
+        %tmp.35 = "Objective";
+        %tmp.37 = lgetv %i.1;
+        %tmp.38 = 1;
+        %tmp.39 = add %tmp.37 %tmp.38;
+        %tmp.40 = add %tmp.35 %tmp.39;
+        %tmp.41 = "-Name";
+        %tmp.42 = add %tmp.40 %tmp.41;
+        %tmp.43 = invoke %tmp.33 %tmp.34(%tmp.42);
+        lputv %ename.2 %tmp.43;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 20 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %egoal.3 = local;
+        %tmp.44 = getm $.Toybox.Application;
+        %tmp.45 = getv %tmp.44 :Properties;
+        %tmp.46 = getv function %tmp.45 :getValue;
+        %tmp.47 = "Objective";
+        %tmp.49 = lgetv %i.1;
+        %tmp.50 = 1;
+        %tmp.51 = add %tmp.49 %tmp.50;
+        %tmp.52 = add %tmp.47 %tmp.51;
+        %tmp.53 = "-Goal";
+        %tmp.54 = add %tmp.52 %tmp.53;
+        %tmp.55 = invoke %tmp.45 %tmp.46(%tmp.54);
+        lputv %egoal.3 %tmp.55;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 21 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %edate.4 = local;
+        %tmp.56 = getm $.Toybox.Application;
+        %tmp.57 = getv %tmp.56 :Properties;
+        %tmp.58 = getv function %tmp.57 :getValue;
+        %tmp.59 = "Objective";
+        %tmp.61 = lgetv %i.1;
+        %tmp.62 = 1;
+        %tmp.63 = add %tmp.61 %tmp.62;
+        %tmp.64 = add %tmp.59 %tmp.63;
+        %tmp.65 = "-Date";
+        %tmp.66 = add %tmp.64 %tmp.65;
+        %tmp.67 = invoke %tmp.57 %tmp.58(%tmp.66);
+        lputv %edate.4 %tmp.67;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 22 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %etype.5 = local;
+        %tmp.68 = getm $.Toybox.Application;
+        %tmp.69 = getv %tmp.68 :Properties;
+        %tmp.70 = getv function %tmp.69 :getValue;
+        %tmp.71 = "Objective";
+        %tmp.73 = lgetv %i.1;
+        %tmp.74 = 1;
+        %tmp.75 = add %tmp.73 %tmp.74;
+        %tmp.76 = add %tmp.71 %tmp.75;
+        %tmp.77 = "-Type";
+        %tmp.78 = add %tmp.76 %tmp.77;
+        %tmp.79 = invoke %tmp.69 %tmp.70(%tmp.78);
+        lputv %etype.5 %tmp.79;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 24 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %eventM.6 = local;
+        %tmp.82 = getm $.Toybox.Time;
+        %tmp.83 = getv function ? %tmp.82 :Moment;
+        %tmp.85 = lgetv %edate.4;
+        %tmp.80 = newc %tmp.83 (%tmp.85);
+        lputv %eventM.6 %tmp.80;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 25 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %eventDiff.7 = local;
+        %tmp.86 = lgetv %eventM.6;
+        %tmp.87 = getv function %tmp.86 :compare;
+        %tmp.89 = getv ? :todayM;
+        %tmp.90 = invoke %tmp.86 %tmp.87(%tmp.89);
+        lputv %eventDiff.7 %tmp.90;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 26 9 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop" ]
+        %forSorting.8 = local;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_begin:
+        %tmp.92 = lgetv %eventDiff.7;
+        %tmp.93 = 0;
+        %tmp.94 = lt %tmp.92 %tmp.93;
+        bf %tmp.94 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_false;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_true:
+        %tmp.95 = 0;
+        push %tmp.95;
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_false:
+        %tmp.97 = lgetv %eventDiff.7;
+        push %tmp.97;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_end:
+        %tmp.98 = phi [%tmp.94 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_begin] [%tmp.95 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_true] [%tmp.97 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_false] [%tmp.98 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_26_27_end];
+        lputv %forSorting.8 %tmp.98;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 27 9 ]
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_stmt:
+        %tmp.99 = lgetv %ename.2;
+        %tmp.100 = getv function %tmp.99 :length;
+        %tmp.101 = invoke %tmp.99 %tmp.100();
+        %tmp.102 = 0;
+        %tmp.103 = gt %tmp.101 %tmp.102;
+        bf %tmp.103 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_false;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_true:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_31_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 28 10 ]
+        %tmp.105 = getv ? :events;
+        %tmp.106 = getv function %tmp.105 :add;
+        %tmp.107 = newa 6;
+        %tmp.109 = lgetv %ename.2;
+        %tmp.110 = dup %tmp.107;
+        %tmp.111 = aputv %tmp.110 0 %tmp.109;
+        %tmp.113 = lgetv %egoal.3;
+        %tmp.114 = dup %tmp.111;
+        %tmp.115 = aputv %tmp.114 1 %tmp.113;
+        %tmp.117 = lgetv %eventM.6;
+        %tmp.118 = dup %tmp.115;
+        %tmp.119 = aputv %tmp.118 2 %tmp.117;
+        %tmp.121 = lgetv %etype.5;
+        %tmp.122 = dup %tmp.119;
+        %tmp.123 = aputv %tmp.122 3 %tmp.121;
+        %tmp.125 = lgetv %eventDiff.7;
+        %tmp.126 = dup %tmp.123;
+        %tmp.127 = aputv %tmp.126 4 %tmp.125;
+        %tmp.129 = lgetv %forSorting.8;
+        %tmp.130 = dup %tmp.127;
+        %tmp.131 = aputv %tmp.130 5 %tmp.129;
+        invoke %tmp.105 %tmp.106(%tmp.131);
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 29 10 ]
+        %tmp.133 = getv ? :nbEvents;
+        %tmp.134 = 1;
+        %tmp.135 = add %tmp.133 %tmp.134;
+        putv self :nbEvents %tmp.135;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_31_stop:
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_false:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_30_13_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 31 7 ]
+        %tmp.136 = getm $.Toybox.Application;
+        %tmp.137 = getv %tmp.136 :Properties;
+        %tmp.138 = getv function %tmp.137 :setValue;
+        %tmp.139 = "Objective";
+        %tmp.141 = lgetv %i.1;
+        %tmp.142 = 1;
+        %tmp.143 = add %tmp.141 %tmp.142;
+        %tmp.144 = add %tmp.139 %tmp.143;
+        %tmp.145 = "-Date";
+        %tmp.146 = add %tmp.144 %tmp.145;
+        %tmp.148 = getv ? :todayM;
+        %tmp.149 = getv function %tmp.148 :value;
+        %tmp.150 = invoke %tmp.148 %tmp.149();
+        invoke %tmp.137 %tmp.138(%tmp.146, %tmp.150);
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_30_13_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_27_9_if_end:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_48_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_incr:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 18 ]
+        %tmp.151 = lgetv %i.1;
+        %tmp.152 = 1;
+        %tmp.153 = add %tmp.151 %tmp.152;
+        lputv %i.1 %tmp.153;
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_test;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_18_8_for_end:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 35 5 ]
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_stmt:
+        %tmp.155 = getv ? :nbEvents;
+        %tmp.156 = 0;
+        %tmp.157 = eq %tmp.155 %tmp.156;
+        bf %tmp.157 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_false;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_true:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_22_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 36 6 ]
+        %tmp.158 = "";
+        putv self :eventName %tmp.158;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_22_stop:
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_false:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_37_12_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 38 9 ]
+        for @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_test @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_incr @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_init:
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_begin" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_end" ]
+        %i.9 = local;
+        %tmp.159 = 0;
+        lputv %i.9 %tmp.159;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_test:
+        %tmp.161 = lgetv %i.9;
+        %tmp.163 = getv ? :nbEvents;
+        %tmp.164 = 1;
+        %tmp.165 = sub %tmp.163 %tmp.164;
+        %tmp.166 = lt %tmp.161 %tmp.165;
+        bf %tmp.166 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_begin:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_46_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 39 10 ]
+        for @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_test @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_incr @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_init:
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_begin" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_end" ]
+        %j.10 = local;
+        %tmp.167 = 0;
+        lputv %j.10 %tmp.167;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_test:
+        %tmp.169 = lgetv %j.10;
+        %tmp.171 = getv ? :nbEvents;
+        %tmp.173 = lgetv %i.9;
+        %tmp.174 = sub %tmp.171 %tmp.173;
+        %tmp.175 = 1;
+        %tmp.176 = sub %tmp.174 %tmp.175;
+        %tmp.177 = lt %tmp.169 %tmp.176;
+        bf %tmp.177 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_begin:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 40 11 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_stop" ]
+        %d1.11 = local;
+        %tmp.179 = getv ? :events;
+        %tmp.181 = lgetv %j.10;
+        %tmp.182 = agetv %tmp.179 %tmp.181;
+        %tmp.183 = 4;
+        %tmp.184 = agetv %tmp.182 %tmp.183;
+        lputv %d1.11 %tmp.184;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 41 11 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_stop" ]
+        %d2.12 = local;
+        %tmp.186 = getv ? :events;
+        %tmp.188 = lgetv %j.10;
+        %tmp.189 = 1;
+        %tmp.190 = add %tmp.188 %tmp.189;
+        %tmp.191 = agetv %tmp.186 %tmp.190;
+        %tmp.192 = 4;
+        %tmp.193 = agetv %tmp.191 %tmp.192;
+        lputv %d2.12 %tmp.193;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 42 11 ]
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_11_if_stmt:
+        %tmp.195 = lgetv %d1.11;
+        %tmp.197 = lgetv %d2.12;
+        %tmp.198 = gt %tmp.195 %tmp.197;
+        bf %tmp.198 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_11_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_11_if_true:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_25_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 43 18 ]
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_25_start" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_25_stop" ]
+        %temp.13 = local;
+        %tmp.200 = getv ? :events;
+        %tmp.202 = lgetv %j.10;
+        %tmp.203 = agetv %tmp.200 %tmp.202;
+        lputv %temp.13 %tmp.203;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 44 18 ]
+        %tmp.204 = getv self :events;
+        %tmp.206 = getv ? :events;
+        %tmp.208 = lgetv %j.10;
+        %tmp.209 = 1;
+        %tmp.210 = add %tmp.208 %tmp.209;
+        %tmp.211 = agetv %tmp.206 %tmp.210;
+        %tmp.213 = lgetv %j.10;
+        aputv %tmp.204 %tmp.213 %tmp.211;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 45 18 ]
+        %tmp.214 = getv self :events;
+        %tmp.216 = lgetv %temp.13;
+        %tmp.218 = lgetv %j.10;
+        %tmp.219 = 1;
+        %tmp.220 = add %tmp.218 %tmp.219;
+        aputv %tmp.214 %tmp.220 %tmp.216;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_25_stop:
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_11_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_42_11_if_end:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_49_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_incr:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 39 ]
+        %tmp.223 = lgetv %j.10;
+        %tmp.224 = add %tmp.223 1;
+        lputv %j.10 %tmp.224;
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_test;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_39_10_for_end:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_46_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_incr:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 38 ]
+        %tmp.227 = lgetv %i.9;
+        %tmp.228 = add %tmp.227 1;
+        lputv %i.9 %tmp.228;
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_test;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_38_9_for_end:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 49 3 ]
+        for @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_test @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_incr @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_init:
+        [ "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_begin" "C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_end" ]
+        %i.14 = local;
+        %tmp.229 = 0;
+        lputv %i.14 %tmp.229;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_test:
+        %tmp.231 = lgetv %i.14;
+        %tmp.233 = getv ? :nbEvents;
+        %tmp.234 = lt %tmp.231 %tmp.233;
+        bf %tmp.234 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_begin:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_38_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 50 4 ]
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_4_if_stmt:
+        %tmp.236 = getv ? :events;
+        %tmp.238 = lgetv %i.14;
+        %tmp.239 = agetv %tmp.236 %tmp.238;
+        %tmp.240 = 4;
+        %tmp.241 = agetv %tmp.239 %tmp.240;
+        %tmp.242 = 0;
+        %tmp.243 = gte %tmp.241 %tmp.242;
+        bf %tmp.243 @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_4_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_4_if_true:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_25_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 50 27 ]
+        %tmp.245 = lgetv %i.14;
+        putv self :selection %tmp.245;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 50 42 ]
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_25_stop:
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_4_if_end;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_50_4_if_end:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_38_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_incr:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 49 ]
+        %tmp.248 = lgetv %i.14;
+        %tmp.249 = add %tmp.248 1;
+        lputv %i.14 %tmp.249;
+        goto @C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_test;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_49_3_for_end:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 52 6 ]
+        %tmp.251 = getv ? :events;
+        %tmp.253 = getv ? :selection;
+        %tmp.254 = agetv %tmp.251 %tmp.253;
+        %tmp.255 = 0;
+        %tmp.256 = agetv %tmp.254 %tmp.255;
+        putv self :eventName %tmp.256;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 53 6 ]
+        %tmp.258 = getv ? :events;
+        %tmp.260 = getv ? :selection;
+        %tmp.261 = agetv %tmp.258 %tmp.260;
+        %tmp.262 = 1;
+        %tmp.263 = agetv %tmp.261 %tmp.262;
+        putv self :eventGoal %tmp.263;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 54 3 ]
+        %tmp.265 = getv ? :events;
+        %tmp.267 = getv ? :selection;
+        %tmp.268 = agetv %tmp.265 %tmp.267;
+        %tmp.269 = 2;
+        %tmp.270 = agetv %tmp.268 %tmp.269;
+        putv self :eventDateMoment %tmp.270;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 55 3 ]
+        %tmp.272 = getv ? :events;
+        %tmp.274 = getv ? :selection;
+        %tmp.275 = agetv %tmp.272 %tmp.274;
+        %tmp.276 = 3;
+        %tmp.277 = agetv %tmp.275 %tmp.276;
+        putv self :eventType %tmp.277;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 56 3 ]
+        %tmp.279 = getv ? :events;
+        %tmp.281 = getv ? :selection;
+        %tmp.282 = agetv %tmp.279 %tmp.281;
+        %tmp.283 = 4;
+        %tmp.284 = agetv %tmp.282 %tmp.283;
+        putv self :eventDiff %tmp.284;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_37_12_stop:
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_35_5_if_end:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 59 2 ]
+        %tmp.286 = getv ? :selection;
+        putv self :nextEvent %tmp.286;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_8_26_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 62; ]
+    function initialize() as Void {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_62_26_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 63 2 ]
+        %tmp.3 = getm $.Toybox.Time;
+        %tmp.4 = getv function ? %tmp.3 :Moment;
+        %tmp.5 = getm $.Toybox.Time;
+        %tmp.6 = getv function %tmp.5 :now;
+        %tmp.7 = invoke %tmp.5 %tmp.6();
+        %tmp.8 = getv function %tmp.7 :value;
+        %tmp.9 = invoke %tmp.7 %tmp.8();
+        %tmp.1 = newc %tmp.4 (%tmp.9);
+        putv self :todayM %tmp.1;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 64 2 ]
+        %tmp.10 = getm $.Toybox.Time.Gregorian;
+        %tmp.11 = getv function %tmp.10 :info;
+        %tmp.13 = getv ? :todayM;
+        %tmp.14 = getm $.Toybox.Time;
+        %tmp.15 = getv %tmp.14 :FORMAT_MEDIUM;
+        %tmp.16 = invoke %tmp.10 %tmp.11(%tmp.13, %tmp.15);
+        putv self :today %tmp.16;
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 65 8 ]
+        %tmp.18 = getv ? :AppBase;
+        %tmp.19 = getv function %tmp.18 :initialize;
+        invoke %tmp.18 %tmp.19();
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_62_26_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 69; ]
+    function onStart(state) {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 73; ]
+    function onStop(state) {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 77; ]
+    function getInitialView() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_77_30_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 78 8 ]
+        %tmp.1 = newa 2;
+        %tmp.5 = getv ? :ObjectivesWidgetView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        %tmp.11 = getv ? :ObjectivesWidgetDelegate;
+        %tmp.8 = newc %tmp.11 ();
+        %tmp.12 = dup %tmp.7;
+        %tmp.13 = aputv %tmp.12 1 %tmp.8;
+        ret %tmp.13;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_77_30_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 81; ]
+    function onSettingsChanged() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_81_30_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 82 5 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :settingUpdate;
+        invoke %tmp.1 %tmp.2();
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 83 8 ]
+        %tmp.3 = getm $.Toybox.WatchUi;
+        %tmp.4 = getv function %tmp.3 :requestUpdate;
+        invoke %tmp.3 %tmp.4();
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_81_30_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 86; glance = true; ]
+    function getGlanceView() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_87_26_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc" 88 8 ]
+        %tmp.1 = newa 1;
+        %tmp.5 = getv ? :ObjectivesGlanceView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        ret %tmp.7;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetApp_mc_87_26_stop:
+    }
+}
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetApp.mc"; @line = 1; ]
+<init> {
+}

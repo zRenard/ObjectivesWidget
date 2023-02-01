@@ -1,0 +1,73 @@
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 1; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 2; ]
+using Toybox.System;
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 4; ]
+class ObjectivesWidgetDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 5; ]
+    function initialize() as Void {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_5_26_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 6 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_5_26_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 9; ]
+    function onSelect() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_9_24_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 10 8 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :changeDuration;
+        invoke %tmp.1 %tmp.2();
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 11 8 ]
+        %tmp.3 = true;
+        ret %tmp.3;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_9_24_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 14; ]
+    function onBack() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_14_22_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 15 5 ]
+        %tmp.1 = false;
+        ret %tmp.1;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_14_22_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 18; ]
+    function onNextPage() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_18_26_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 19 8 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :cycleObjective;
+        %tmp.3 = 1;
+        %tmp.4 = sub 0 %tmp.3;
+        invoke %tmp.1 %tmp.2(%tmp.4);
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 20 8 ]
+        %tmp.5 = true;
+        ret %tmp.5;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_18_26_stop:
+    }
+    [ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 23; ]
+    function onPreviousPage() {
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_23_30_start:
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 24 8 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :cycleObjective;
+        %tmp.3 = 1;
+        invoke %tmp.1 %tmp.2(%tmp.3);
+[ "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc" 25 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C_Users_fox_OneDrive_Projects_git_clones_ObjectivesWidget_source_ObjectivesWidgetDelegate_mc_23_30_stop:
+    }
+}
+[ @file = "C:\Users\fox\OneDrive\Projects\git_clones\ObjectivesWidget\source\ObjectivesWidgetDelegate.mc"; @line = 1; ]
+<init> {
+}

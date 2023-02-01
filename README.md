@@ -6,7 +6,7 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/d63c889f-927a
 # Settings
 
 ## Events
-Up to 6 events with for each
+Up to 9 events with for each
 * Name
 * Type (Swim, Bike, Run, Tri or other)
 * Date
@@ -20,6 +20,7 @@ Up to 6 events with for each
 
 ## Glance view
 * Progress bar show the year
+* Show the total number of objectives
 
 ## Classic view
 * White circle show the year progression
@@ -28,6 +29,10 @@ Up to 6 events with for each
 * Press up or down to cycle through events
 
 # Changes log
+## 1.5.7
+* (**new**) Up to 9 objectives
+* (**new**) Show the total number of objectives in glance view
+
 ## 1.5.6
 * (**new**) Add new devices 955/Solar, 745, Marq, and Venu
 * (**new**) Add support to the new SDK

@@ -74,14 +74,18 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 				dc.drawLine(baroffsetX+tick*i, baroffsetY+(height/2)-7, baroffsetX+tick*i, baroffsetY+(height/2)+7);
 			}
 	    	dc.drawRoundedRectangle(baroffsetX,baroffsetY+(height/2)-7, bar-baroffsetX, 14, 3);
-	    	if (eventName.length()<=15) {
-	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_TINY, eventName, Graphics.TEXT_JUSTIFY_LEFT);
+	    	if (nbEvents>1) {
+	    	 var pageEvent="("+ nbEvents + ")";
+	    	 dc.drawText(width-dc.getTextWidthInPixels(pageEvent,Graphics.FONT_SYSTEM_XTINY),0, Graphics.FONT_SYSTEM_XTINY, pageEvent, Graphics.TEXT_JUSTIFY_LEFT);
+	    	}
+	    	if (eventName.length()<=14) {
+	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_TINY,eventName, Graphics.TEXT_JUSTIFY_LEFT);
 	    	} else {
-	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_XTINY, eventName, Graphics.TEXT_JUSTIFY_LEFT);
+	    		dc.drawText(0,0, Graphics.FONT_SYSTEM_XTINY,eventName.substring(0,19), Graphics.TEXT_JUSTIFY_LEFT);
 	    	}
 	    	if (dateDiff==0) {
 	    		dc.setColor(Graphics.COLOR_YELLOW,Graphics.COLOR_TRANSPARENT);
-	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, "Race Day - Good Luck !", Graphics.TEXT_JUSTIFY_LEFT);
+	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY), Graphics.FONT_SYSTEM_XTINY, "Race Day - Good Luck !", Graphics.TEXT_JUSTIFY_LEFT);
 	    	} else if (dateDiff>0) {
 	    		dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    		dc.drawText(0,height-Graphics.getFontHeight(Graphics.FONT_XTINY ), Graphics.FONT_SYSTEM_XTINY, dateString + " - " + dateDiff +"d", Graphics.TEXT_JUSTIFY_LEFT);

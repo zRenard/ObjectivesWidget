@@ -7,7 +7,7 @@ Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/d63c889f-92
 # Possibilité de configuration
 
 ## Objectifs
-Jusqu'a 6 objectifs, avec pour chacun
+Jusqu'a 9 objectifs, avec pour chacun
 * Nom
 * Type (Natation, Vélo, Course à pied, Triathlon et autre)
 * Date
@@ -21,6 +21,7 @@ Jusqu'a 6 objectifs, avec pour chacun
 
 ## Pour la vue réduite
 * La barre de progression indique l'année
+* Le nombre d'objectif total
 
 ## Pour la vue classique
 * Le cercle blanc indique la progression de l'année
@@ -29,6 +30,10 @@ Jusqu'a 6 objectifs, avec pour chacun
 * Appuyer sur Haut et Bas pour naviguer entre les objectifs
 
 # Historique des version
+## 1.5.7
+* (**nouveautés**) Ajout du nombre d'objectif total dans la vue réduite
+* (**nouveautés**) Supporte 9 objectifs
+
 ## 1.5.6
 * (**nouveautés**) Ajout des nouvelles montres 955/Solar, 745, Marq, et Venu
 * (**nouveautés**) Support du nouveau SDK

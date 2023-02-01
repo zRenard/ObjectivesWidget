@@ -125,4 +125,61 @@
             <listEntry value="4">@Strings.other</listEntry>
         </settingConfig>
     </setting>
+
+    <setting propertyKey="@Properties.Objective7-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective7-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective7-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective7-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Objective8-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective8-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective8-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective8-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.Objective9-Name" title="@Strings.ObjectiveNameTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveNameError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective9-Goal" title="@Strings.ObjectiveGoalTitle">
+        <settingConfig type="alphaNumeric" maxLength="25" errorMessage="@Strings.ObjectiveGoalError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective9-Date" title="@Strings.ObjectiveDateTitle">
+        <settingConfig type="date" errorMessage="@Strings.ObjectiveDateError"/>
+    </setting>
+    <setting propertyKey="@Properties.Objective9-Type" title="@Strings.ObjectiveTypeTitle" prompt="@Strings.ObjectiveTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.swim</listEntry>
+            <listEntry value="1">@Strings.bike</listEntry>
+            <listEntry value="2">@Strings.run</listEntry>
+            <listEntry value="3">@Strings.tri</listEntry>
+            <listEntry value="4">@Strings.other</listEntry>
+        </settingConfig>
+    </setting>
 </settings>
