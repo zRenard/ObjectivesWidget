@@ -1,14 +1,15 @@
-using Toybox.WatchUi;
-using Toybox.Application;
-using Toybox.Graphics;
-using Toybox.Timer;
-using Toybox.System;
-using Toybox.Time;
-using Toybox.Time.Gregorian;
+import Toybox.WatchUi;
+import Toybox.Application;
+import Toybox.Graphics;
+import Toybox.Timer;
+import Toybox.System;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
+import Toybox.Lang;
 
 var maxEvents=9;
 var nbEvents;
-var events = [];
+var events as Array<Array> = [] as Array<Array>;
 var todayM;    
 var today;
 // Event selected
@@ -19,8 +20,8 @@ var eventType;
 var eventDiff;
 var selection;
 var nextEvent; // The immediate next event closer to today
-var durationUnits=[Gregorian.SECONDS_PER_DAY,7*Gregorian.SECONDS_PER_DAY,Gregorian.SECONDS_PER_HOUR];
-var durationUnitsLabel=["days","weeks","hours"];
+var durationUnits as Array<Integer> =[Gregorian.SECONDS_PER_DAY,7*Gregorian.SECONDS_PER_DAY,Gregorian.SECONDS_PER_HOUR] as Array<Integer>;
+var durationUnitsLabel as Array<String> =["days","weeks","hours"] as Array<String>;
 var durationSelected=0;
 
 function changeDuration() {
@@ -50,7 +51,7 @@ class ObjectivesWidgetView extends WatchUi.View {
 
     function initialize() {
         View.initialize();
-        ObjectivesWidgetApp.settingUpdate();
+		WatchUi.requestUpdate();
         triEventBitmap = WatchUi.loadResource(Rez.Drawables.id_tri);
         swimEventBitmap = WatchUi.loadResource(Rez.Drawables.id_swim);
         bikeEventBitmap = WatchUi.loadResource(Rez.Drawables.id_bike);

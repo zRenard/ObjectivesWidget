@@ -1,7 +1,7 @@
-using Toybox.Application;
-using Toybox.WatchUi;
-using Toybox.Time;
-using Toybox.Time.Gregorian;
+import Toybox.Application;
+import Toybox.WatchUi;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
 
 class ObjectivesWidgetApp extends Application.AppBase {
 
@@ -62,6 +62,7 @@ class ObjectivesWidgetApp extends Application.AppBase {
     function initialize() {
 		todayM = new Time.Moment(Time.now().value());    
 		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
+		settingUpdate();
         AppBase.initialize();
     }
 

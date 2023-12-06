@@ -1,10 +1,10 @@
-using Toybox.WatchUi;
-using Toybox.Application;
-using Toybox.Graphics;
-using Toybox.Timer;
-using Toybox.System;
-using Toybox.Time;
-using Toybox.Time.Gregorian;
+import Toybox.WatchUi;
+import Toybox.Application;
+import Toybox.Graphics;
+import Toybox.Timer;
+import Toybox.System;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
 
 (:glance)
 class ObjectivesGlanceView extends WatchUi.GlanceView {
@@ -13,7 +13,7 @@ class ObjectivesGlanceView extends WatchUi.GlanceView {
 		todayM = new Time.Moment(Time.today().value());    
 		today = Gregorian.info(todayM, Time.FORMAT_MEDIUM);
         GlanceView.initialize();
-        ObjectivesWidgetApp.settingUpdate();
+		WatchUi.requestUpdate();
     }
     
     function onShow() {

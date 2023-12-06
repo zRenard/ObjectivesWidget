@@ -29,6 +29,9 @@ Up to 9 events with for each
 * Press up or down to cycle through events
 
 # Changes log
+## 1.5.8
+* (**new**) Adding support forFenix7s pro, Fenix7 pro, Fenix7x pro, Forerunner 265, Forerunner 965, et Vivoactive 5
+* (**new**) Support new SDK
 ## 1.5.7
 * (**new**) Up to 9 objectives
 * (**new**) Show the total number of objectives in glance view
